@@ -8,7 +8,7 @@ The ownership of the article belongs to me
 Please indicate the source of the reprint  
 No commercial use in any form is allowed  
 Another access address:zhangyisui.top  
-welcome visit
+welcome
 
 这个是我的个人博客项目  
 基于hexo和next主题创建  
