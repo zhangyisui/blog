@@ -1,0 +1,474 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>一阁</title>
+  
+  <subtitle>Keep Fun</subtitle>
+  <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
+  
+  <link href="https://blog.zhangyisui.top/"/>
+  <updated>2021-09-03T05:08:21.201Z</updated>
+  <id>https://blog.zhangyisui.top/</id>
+  
+  <author>
+    <name>zhangyisui</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一些小技巧</title>
+    <link href="https://blog.zhangyisui.top/posts/67785cd5/"/>
+    <id>https://blog.zhangyisui.top/posts/67785cd5/</id>
+    <published>2021-09-01T13:23:50.722Z</published>
+    <updated>2021-09-03T05:08:21.201Z</updated>
+    
+    <content type="html"><![CDATA[<p>百度文库文档的下载/商品的历史价格查询/GitHub源码加速下载<span id="more"></span><br>以下是简便高效易理解的途径</p><h2 id="百度文库下载"><a href="#百度文库下载" class="headerlink" title="百度文库下载"></a>百度文库下载</h2><p>在相应文章页面网址框中在网址后面加vvv后直接回车<br>如<a href="https://wenku.baidu.com/view/745244caff0a79563c1ec5da50e2524de418d052?fr=agg">https://wenku.baidu.com/view/745244caff0a79563c1ec5da50e2524de418d052?fr=agg</a><br>改为<a href="https://wenku.baiduvvv.com/view/745244caff0a79563c1ec5da50e2524de418d052?fr=agg">https://wenku.baiduvvv.com/view/745244caff0a79563c1ec5da50e2524de418d052?fr=agg</a><br>之后会进入解析页面，直接点击下载即可<br>如提示需要关注公众号，关注获取暗号取关即可</p><h2 id="商品的历史价格查询"><a href="#商品的历史价格查询" class="headerlink" title="商品的历史价格查询"></a>商品的历史价格查询</h2><p>打开商品页面在https前加上wn.run/回车即可<br>如<a href="https://item.jd.com/13310468.html">https://item.jd.com/13310468.html</a><br>改为<a href="https://wn.run/https://item.jd.com/13310468.html">wn.run/https://item.jd.com/13310468.html</a><br>之后会进入万能命令页面，点击查询历史价格即可<br>此方法可应用于不同的多种网站<br>包括解析视频<br>查找油猴脚本等</p><h2 id="GitHub源码加速下载"><a href="#GitHub源码加速下载" class="headerlink" title="GitHub源码加速下载"></a>GitHub源码加速下载</h2><p>直接在需要的下载页面在github后面加1s即可直接打开在线vscode页面<br>下载即可<br>懂GitHub的人应该不需要教程<br>信息在这 自己探索</p><h2 id="附言"><a href="#附言" class="headerlink" title="附言"></a>附言</h2><p>以上所有问题都可以通过脚本解决<br>可以参考之前的<a href="/posts/e3d61257/">教程</a>安装油猴后自行探索<br>此外，网站具有时效性，失效只在一瞬间<br>404是解决不了的问题，且用且珍惜</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;百度文库文档的下载/商品的历史价格查询/GitHub源码加速下载</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>生日</title>
+    <link href="https://blog.zhangyisui.top/posts/4ef51d13/"/>
+    <id>https://blog.zhangyisui.top/posts/4ef51d13/</id>
+    <published>2021-08-30T01:59:18.928Z</published>
+    <updated>2021-08-30T12:16:45.912Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天是我的生日<span id="more"></span>，说实话，我早已不再在意所谓生日<br>但在人际交往中，我的朋友们还在乎，我的亲人们也在乎<br>不知道我是否应该因为外界的在乎而在乎<br>生日于我，不过是对自己出生的日子的一种标记，不过人类总会找各种借口庆祝各种事，所以庆祝生日也成了人类生活的一环，实际上并没有什么意义，人们只是想找个借口庆祝而已<br>与我关系最好的几位朋友，都知晓我并不在乎生日，我不会假装很在乎的样子去记住他们的生日，他们也不会做出有所谓的样子，记住我的生日<br>那我到底该不该过生日？我一直以来都犹犹豫豫的，因为这毕竟不是一个经常出现的问题，所以我思考，推翻，迟疑，最后还是变成了一贯的随意，不因为别人在乎就在乎，不因为自己虚荣而虚荣，把秩序变混乱，把理想变现实，把思考融入我自己的逻辑，将选项减少到零，最后在空隙里填上我自己的答案<br>其实生日也是浪漫主义的一环，做为一个诗人，在平淡如水的生活里是很需要一些乐趣的，但对我来说，这份乐趣，有没有其他人都是一样的，所以我不需要庆祝，或者说不需要有很多人为我庆祝，也不需要什么特殊的仪式用来庆祝，我只是需要自己站在某个地方，然后对自己说上一句<br>生日快乐。<br>这就是我理想中的庆祝。</p><hr><p>ps：在昨天首发于我新创建的tg频道，说来也巧，刚刚创建两天的频道发出的第一条消息居然是庆祝自己的生日，因为一些原因没来得及在博客上发布，更巧的是，昨天是我的阴历生日，而今天是阳历生日，所以说不上来迟，只能说是恰好<br>顺便提一下tg频道：<a href="https://t.me/zhangyisui">yisui world</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;今天是我的生日</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>挑食联想</title>
+    <link href="https://blog.zhangyisui.top/posts/8f220670/"/>
+    <id>https://blog.zhangyisui.top/posts/8f220670/</id>
+    <published>2021-08-11T12:18:04.083Z</published>
+    <updated>2021-08-11T13:18:42.884Z</updated>
+    
+    <content type="html"><![CDATA[<p>胡思乱想罢了<br>其实也没什么特别讨厌的东西<span id="more"></span><br>即使讨厌也不是完全不能吃<br>吃当然可以<br>只不过相对来说不喜欢<br>不喜欢就是不喜欢<br>没有什么特别的含义<br>也不需要有原因<br>如果够饥饿的话<br>人类是什么东西都能吃得下去的<br>瓜子皮，西瓜皮啊都能吃对吧<br>所以其实并没有什么挑食与否<br>只是在现有的情况下做出自己所喜欢的选择<br>只要以自己的身体健康为前提<br>吃自己想吃的什么都是一样的<br>人们反对挑食<br>是因为挑食会让人不健康<br>而不是因为挑食本身<br>其他的很多事也是如此，人们只是反对它带来的负面影响<br>而有时候事件本身并不一定真的会带来负面影响<br>那些反对的过分的家伙也该想一想<br>自己是否只是借着反对<br>借着所谓反对的名头<br>抬高自己，烘托别人的不知好歹<br>来让自己处于道德上或者其他什么位置的制高点来获得优越感</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;胡思乱想罢了&lt;br&gt;其实也没什么特别讨厌的东西</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Flipped/怦然心动</title>
+    <link href="https://blog.zhangyisui.top/posts/c2a155b0/"/>
+    <id>https://blog.zhangyisui.top/posts/c2a155b0/</id>
+    <published>2021-08-08T09:39:53.909Z</published>
+    <updated>2021-08-08T09:41:15.748Z</updated>
+    
+    <content type="html"><![CDATA[<p>可能这就是我不能欣赏的来的美<br>但我承认这在某种程度上的确是一个很好的故事，叙事角度也很新颖<span id="more"></span><br>但女主对男主的喜欢在我看来无法理解<br>直到最后，男主作为一个整体和他的部分之间仍没有所谓的完整的融洽的美<br>但女主作为一个女性，虽然并非非常出众，但孵小鸡和保卫梧桐树这两件事已经足够不一般<br>而且她足够独立，足够清醒，这对当代女性来说，尤其是对年轻女性来说，绝对不可多得<br>更出众的是女主对美的敏感，这大概也是她喜欢上男主的原因吧<br>但她喜欢上男主到最后的唯一原因，不过是男主的眼睛<br>当然校花的50美金已经能反映出，也不仅仅是眼睛<br>但这个点还不足以成为这份爱的全部理由，可在电影中仍被常规化了<br>也就是说，男主的付出和他收到的爱，不成正比<br>在整体的剧情方面，女主付出的比男主要多很多，最后却仅仅因为一棵树就原谅他的所作所为，实在说不过去<br>可能只是单纯对深情的刻画不够多吧<br>男主很诚恳，但的确没有什么非常亮眼的点，过度表现外貌反而淹没了男主人格的闪光机会，诚实礼貌这些品质并不足以闪光，而此外男主并没有表现出更多值得称赞的东西而且付出的太少了，女主却只等他迈出一步，就迈步奔跑<br>而这个故事，非要说他们般配的话，也只能说是平凡的般配，更像是丑小鸭女主依靠性格和能力成为白天鹅获得梦中人青睐的故事，大概是更偏向女性受众吧<br>我无法欣赏，但我承认，它的确不差，毕竟众口难调，有人不喜欢也很正常，只不过恰好，我就是不喜欢的那批人，相对来说我更喜欢童话和浪漫主义，虽然多数时候人类得不到的东西才会被写进称为浪漫的史诗，但我喜欢的永远是悬崖上的那朵花，与浪漫无关</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;可能这就是我不能欣赏的来的美&lt;br&gt;但我承认这在某种程度上的确是一个很好的故事，叙事角度也很新颖</summary>
+    
+    
+    
+    <category term="影评" scheme="https://blog.zhangyisui.top/categories/%E5%BD%B1%E8%AF%84/"/>
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="影评" scheme="https://blog.zhangyisui.top/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>浪客剑心</title>
+    <link href="https://blog.zhangyisui.top/posts/14cf7756/"/>
+    <id>https://blog.zhangyisui.top/posts/14cf7756/</id>
+    <published>2021-07-28T11:25:35.684Z</published>
+    <updated>2021-07-28T11:27:01.902Z</updated>
+    
+    <content type="html"><![CDATA[<p>看完这部电影我第一感觉是羡慕，羡慕剑心的生活，<span id="more"></span>虽然他生活在血光中，但那已经是曾经，而且他总能遇到值得爱也爱他的人<br>而且他的一生壮烈，称得上是一个好故事，但我们多数人只能过着平淡的生活<br>直白点，普通的一生。<br>和他壮烈的一生相比多数人的人生都过于平淡，平淡的失去，平淡的拥有，平淡的哭或笑，平淡的死。我当然明白这是个故事，不过故事未必就未曾发生过<br>我们很多人和故事里的人相比什么都不是，而有的人确确实实会被写进历史，虽然历史大多经过美化才能拥有故事性，但能活在故事里已然足矣<br>而人类，相较于过去的恨，终究还是会更看重眼前的幸福，这不是任何人的错，这是人类进化的必然结果<br>可在他们创造故事的时候<br>我却还困于人际关系和考试，以及众多难题，很多时候在浪费时间，可悲吗？谈不上。<br>可我的确偶尔也会感到怀疑<br>我们的一生可能再也或者说从未有什么火花，能被一束光照到可能已经是幸运，有的人可能究其一生，连光都不会拥有<br>可我们从祖辈就不愿忍受黑暗了<br>那么，就该努力，成为神，或者造物主<br>当然，大可作为配角，坚定的走下去，毕竟自己还可以做自己的主角<br>而其他人在你的生命里不过是个配角罢了，不管他是谁<br>虽然配角可能比主角还要耀眼<br>又或者，演一出独角戏</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;看完这部电影我第一感觉是羡慕，羡慕剑心的生活，</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="影评" scheme="https://blog.zhangyisui.top/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>过去，雨，词</title>
+    <link href="https://blog.zhangyisui.top/posts/6141cfaf/"/>
+    <id>https://blog.zhangyisui.top/posts/6141cfaf/</id>
+    <published>2021-07-27T03:26:15.740Z</published>
+    <updated>2021-07-27T05:19:00.042Z</updated>
+    
+    <content type="html"><![CDATA[<p>久未更新，为免生疏，觉得还是要随便写点什么<br>可写来写去，存稿愈发变多，却没有一篇令人满意<br>便翻了翻之前的手稿，找出几句随手写在纸上的句子<span id="more"></span><br>略显中二，但还算有趣<br>去年的五月，我出门不愿带伞，就只好淋雨回家<br>好在雨并不是很大<br>换身衣服就好<br>我走的不快不慢，路不远不近<br>现在还能稍微回想起那种众人皆醉我独醒的感觉<br>仿佛并没有下雨<br>打着伞的人反倒奇怪<br>我偶尔也会想一些奇怪的问题<br>如果某些奇怪的宗教习惯是不打伞的话会怎样<br>如果人类真的不需要打伞会怎样<br>会不会反而打伞会显得很奇怪<br>不过打伞实际上是出于自身利益的行为，所以这些有点扯<br>我回到家<br>随手拿到一张纸<br>写道：这是与世界的亲密接触，凡世庸俗，我无力改变，但可以躲藏<br>日期是五月十八日和五月二十五日两天<br>我忘记了在这之间我经历了什么<br>但现在的我偶尔也会有这种想法，可能厌世早已变成了我的一部分，但人类无法离开社会，如同蚂蚁不能离开巢穴<br>人终其一生，总不得不和自己讨厌的东西在一起<br>毕竟不管在哪，总有各种让你讨厌的东西<br>与它在一起的另一张纸上写着一首词，词牌没有标出，但却算是应景</p><p>笛声淡漠，风催人离，朝夕间云移千里，轻叹心难求难渡<br>雨意凄然，月明路尽，顾望间岁迁百年，却晓梦易得易失<br>己亥年叁月廿肆</p><p>有人说诗人过于感性，但其实有很多时候人类都缺少感性，就像人类习惯了打伞，却忘了没有伞的日子如何度过<br>或许我在雨中的时候，又短暂的重新得到了某些东西<br>而理性的诗人同样可能存在，不过恐怕过于理性的诗大概就不能称之为诗了<br>实际上，诗人用艺术来回归理性，提笔写罢，也不免思考人生<br>毕竟现实远比诗句残酷，而梦往往，易得易失</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;久未更新，为免生疏，觉得还是要随便写点什么&lt;br&gt;可写来写去，存稿愈发变多，却没有一篇令人满意&lt;br&gt;便翻了翻之前的手稿，找出几句随手写在纸上的句子</summary>
+    
+    
+    
+    <category term="词" scheme="https://blog.zhangyisui.top/categories/%E8%AF%8D/"/>
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="词" scheme="https://blog.zhangyisui.top/tags/%E8%AF%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的首次浪漫主义尝试</title>
+    <link href="https://blog.zhangyisui.top/posts/8d600f7f/"/>
+    <id>https://blog.zhangyisui.top/posts/8d600f7f/</id>
+    <published>2021-07-10T14:49:27.581Z</published>
+    <updated>2021-07-27T03:47:49.430Z</updated>
+    
+    <content type="html"><![CDATA[<p>偶然想起一件事<br>有关我小时候的浪漫主义尝试<span id="more"></span><br>当时我还小(大概是初中二年级)，不知怎的就想在一个美好的晴天边听音乐边喝茶，最好还能在手中捧上一本书，这是一次非常有趣的尝试，但又存在某些不合理性，毕竟对当时的我来说这种事实在麻烦得很。<br>那时的周末每每回家，不免被父母指挥干些小活。又没有手机之类，茶叶父亲倒是有不少，但书也的确没有。所以只是想，但总未实现。<br>后来却又突然有了机会，同学从家中弄来几本小说，当时的我觉得这是一个好机会，到了周五，我便从同学手里借了书，第二天在我感觉时机恰当的时候又烧水煮开了茶。大概是冬天的下午两点左右，因为我清晰的记得阳光从西方照亮蛮大一本青春小说。小说的内容过分文艺。但这并不影响年轻的我阅读它的兴趣。<br>从餐厅搬了把椅子坐在餐厅旁边的阳台上。又总归想有点音乐。<br>便取了母亲的一部手机，带上耳机听着。<br>将将尝试了五分钟反而难受的很。<br>茶水难喝的像融了铁锈。可茶却没有问题，是水的问题。歌曲虽然也有，但阳光刺眼，书看不清，而且晒得过分。中途还总被叫下去干些活。人又焦又躁。<br>阳台又在厨房的左侧。我坐的位子恰是火炉附近，实在难受的紧。<br>又脏又乱的阳台地面上还有油污，望向远处只能看见一片光秃秃的土地和几排树林。林中又尽是一些垃圾之类。<br>越想越觉得不对，便干脆将东西收了下了楼，就此作罢。<br>之后便再没试过这种事。<br>这大概就是我对所谓“罗曼蒂克”的最初尝试，确实是一场失败，但尝试也的确让我对生活有了更深的理解，其意义大概便在于尝试罢。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;偶然想起一件事&lt;br&gt;有关我小时候的浪漫主义尝试</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="失眠单元" scheme="https://blog.zhangyisui.top/tags/%E5%A4%B1%E7%9C%A0%E5%8D%95%E5%85%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>优雅的自动刷网课</title>
+    <link href="https://blog.zhangyisui.top/posts/e3d61257/"/>
+    <id>https://blog.zhangyisui.top/posts/e3d61257/</id>
+    <published>2021-06-27T00:08:51.000Z</published>
+    <updated>2021-07-12T09:01:58.093Z</updated>
+    
+    <content type="html"><![CDATA[<p>临近期末，或者可能有很多人已经放假了，又到了一年两度搞定网课的时节，但手刷实在太累，而且很耗时间，毕竟实在太多又没什么营养<br>因此，出现了网课代刷服务，，不过刷过的可能知道，这行业水很深，价格浮动频繁，虽然不贵，两块到五块一门，但课多的话就是多倍花钱<br>而且质量参差不齐，有时练习题的答案都是脚本的废料<br>因此出个小小的教程，自己动手丰衣足食，技术水准不高，见笑了<span id="more"></span></p><h2 id="part-one"><a href="#part-one" class="headerlink" title="part one"></a>part one</h2><p>第一步<br>安装油猴，有一定基础的话应该听说过，明白的人大概不会看这篇教学，所以假设你是个小白<br>油猴即Tampermonkey，是一款免费开源且强悍的浏览器扩展，本身是一个脚本管理器<br>如果你动手能力够强，靠这个关键词和百度就够了，通过油猴刷课只能说是诸多作用中的一个，还有更多作用等你挖掘<br>当然，你是个小白<br>市面上常见的浏览器大概有以下几种:<br>1、Chrome<br>2、QQ浏览器<br>3、Microsoft Edge（windows自带）<br>4、Safari（mac自带）<br>5、360浏览器<br>6、UC浏览器<br>7、Firefox（火狐）<br>8、opera</p><p>建议首先在自带的扩展商店里寻找（chrome可能需要科学上网），直接搜索Tampermonkey安装即可<br>如果插件商店没有，建议直接到<a href="https://www.tampermonkey.net/">油猴官网</a>下载（可能也需要科学上网，不过在我撰文时是可以正常访问的）<br>基本所有浏览器都能通过以上方法完成安装 （ps：下载时记得根据自己浏览器版本选择相应的插件版本）下载之后一路确定即可<br>这样最难的一步就结束了</p><h2 id="part-two"><a href="#part-two" class="headerlink" title="part two"></a>part two</h2><p>第二步就简单得多,只要进入油猴的网上应用店安装脚本就可以了。<br>进入网上应用店只需要点击浏览器上的油猴图标（如下图），<br><img src="/images/111.png" alt="油猴图标"><br>点击获取新脚本，然后进入GreasyFork即可，当然也可以直接点击<a href="https://greasyfork.org/zh-CN">这里</a><br>之后就更简单了<br>直接搜索超星或者学习通关键字然后选择一个自己喜欢的脚本安装即可<br>而后打开课程界面，脚本一般就会自动开始刷课了，只要一直挂着就好</p><h2 id="part-three"><a href="#part-three" class="headerlink" title="part three"></a>part three</h2><p>相应的还有一个进阶的小部分<br>因为油猴作为一个脚本管理器是可以编辑脚本的<br>在编辑后便可以实现视频秒过功能，加快刷课进度<br>不过一般情况下不推荐使用，秒过可能导致不良记录<br>在这里我以我在用的脚本为例示范<br>首先进入脚本管理页面<br><img src="/images/222.png" alt="脚本管理页示意"><br>而后点击相应的脚本编辑<br><img src="/images/333.png" alt="编辑示意"><br>进入编辑页面<br>优秀的作者肯定会留下注释<br>比如这样<br><img src="/images/444.png" alt="编辑页示意"><br>只要按说明修改相应参数即可<br>在这里我将rate修改为0，秒过功能便被开启<br>需要注意的是，开关脚本以及修改脚本功能，都需要刷新网页之后才能生效<br>over</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;临近期末，或者可能有很多人已经放假了，又到了一年两度搞定网课的时节，但手刷实在太累，而且很耗时间，毕竟实在太多又没什么营养&lt;br&gt;因此，出现了网课代刷服务，，不过刷过的可能知道，这行业水很深，价格浮动频繁，虽然不贵，两块到五块一门，但课多的话就是多倍花钱&lt;br&gt;而且质量参差不齐，有时练习题的答案都是脚本的废料&lt;br&gt;因此出个小小的教程，自己动手丰衣足食，技术水准不高，见笑了</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>有礼貌的抱团喧闹者</title>
+    <link href="https://blog.zhangyisui.top/posts/e3e2ebf2/"/>
+    <id>https://blog.zhangyisui.top/posts/e3e2ebf2/</id>
+    <published>2021-06-20T15:19:15.305Z</published>
+    <updated>2021-06-20T23:41:43.317Z</updated>
+    
+    <content type="html"><![CDATA[<p>本来是准备睡觉的<br>怪就怪我去了趟厕所<br>连更太多不在我的计划之内<br>不过这个本来就是即兴项目<br>欢迎来到失眠单元<span id="more"></span></p><hr><p>连续两天(昨天和今天)<br>我走进水房 ps：水房厕所一体，厕所的门在水房里面<br>看见几个裸男和几个只穿内裤的人<br>光着身子在水房其实也没什么大不了的<br>虽然以前没见过但尚可接受，就当是思想解放的小菜<br>不过配送的吵闹真的够劲<br>开着门的话估计四分之三个楼层都能听见<br>我的宿舍在走廊尽头<br>关上门还能隐隐约约听到一点<br>这都不算<br>真正有趣的是吵闹的原因<br>连续两天 肯定不是没原因的<br>且听我慢慢道来<br>三个字 泼水节<br>一群裸男在水房互相泼水<br>地上的水大概三厘米<br>一个人看门，有人进去就停一下<br>有人拖地 控制水的深度<br>走进厕所<br>音响，长二尺宽三寸，潮流音乐，应有尽有<br>一个字：绝<br>说实话蛮没素质<br>但是知道有人别泼水<br>而且关了水房的半扇门<br>又不能说完全没素质<br>矛盾是本性<br>正义与非正义也的确不绝对<br>天气的确热<br>但是不至于到这种地步<br>应该说尚可忍受<br>我实在无法理解这种群体性疯狂的动机<br>仍需努力</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;本来是准备睡觉的&lt;br&gt;怪就怪我去了趟厕所&lt;br&gt;连更太多不在我的计划之内&lt;br&gt;不过这个本来就是即兴项目&lt;br&gt;欢迎来到失眠单元</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="失眠单元" scheme="https://blog.zhangyisui.top/tags/%E5%A4%B1%E7%9C%A0%E5%8D%95%E5%85%83/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Re：刺杀小说家</title>
+    <link href="https://blog.zhangyisui.top/posts/1c5308de/"/>
+    <id>https://blog.zhangyisui.top/posts/1c5308de/</id>
+    <published>2021-06-20T03:08:57.000Z</published>
+    <updated>2021-06-20T15:05:40.096Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Re：刺杀小说家"><a href="#Re：刺杀小说家" class="headerlink" title="Re：刺杀小说家"></a>Re：刺杀小说家</h2><p>本来只想更一篇，看到这个草稿，惊觉再不更就过时了，虽然没人看，并且已经过时了，但还是更一下</p><p>浪费别人的时间就等于谋财害命，更何况还要花钱去被谋财害命<span id="more"></span><br>全靠尬吹<br>剧情都没必要分析，胡编乱造，没头没尾，根本不值得多花心思<br>和之前的奇门遁甲类似<br>冲着cg看的<br>结果真就只有cg能看<br>还有加特林代表月亮消灭你这种小孩子的梗，只能说很尬<br>boss前半部分吹得神乎其神，打起来又废话连篇，脑门上挂个致命伤，铺垫一点用都没，轻而易举去世，直接强行结尾<br>就靠几句台词，几个画面，一群水军就搞成这样<br>不得不感叹资本的强大<br>一句话<br>别看<br>快跑</p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;Re：刺杀小说家&quot;&gt;&lt;a href=&quot;#Re：刺杀小说家&quot; class=&quot;headerlink&quot; title=&quot;Re：刺杀小说家&quot;&gt;&lt;/a&gt;Re：刺杀小说家&lt;/h2&gt;&lt;p&gt;本来只想更一篇，看到这个草稿，惊觉再不更就过时了，虽然没人看，并且已经过时了，但还是更一下&lt;/p&gt;
+&lt;p&gt;浪费别人的时间就等于谋财害命，更何况还要花钱去被谋财害命</summary>
+    
+    
+    
+    <category term="影评" scheme="https://blog.zhangyisui.top/categories/%E5%BD%B1%E8%AF%84/"/>
+    
+    
+    <category term="影评" scheme="https://blog.zhangyisui.top/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+    <category term="批评" scheme="https://blog.zhangyisui.top/tags/%E6%89%B9%E8%AF%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>假装自己很懂电脑</title>
+    <link href="https://blog.zhangyisui.top/posts/44a71f28/"/>
+    <id>https://blog.zhangyisui.top/posts/44a71f28/</id>
+    <published>2021-06-20T02:36:56.000Z</published>
+    <updated>2021-06-20T14:53:30.096Z</updated>
+    
+    <content type="html"><![CDATA[<p>太久没有更新了，本来这个周末很想更新，终究还是误了时辰<br>无奈无奈<br>遂熬夜更新一篇<span id="more"></span><br>内容简单<br>其实在不懂的人面前能假装自己懂很多东西<br>而且有太多人喜欢假装<br>实际上<br>我更喜欢拆穿他们<br>但这个<br>至少有一点点技术含量<br>很简单</p><hr><p>win+r(启动快捷键)<br>cmd(输入cmd回车，打开命令提示符)<br>color 0a(十六进制代码修改颜色)<br>dir/s(列出根目录下所有文件)<br>视觉效果就是代码乱飞<br>至少能飞个几分钟<br>用法其实很多<br>在此不多赘述<br>over</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;太久没有更新了，本来这个周末很想更新，终究还是误了时辰&lt;br&gt;无奈无奈&lt;br&gt;遂熬夜更新一篇</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>水房内卷的联想</title>
+    <link href="https://blog.zhangyisui.top/posts/c76f13ad/"/>
+    <id>https://blog.zhangyisui.top/posts/c76f13ad/</id>
+    <published>2021-05-28T13:54:56.000Z</published>
+    <updated>2021-06-03T06:37:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>三楼的水房不大，但理论上完全够用，<span id="more"></span><br>不过在早上的使用高峰期，用水仍需排队，而多数人会为自己的室友占位子又导致很多人来到水房却又无水可用，反而只能望水兴叹<br>这进一步加剧了排队<br>这就导致了水房内卷<br>可在我在已经被占的位子上洗漱后发现，多数人还是愿意互帮互助的，<br>即使你临时占用他们的位子，只要不是洗头这种长时间的操作，多数人是愿意和你共享一会位子的。<br>今早我走进水房时，一个人正在我室友帮我占的位子上刷牙，想到其他人对我的帮助，我决定也帮别人一次，<br>我站在他身后时突然想到，其实每一个个体都是内卷的受害者，内卷并非由谁发起，内卷实际上是制度问题，<br>诸如学校的水房太小，排宿舍的时候将三楼排成八人寝导致人数过多等等原因<br>所以，由此推断…<br>又能得到什么呢</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;三楼的水房不大，但理论上完全够用，</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="吐槽" scheme="https://blog.zhangyisui.top/tags/%E5%90%90%E6%A7%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>图书资源网站总集</title>
+    <link href="https://blog.zhangyisui.top/posts/b35ed62e/"/>
+    <id>https://blog.zhangyisui.top/posts/b35ed62e/</id>
+    <published>2021-05-28T11:54:56.000Z</published>
+    <updated>2021-05-31T13:54:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="因"><a href="#因" class="headerlink" title="因"></a>因</h2><p>买了个kindle，但是正版书实在是买不起了<br>就顺便找了一下书籍资源，在这里做一个网站总集<span id="more"></span><br>方便各位，也方便自己<br>当然<br>有能力的话还是建议各位支持正版</p><p>鸠摩搜书（结合这个以及下面两个就能找到绝大多数书）：<br><a href="https://www.jiumodiary.com/">https://www.jiumodiary.com/</a><br>熊猫搜书（需要关注公众号，但还是很好用的）：<br><a href="https://xmsoushu.com/#/">https://xmsoushu.com/#/</a><br>读书达人：<br><a href="http://www.dushudaren.com/">http://www.dushudaren.com/</a><br>Zlibrary：<br><a href="https://zh.1lib.org/?signAll=1&amp;ts=0937">https://zh.1lib.org/?signAll=1&amp;ts=0937</a><br>点点文档：<br><a href="https://www.torrent.org.cn/bd">https://www.torrent.org.cn/bd</a><br>书享家（导航）：<br><a href="http://shuxiangjia.cn/Aconvert">http://shuxiangjia.cn/Aconvert</a><br>贼吧网：<br><a href="https://www.zei8.me/">https://www.zei8.me/</a><br>爱下电子书（txt和epub都支持下载）：<br><a href="https://www.aixdzs.com/">https://www.aixdzs.com/</a><br>书荒网：<br><a href="https://www.15huang.com/">https://www.15huang.com</a><br>好读（绝版书多）：<br><a href="http://www.haodoo.net/">http://www.haodoo.net</a><br>亿年书海（可以在线，网站顶部可生成epub）：<br><a href="https://www.inien.com/">https://www.inien.com</a><br>星空书海：<br><a href="https://www.goodepub.com/">https://www.goodepub.com/</a><br>读读狗：<br><a href="http://www.dududog.com/">http://www.dududog.com</a><br>书单网：<br><a href="https://pan.shudan.vip/list-1.html">https://pan.shudan.vip/list-1.html</a><br>txt to epub转换：<br><a href="https://www.aconvert.com/cn/ebook/txt-to-epub/">https://www.aconvert.com/cn/ebook/txt-to-epub/</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;因&quot;&gt;&lt;a href=&quot;#因&quot; class=&quot;headerlink&quot; title=&quot;因&quot;&gt;&lt;/a&gt;因&lt;/h2&gt;&lt;p&gt;买了个kindle，但是正版书实在是买不起了&lt;br&gt;就顺便找了一下书籍资源，在这里做一个网站总集</summary>
+    
+    
+    
+    <category term="资源" scheme="https://blog.zhangyisui.top/categories/%E8%B5%84%E6%BA%90/"/>
+    
+    
+    <category term="资源" scheme="https://blog.zhangyisui.top/tags/%E8%B5%84%E6%BA%90/"/>
+    
+    <category term="书" scheme="https://blog.zhangyisui.top/tags/%E4%B9%A6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于几个电影的一些感想 2021.04</title>
+    <link href="https://blog.zhangyisui.top/posts/90bf77db/"/>
+    <id>https://blog.zhangyisui.top/posts/90bf77db/</id>
+    <published>2021-04-09T13:08:57.000Z</published>
+    <updated>2021-05-24T15:27:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="关于叶问4、新神榜、三体和阿凡达"><a href="#关于叶问4、新神榜、三体和阿凡达" class="headerlink" title="关于叶问4、新神榜、三体和阿凡达"></a>关于叶问4、新神榜、三体和阿凡达</h2><p>现在是2021年四月九日<br>我刚刚看完了叶问四<br>说实话我现在很年轻，但是总有一种自己已经老了的感觉<br>看电影或者文章总会不自觉的思考人生还有各种乱七八糟的其他问题<span id="more"></span><br>刚刚看完了叶问4，作为一部功夫片，其实本来没必要在意太多细节<br>但叶问对我来说不同，我这个人很奇怪，也许是因为年纪小，我只做自己喜欢的<br>电影我也只看自己感兴趣的<br>叶问对我来说，至少截至现在，是我认为最好的功夫片<br>作为标杆，作为范例存在<br>而且它也的确存在值得称赞的细节<br>种种贴近真实的描写的确让他有了更多的思想寄托<br>而这一部甚至关底boss都更换为了更真实的一个美军军官<br>没有神化到拯救世界的地步，叶问的死因也很普通，当然，是为了真实<br>正是这种真实让我想写下这篇文章<br>片子剧情并不复杂，几条看似分散情节的实际上最终都归到叶问一个人身上<br>我想说的就是片中的剧情问题<br>剧情表现思想<br>提前声明片中并没有任何思想错误<br>只是叶问所做出的改变并不能说是全面（想看懂下面的话需要已经看过这部电影<br>剧中并没有提到之后的万会长的女儿在学校里的生活，实话实说可能编剧也不会写<br>我当然也不会<br>而美军的军官，这种情况下，只能说是被使用武力说服，<br>而真正的人性<br>在确认叶问死后，甚至不需要，只需要确认他离开后，就可以马上翻脸，这只是针对剧中出现的军官来说<br>而其他军官，翻脸的成本更低，毕竟一个死人，又不会起来打我<br>“如果他还活着，肯定不是我的对手”<br>这就是人性，移民局依然存在，仇恨依然存在，斗争就不会停止<br>这就是本能<br>大概一周前，我在电影院看过了阿凡达<br>我以前并没有看过这部电影，但它的确很有名<br>导演的确讲好了一个故事<br>但只能说是一个童话<br>宇宙不是童话世界<br>可能人类将来扮演的反而是土著的角色，而另一个幻影骑士会不会出现不得而知<br>在这方面我反而认同大刘那套黑暗森林法则<br>宇宙文明和国与国人与人是一样的<br>要么保持距离<br>要么保持战争<br>距离感永远很重要<br>这就是真实<br>这就是本能<br>叶问是一个人，只能改变一点点东西<br>叶问会死<br>他所做出的改变也会消失<br>可能我所想的太过阴暗，不过我的确就是这样的人，揣测，分析，置身事外，讨厌麻烦，抱怨，厌世<br>但这与这篇文章无关<br>我并不感觉自己有什么不对<br>毕竟人类的确谈不上多么光明正大的物种<br>回到改变这个问题<br>如果改变没有意义<br>那么，我们怎么做？<br>很巧，我昨天刚刚看过另一部电影<br>新神榜：哪吒传说<br>哪吒传说中却恰恰提到了这个问题<br>这也是一部很好的电影，有剧情，有立意<br>作为一部动漫神话英雄电影可以说是很高的水准<br>甚至足以发展出一整个神话宇宙<br>整个系列只要保持水平，甚至比这部片子稍低一点，就完全有望创造复仇者联盟一样的超级IP<br>片中说<br>“也许是什么都改变不了，就像医院里的病人，不管治不治疗，人都终有一死，可如果病治好了，他就会在这个世上多些时间，我相信这些时间对他们来说，不会是毫无用处的，对他们的亲人朋友也不是。”<br>我已经出生了六千七百多天，在这些天里我怀疑，我犹豫，多数时候活着，但食之无味，饮之无觉，儿时的快乐消逝之后，长大的烦恼就随之而来<br>儿时的我深夜时躺在床上，想到总有一天父亲母亲早晚有一天会离我而去，而我有一天也会迈进坟墓，不自觉的流下泪来<br>那时我的理想或者说梦就是我的家人和我能永远的在一起生活<br>而后来就再不存在理想这种东西了，没有什么是永存的<br>而我欠其他人的却永远都还不清，于是我的目标变为了还债<br>而后就是如今，人，就是人，只是人，永远是人<br>而我，某些时候已经不是所谓的人了<br>我想，那些自杀的文人或许大多是因为看透了生活的无可救药和疯狂吧<br>而我的疯狂绝非可以用一首诗医治的那种</p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;关于叶问4、新神榜、三体和阿凡达&quot;&gt;&lt;a href=&quot;#关于叶问4、新神榜、三体和阿凡达&quot; class=&quot;headerlink&quot; title=&quot;关于叶问4、新神榜、三体和阿凡达&quot;&gt;&lt;/a&gt;关于叶问4、新神榜、三体和阿凡达&lt;/h2&gt;&lt;p&gt;现在是2021年四月九日&lt;br&gt;我刚刚看完了叶问四&lt;br&gt;说实话我现在很年轻，但是总有一种自己已经老了的感觉&lt;br&gt;看电影或者文章总会不自觉的思考人生还有各种乱七八糟的其他问题</summary>
+    
+    
+    
+    <category term="影评" scheme="https://blog.zhangyisui.top/categories/%E5%BD%B1%E8%AF%84/"/>
+    
+    
+    <category term="影评" scheme="https://blog.zhangyisui.top/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>睡不着的夜晚</title>
+    <link href="https://blog.zhangyisui.top/posts/9268e2fa/"/>
+    <id>https://blog.zhangyisui.top/posts/9268e2fa/</id>
+    <published>2021-03-30T15:49:44.000Z</published>
+    <updated>2020-05-23T13:51:51.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="因"><a href="#因" class="headerlink" title="因"></a>因</h3><p>这是一个睡不着的夜晚，我躺在床上尝试了半小时进入睡眠但是失败了。<br>原因很简单也很无奈：噪声  </p><span id="more"></span><h2 id="首"><a href="#首" class="headerlink" title="首"></a>首</h2><p>在开学之前或者刚刚开学不久，我买过一对耳塞，设计良好，效果可观。 唯一可惜的就是8.8元的价格对于一对普通耳塞稍贵<br>有类木的塑制外壳（我想贵的很大原因就是这个），胶囊般打开后取出耳塞，压缩体积，放入耳内，膨胀<br>万籁俱寂谈不上，但30分贝以下是肯定做到了<br>这个学期，它不见了，当然，一同不见的还有其他东西，我个人还是很疑惑的，不过就算不是我的失误，其他的可能性也都只有极小的调查可能，只好不了了之<br>当然，要讲的不是这个</p><h2 id="中"><a href="#中" class="headerlink" title="中"></a>中</h2><p>相信各位高中生以及以上学历的各位都知道我要讲什么<br>我要讲的是噪音的源头<br>有的人可能体会过，我想到不久前我的一位朋友问我，没头没脑的一句：“现代人没了抖音和快手活不了吗？”<br>而后又接了一句 “我这是活在什么烂地方”<br>他和我认识后多数时间关系密切，用真正的好友的交流方式交流，不搞表面关系，我们只说有用的，交流谈不上多，但关系如同物理定律不可改变<br>所以我回答他：“你当时陷入了突发性愤怒”（回复已经是在几个小时之后，“突发性愤怒”是我造的词，或许我会写一篇文章简单介绍一下）<br>他说的确是他的问题，并且已经反省过了<br>我随意的说每个人都会有那种时候的<br>现在我体会到了<br>走廊中的集体性突然爆笑以及他们坚持不懈的抖音促使我写下这篇文章<br>写下这行字的时候是晚上12是12分<br>抖音还在继续，而我只能笑笑，承受世俗的河水流过<br>并不激烈<br>甚至如果你愿意融入其中的话还会有点惬意<br>但还是有一些人知道的<br>舒服这种事<br>不是所有时候都是好的</p><hr><p>本来想写下长篇大论控诉这种行为，写下几句话却又冷静了下来，我会在第二天完成总结，毕竟未来的自己总是会觉得过去的自己很蠢</p><h2 id="尾"><a href="#尾" class="headerlink" title="尾"></a>尾</h2><p>实际上写下这篇总结已经是很久之后，我没有诞生出什么新的想法，这种事的解决方法可能很多，但能实际应用的并且效果实实在在存在的可能并不多，我的懒惰也拒绝了更多关于这件事的思考，毕竟其他的事已经够多了，实际上多数人的方法大概都是充耳不闻（我知道用在这里不恰当，但依然要用），假装听不见而已，但一时之策终非长远之计，还是建议和身边的人进行简单的协商，至少尝试一下也好</p>]]></content>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;因&quot;&gt;&lt;a href=&quot;#因&quot; class=&quot;headerlink&quot; title=&quot;因&quot;&gt;&lt;/a&gt;因&lt;/h3&gt;&lt;p&gt;这是一个睡不着的夜晚，我躺在床上尝试了半小时进入睡眠但是失败了。&lt;br&gt;原因很简单也很无奈：噪声  &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="失眠单元" scheme="https://blog.zhangyisui.top/tags/%E5%A4%B1%E7%9C%A0%E5%8D%95%E5%85%83/"/>
+    
+    <category term="社论" scheme="https://blog.zhangyisui.top/tags/%E7%A4%BE%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>凡浪</title>
+    <link href="https://blog.zhangyisui.top/posts/3848569/"/>
+    <id>https://blog.zhangyisui.top/posts/3848569/</id>
+    <published>2021-03-17T05:37:09.000Z</published>
+    <updated>2021-03-17T05:46:49.875Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="凡浪"><a href="#凡浪" class="headerlink" title="凡浪"></a>凡浪</h3><p>那些口口声声“一步更胜一步”的人们，应该看看你们。<br>我看着你们，满怀悲伤。<br>人类拥有过几千年的财富，所有的知识、见识、智慧和艺术。大多却是在橱窗里展出的礼物。<br>科技繁荣，文化繁茂，城市繁华。  <span id="more"></span><br>现代文明的成果被层层打开，却难以真正去享用。<br>囿于获取一点金钱，握住手中饭碗，走完整场人生，向难及的梦想进发。<br>很多人，从小你们就被环境决定自己的命运。<br>很多人在童年就进入了而立之年，而立为自己困于什么，不困于什么。<br>人与人之间的联系被重塑，你们看着他人的生活，却找不到自己那值得交心的朋友。<br>你们失去了，人类本该拥有的权利，自由的权利。<br>你所奔波的，就是你的生活。<br>你们不幸，遇见这样的时代。但是时代却有幸，遇见这样的你们。<br>我看着你们，满怀歉意。<br>为时代的时有不公道歉。<br>时代正在把平凡的化为伟大的，把悲伤的化为快乐的，把错误的化为正确的，把局部的化为整体的。<br>但你将自己的生命付出给能让成千上万的人享受快乐的事业。<br>为时代的歧视致歉。<br>自傲的人总习惯贬低与否定。<br>真正坚强的人，从不在乎质疑与夸耀。<br>为时代的迷茫致歉。<br>小人独善其身，君子兼济天下，求仁得仁。<br>用普通的人生去铸就更伟大的文化，审美和价值观。<br>有一天我发现，不只是我们在感悟如何去生活。<br>你们也在启发我们，如何去更好的生活。<br>那些唱着一浪更胜一浪的人，应该看着你们。<br>就像我一样，我看着你们，满怀感激。<br>因为你们，这个世界会更喜欢中国。<br>因为一个国家最好看的风景都源自国家中的平凡人。<br>因为你们，这世上的小说、音乐和电影所表现的生活就不再是困惑、悲凉，而是勤奋、善良、平实，无所畏惧。<br>是胸怀大爱，来日方长。<br>虽然没有活成想象中的样子。但每一代人的想象亦都不足以想象真正的未来。<br>如果你们仍然想拥有一些祝福。<br>那么，<br>激扬吧，凡浪!<br>我们在同一条激扬的河流。  </p><hr><p>的确没有写在真正的痛点上，因为大部分人其实都还算开心，并且生活在后浪和凡浪之间的夹层里。<br>不过，当时的我也的确很丧<br>正因此，我写的是当时的我所认为的底层<br>其中有一些可能只有我能理解但自以为别人也能理解的细节，大可忽略<br>博君一笑  </p><p>个人感觉快手的奥力给版本更贴近普通人  </p><p>附：原版及快手版地址<br><a href="https://www.bilibili.com/video/BV1FV411d7u7">后浪</a><br><a href="https://www.bilibili.com/video/BV1tK4y147uv">快手版后浪《看见》</a>  </p>]]></content>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;凡浪&quot;&gt;&lt;a href=&quot;#凡浪&quot; class=&quot;headerlink&quot; title=&quot;凡浪&quot;&gt;&lt;/a&gt;凡浪&lt;/h3&gt;&lt;p&gt;那些口口声声“一步更胜一步”的人们，应该看看你们。&lt;br&gt;我看着你们，满怀悲伤。&lt;br&gt;人类拥有过几千年的财富，所有的知识、见识、智慧和艺术。大多却是在橱窗里展出的礼物。&lt;br&gt;科技繁荣，文化繁茂，城市繁华。</summary>
+    
+    
+    
+    <category term="文章" scheme="https://blog.zhangyisui.top/categories/%E6%96%87%E7%AB%A0/"/>
+    
+    
+    <category term="改编" scheme="https://blog.zhangyisui.top/tags/%E6%94%B9%E7%BC%96/"/>
+    
+    <category term="文章" scheme="https://blog.zhangyisui.top/tags/%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>如何跳过青年大学习</title>
+    <link href="https://blog.zhangyisui.top/posts/22179bc6/"/>
+    <id>https://blog.zhangyisui.top/posts/22179bc6/</id>
+    <published>2021-03-17T02:27:56.000Z</published>
+    <updated>2021-06-23T16:01:45.130Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="如何跳过青年大学习"><a href="#如何跳过青年大学习" class="headerlink" title="如何跳过青年大学习"></a>如何跳过青年大学习</h3><h2 id="6月23日更新-进了看几秒就退就会加分，小丑竟是我自己"><a href="#6月23日更新-进了看几秒就退就会加分，小丑竟是我自己" class="headerlink" title="6月23日更新 进了看几秒就退就会加分，小丑竟是我自己"></a>6月23日更新 进了看几秒就退就会加分，小丑竟是我自己</h2><h2 id="First-step"><a href="#First-step" class="headerlink" title="First step"></a>First step</h2><p>在微信上打开链接：<a href="http://debugtbs.qq.com/">http://debugtbs.qq.com</a> 和 <a href="http://debugmm.qq.com/?forcex5=true">debugmm.qq.com/?forcex5=true</a> 开启vConsole调试功能<span id="more"></span>（多数人先打开第二个等待出现x5内核打开的文字后打开第一个点击Debugx5，选择信息，勾选vConsole功能即可，部分人可能不同）<br>图↓</p><p><img src="https://ae01.alicdn.com/kf/U4d57217d6e314107be734a2c001203cfs.jpg" alt="演示图"><br><img src="https://ae01.alicdn.com/kf/Ub9b75d845e2c445c9d12c8eb939975a2R.jpg" alt="演示图"></p><h2 id="Second-step"><a href="#Second-step" class="headerlink" title="Second step"></a>Second step</h2><p>打开大学习视频，右下角会多出一个vConsole的绿色图标。点击开始学习之后，点击打开vConsole输入代码，点击ok即可<br>（可能需要粘贴两次代码，一次跳视频做题，一次跳视频）<br>（vConsole在微信中浏览其他网页时也会存在，如果介意，回到打开页面关闭即可）<br>代码↓</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Bvideo.currentTime=800;</span><br><span class="line">Cvideo.currentTime=800;</span><br><span class="line">video.ended=1;</span><br></pre></td></tr></table></figure><hr><p>ps: 用了代码之后依然要答题<br>pps: 经测试，课后答题答不答无所谓，直接下一题就会显示答案且结果不会上传<br>ppps: 2021.3.17亲测可行  </p>]]></content>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;如何跳过青年大学习&quot;&gt;&lt;a href=&quot;#如何跳过青年大学习&quot; class=&quot;headerlink&quot; title=&quot;如何跳过青年大学习&quot;&gt;&lt;/a&gt;如何跳过青年大学习&lt;/h3&gt;&lt;h2 id=&quot;6月23日更新-进了看几秒就退就会加分，小丑竟是我自己&quot;&gt;&lt;a href=&quot;#6月23日更新-进了看几秒就退就会加分，小丑竟是我自己&quot; class=&quot;headerlink&quot; title=&quot;6月23日更新 进了看几秒就退就会加分，小丑竟是我自己&quot;&gt;&lt;/a&gt;6月23日更新 进了看几秒就退就会加分，小丑竟是我自己&lt;/h2&gt;&lt;h2 id=&quot;First-step&quot;&gt;&lt;a href=&quot;#First-step&quot; class=&quot;headerlink&quot; title=&quot;First step&quot;&gt;&lt;/a&gt;First step&lt;/h2&gt;&lt;p&gt;在微信上打开链接：&lt;a href=&quot;http://debugtbs.qq.com/&quot;&gt;http://debugtbs.qq.com&lt;/a&gt; 和 &lt;a href=&quot;http://debugmm.qq.com/?forcex5=true&quot;&gt;debugmm.qq.com/?forcex5=true&lt;/a&gt; 开启vConsole调试功能</summary>
+    
+    
+    
+    <category term="Android" scheme="https://blog.zhangyisui.top/categories/Android/"/>
+    
+    
+    <category term="Android" scheme="https://blog.zhangyisui.top/tags/Android/"/>
+    
+    <category term="微信" scheme="https://blog.zhangyisui.top/tags/%E5%BE%AE%E4%BF%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>你的武林</title>
+    <link href="https://blog.zhangyisui.top/posts/9d23a557/"/>
+    <id>https://blog.zhangyisui.top/posts/9d23a557/</id>
+    <published>2021-03-12T08:03:10.000Z</published>
+    <updated>2021-03-12T08:22:46.397Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="你的武林"><a href="#你的武林" class="headerlink" title="你的武林"></a>你的武林</h2><p>你万念俱灰，神色暗淡，未存生望，将死求安<br>却闻身后笛声轻起，百鸟皆还<br>你转身<br>看见柳笛弯弯<br>万般云霞皆暗淡<span id="more"></span><br>她轻叹，笛声戛然<br>你迈步，她抬首看<br>你拱手，她笑嫣然<br>你张口，说姑娘有何烦恼在下可否耳闻<br>在下虽已万念俱灰仍愿为姑娘碎骨粉身<br>她说既已叹息何必提故事沉沉<br>徒增悲意不如去自寻本真<br>鸟鸣悲婉<br>你也随之俯首轻叹<br>前行，空有孤寒，后退，四方皆岸<br>再抬首，她已起身。<br>你踌躇，你不决，终究向她喊到<br>明日可否再度相见？<br>她回身一笑，穿透春光灿烂，如月映照眼前。<br>如此你便明了了。<br>你不知她是谁<br>她不问你何归<br>时光细碎<br>如画唯美<br>同游天下<br>江湖忽危<br>你看见诏书。<br>败魔教者，封赏九族。<br>败魔教仇恨即无，成大事光复九族<br>最重要的<br>她的微笑，安定，或者说幸福<br>你很强，所以你拔剑，昂扬<br>为了让她，笑的安详<br>她只是笑<br>她说<br>无论如何<br>不要把我忘掉<br>你告诉她<br>鼠辈<br>不能伤她分毫<br>她步步跟随毫无怨言<br>你事事神勇护她周全<br>不觉之间宫殿已近在眼前<br>她已离去你放心面对凶险<br>你踏入<br>却是空城<br>你迈步<br>古琴铮铮<br>似有哀声<br>声源近在眼前<br>你走近，却看见她的容颜<br>月光，千年百年，未曾有变<br>春色，一朝一夕，还似从前<br>故事长长，如漏刻之沙，点点滴滴<br>而今，已是尽头<br>你抬首，你转身，你拔剑，又为了何人<br>两两相望<br>惟余轻笑<br>退无可退<br>身后已箭冲云霄<br>你懂了<br>但晚了<br>你一袭白衣剑尖染血，踌躇再三也未将柳笛忘掉。<br>她孑然一身仍带轻笑，笑你不懂她的情调。<br>你想起它的叹息<br>你想起小时候遇见过一个女孩<br>你很快就忘了<br>这就是你的武林</p><hr><p>ps: 偶然间看见b站的24小时写作挑战，然后想到自己很久都没写作了，心血来潮，就写了这篇。时间仓促，水平一般，剧情俗套，图一乐吧。</p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;你的武林&quot;&gt;&lt;a href=&quot;#你的武林&quot; class=&quot;headerlink&quot; title=&quot;你的武林&quot;&gt;&lt;/a&gt;你的武林&lt;/h2&gt;&lt;p&gt;你万念俱灰，神色暗淡，未存生望，将死求安&lt;br&gt;却闻身后笛声轻起，百鸟皆还&lt;br&gt;你转身&lt;br&gt;看见柳笛弯弯&lt;br&gt;万般云霞皆暗淡</summary>
+    
+    
+    
+    <category term="小说" scheme="https://blog.zhangyisui.top/categories/%E5%B0%8F%E8%AF%B4/"/>
+    
+    
+    <category term="小说" scheme="https://blog.zhangyisui.top/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+    <category term="诗" scheme="https://blog.zhangyisui.top/tags/%E8%AF%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Test</title>
+    <link href="https://blog.zhangyisui.top/posts/d87f7e0c/"/>
+    <id>https://blog.zhangyisui.top/posts/d87f7e0c/</id>
+    <published>2021-03-09T03:08:57.000Z</published>
+    <updated>2021-03-17T10:27:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="It-just-a-test-for-the-first-run"><a href="#It-just-a-test-for-the-first-run" class="headerlink" title="It just a test for the first run"></a>It just a test for the first run<span id="more"></span></h2><p><a href="https://zhangyisui.top/">测试链接</a></p><p><img src="https://ae01.alicdn.com/kf/Udcdc3a875f984075a89e53abef0b1707c.jpg" alt="测试图片"></p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">测试代码;</span><br></pre></td></tr></table></figure><p>over test  </p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;It-just-a-test-for-the-first-run&quot;&gt;&lt;a href=&quot;#It-just-a-test-for-the-first-run&quot; class=&quot;headerlink&quot; title=&quot;It just a test for the first run&quot;&gt;&lt;/a&gt;It just a test for the first run</summary>
+    
+    
+    
+    <category term="test" scheme="https://blog.zhangyisui.top/categories/test/"/>
+    
+    
+    <category term="test" scheme="https://blog.zhangyisui.top/tags/test/"/>
+    
+    <category term="test2" scheme="https://blog.zhangyisui.top/tags/test2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://blog.zhangyisui.top/posts/4a17b156/"/>
+    <id>https://blog.zhangyisui.top/posts/4a17b156/</id>
+    <published>2020-04-11T03:08:57.000Z</published>
+    <updated>2021-03-12T08:21:20.437Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><hr><p>声明: 这是hexo自动生成的测试页面，与版权什么的无关，因个人喜好不想删而已，如果是因为好奇点进来的话，很可惜你浪费了十五秒，建议好好学习一下英语</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="test" scheme="https://blog.zhangyisui.top/categories/test/"/>
+    
+    
+    <category term="test" scheme="https://blog.zhangyisui.top/tags/test/"/>
+    
+  </entry>
+  
+</feed>
