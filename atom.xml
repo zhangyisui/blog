@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2021-09-03T05:08:21.201Z</updated>
+  <updated>2021-09-28T15:17:49.204Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>配色快选方案</title>
+    <link href="https://blog.zhangyisui.top/posts/769b76f1/"/>
+    <id>https://blog.zhangyisui.top/posts/769b76f1/</id>
+    <published>2021-09-28T15:06:11.183Z</published>
+    <updated>2021-09-28T15:17:49.204Z</updated>
+    
+    <content type="html"><![CDATA[<p>为了让我的导航页更好看一点<br>找了若干篇配色方案的文章阅读<span id="more"></span><br>后来发现最简单的其实是选一张自认为配色合理的图片<br>然后用PS打开</p><p>另存为web所用格式<br>选择gif<br>颜色选择32或者8<br>这时候下面颜色表里会出现这张图片的配色<br>然后存储颜色表，导入调色板里，就可以使用这组配色了</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;为了让我的导航页更好看一点&lt;br&gt;找了若干篇配色方案的文章阅读</summary>
+    
+    
+    
+    <category term="设计" scheme="https://blog.zhangyisui.top/categories/%E8%AE%BE%E8%AE%A1/"/>
+    
+    
+    <category term="配色" scheme="https://blog.zhangyisui.top/tags/%E9%85%8D%E8%89%B2/"/>
+    
+    <category term="设计" scheme="https://blog.zhangyisui.top/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
   
   <entry>
     <title>一些小技巧</title>
@@ -98,9 +121,9 @@
     <category term="影评" scheme="https://blog.zhangyisui.top/categories/%E5%BD%B1%E8%AF%84/"/>
     
     
-    <category term="影评" scheme="https://blog.zhangyisui.top/tags/%E5%BD%B1%E8%AF%84/"/>
-    
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="影评" scheme="https://blog.zhangyisui.top/tags/%E5%BD%B1%E8%AF%84/"/>
     
   </entry>
   
@@ -121,9 +144,9 @@
     <category term="杂谈" scheme="https://blog.zhangyisui.top/categories/%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="影评" scheme="https://blog.zhangyisui.top/tags/%E5%BD%B1%E8%AF%84/"/>
-    
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="影评" scheme="https://blog.zhangyisui.top/tags/%E5%BD%B1%E8%AF%84/"/>
     
   </entry>
   
@@ -447,27 +470,6 @@
     <category term="test" scheme="https://blog.zhangyisui.top/tags/test/"/>
     
     <category term="test2" scheme="https://blog.zhangyisui.top/tags/test2/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://blog.zhangyisui.top/posts/4a17b156/"/>
-    <id>https://blog.zhangyisui.top/posts/4a17b156/</id>
-    <published>2020-04-11T03:08:57.000Z</published>
-    <updated>2021-03-12T08:21:20.437Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><span id="more"></span><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><hr><p>声明: 这是hexo自动生成的测试页面，与版权什么的无关，因个人喜好不想删而已，如果是因为好奇点进来的话，很可惜你浪费了十五秒，建议好好学习一下英语</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="test" scheme="https://blog.zhangyisui.top/categories/test/"/>
-    
-    
-    <category term="test" scheme="https://blog.zhangyisui.top/tags/test/"/>
     
   </entry>
   
