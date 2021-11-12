@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2021-10-27T12:25:36.009Z</updated>
+  <updated>2021-11-12T16:01:37.737Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>vbs简单应用</title>
+    <link href="https://blog.zhangyisui.top/posts/aac567fd/"/>
+    <id>https://blog.zhangyisui.top/posts/aac567fd/</id>
+    <published>2021-11-10T09:36:10.730Z</published>
+    <updated>2021-11-12T16:01:37.737Z</updated>
+    
+    <content type="html"><![CDATA[<p>vbs的较为有趣的一个应用,可以在后台偷偷定时结束某个进程<span id="more"></span></p><p>新建TXT，后缀改成.VBS 代码如下：</p><p>do<br>set bag=getobject(“winmgmts:\.\root\cimv2”)<br>set pipe=bag.execquery(“select * from win32_process where name=’QQ.exe’”)<br>for each i in pipe<br>i.terminate()<br>next<br>wscript.sleep 1000<br>loop</p><p>每1000毫秒检测一次是否运行了QQ.exe这样一个程序<br>在运行的话则会自动后台关闭程序且毫无痕迹</p><p>1000毫秒和QQ.exe可以改成你需要的任何时间和任何你需要结束的进程<br>如果是系统是64位的就把Win32改成Win64</p><p>把建立的VBS存放在这个文件夹<br>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp<br>即可实现开机自启动<br>想要解除进入资源管理器找到VBS进程结束运行即可</p><p>经过测试可能并不稳定,出问题请自行探索</p><p>深夜更新且一天两更,其实是之前攒的没发</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;vbs的较为有趣的一个应用,可以在后台偷偷定时结束某个进程</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>EDG夺冠后</title>
+    <link href="https://blog.zhangyisui.top/posts/f26dad77/"/>
+    <id>https://blog.zhangyisui.top/posts/f26dad77/</id>
+    <published>2021-11-07T04:44:38.599Z</published>
+    <updated>2021-11-12T15:56:15.227Z</updated>
+    
+    <content type="html"><![CDATA[<p>本来我是个不太了解英雄联盟这种游戏的<span id="more"></span><br>偶尔去网吧玩的也是刺客信条之类的大单机<br>不过也有无聊的时候,加上被身边的朋友影响<br>有时也会玩个一两局,毕竟现象级游戏经久不衰想不了解都难<br>不过今天想谈的不是这个游戏<br>而是想谈一谈<br>edg夺冠后的社会现象<br>其实也没有那么严肃,抱着有趣的心态谈一谈<br>edg以及人们有趣的flag<br>以及这种某种层次上的社会狂欢<br>人们的行为同步的已经可以称之为社会行为<br>楼道里大喊的男女生应该都不在少数吧,当然女生理所应当的应该会少一点<br>甚至有人印了战队的战旗,当然这些尚在常理之内,无罪即行之自如<br>但是裸奔flag还有惊世骇俗的gay这种我提一下这事的层次直接就倍降<br>人类就是这样<br>一部分人或许的确是是哗众取宠<br>但绝对还有一部分人只是借机释放自己内心本就有的欲望罢了<br>这场比赛反而成了一部分人的狂欢契机,就像各种乱七八糟的节日<br>人类需要各种日子来释放自己的欲望<br>而部分毫不了解的女性们的跟风<br>大概可以解释为媚男<br>但男性也存在跟风现象<br>这种恐怕是来源于自身对被潮流抛弃的恐惧或者是获得自己身在潮流中的优越感,又或者只是单纯寻找归属感<br>当然以上仅针对跟风者,女性中存在游戏fans也并无奇怪之处</p><p>ps:B站有几个好活诸如叫100声爸爸还有倒立洗头以及倒立在操场上走一圈等等<br>略加搜索就能找到,感兴趣可以看看</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;本来我是个不太了解英雄联盟这种游戏的</summary>
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
   
   <entry>
     <title>失控玩家倒是真的让我失控了</title>
@@ -424,52 +464,6 @@
     <category term="改编" scheme="https://blog.zhangyisui.top/tags/%E6%94%B9%E7%BC%96/"/>
     
     <category term="文章" scheme="https://blog.zhangyisui.top/tags/%E6%96%87%E7%AB%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何跳过青年大学习</title>
-    <link href="https://blog.zhangyisui.top/posts/22179bc6/"/>
-    <id>https://blog.zhangyisui.top/posts/22179bc6/</id>
-    <published>2021-03-17T02:27:56.000Z</published>
-    <updated>2021-06-23T16:01:45.130Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="如何跳过青年大学习"><a href="#如何跳过青年大学习" class="headerlink" title="如何跳过青年大学习"></a>如何跳过青年大学习</h3><h2 id="6月23日更新-进了看几秒就退就会加分，小丑竟是我自己"><a href="#6月23日更新-进了看几秒就退就会加分，小丑竟是我自己" class="headerlink" title="6月23日更新 进了看几秒就退就会加分，小丑竟是我自己"></a>6月23日更新 进了看几秒就退就会加分，小丑竟是我自己</h2><h2 id="First-step"><a href="#First-step" class="headerlink" title="First step"></a>First step</h2><p>在微信上打开链接：<a href="http://debugtbs.qq.com/">http://debugtbs.qq.com</a> 和 <a href="http://debugmm.qq.com/?forcex5=true">debugmm.qq.com/?forcex5=true</a> 开启vConsole调试功能<span id="more"></span>（多数人先打开第二个等待出现x5内核打开的文字后打开第一个点击Debugx5，选择信息，勾选vConsole功能即可，部分人可能不同）<br>图↓</p><p><img src="https://ae01.alicdn.com/kf/U4d57217d6e314107be734a2c001203cfs.jpg" alt="演示图"><br><img src="https://ae01.alicdn.com/kf/Ub9b75d845e2c445c9d12c8eb939975a2R.jpg" alt="演示图"></p><h2 id="Second-step"><a href="#Second-step" class="headerlink" title="Second step"></a>Second step</h2><p>打开大学习视频，右下角会多出一个vConsole的绿色图标。点击开始学习之后，点击打开vConsole输入代码，点击ok即可<br>（可能需要粘贴两次代码，一次跳视频做题，一次跳视频）<br>（vConsole在微信中浏览其他网页时也会存在，如果介意，回到打开页面关闭即可）<br>代码↓</p><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">Bvideo.currentTime=800;</span><br><span class="line">Cvideo.currentTime=800;</span><br><span class="line">video.ended=1;</span><br></pre></td></tr></table></figure><hr><p>ps: 用了代码之后依然要答题<br>pps: 经测试，课后答题答不答无所谓，直接下一题就会显示答案且结果不会上传<br>ppps: 2021.3.17亲测可行  </p>]]></content>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;如何跳过青年大学习&quot;&gt;&lt;a href=&quot;#如何跳过青年大学习&quot; class=&quot;headerlink&quot; title=&quot;如何跳过青年大学习&quot;&gt;&lt;/a&gt;如何跳过青年大学习&lt;/h3&gt;&lt;h2 id=&quot;6月23日更新-进了看几秒就退就会加分，小丑竟是我自己&quot;&gt;&lt;a href=&quot;#6月23日更新-进了看几秒就退就会加分，小丑竟是我自己&quot; class=&quot;headerlink&quot; title=&quot;6月23日更新 进了看几秒就退就会加分，小丑竟是我自己&quot;&gt;&lt;/a&gt;6月23日更新 进了看几秒就退就会加分，小丑竟是我自己&lt;/h2&gt;&lt;h2 id=&quot;First-step&quot;&gt;&lt;a href=&quot;#First-step&quot; class=&quot;headerlink&quot; title=&quot;First step&quot;&gt;&lt;/a&gt;First step&lt;/h2&gt;&lt;p&gt;在微信上打开链接：&lt;a href=&quot;http://debugtbs.qq.com/&quot;&gt;http://debugtbs.qq.com&lt;/a&gt; 和 &lt;a href=&quot;http://debugmm.qq.com/?forcex5=true&quot;&gt;debugmm.qq.com/?forcex5=true&lt;/a&gt; 开启vConsole调试功能</summary>
-    
-    
-    
-    <category term="Android" scheme="https://blog.zhangyisui.top/categories/Android/"/>
-    
-    
-    <category term="Android" scheme="https://blog.zhangyisui.top/tags/Android/"/>
-    
-    <category term="微信" scheme="https://blog.zhangyisui.top/tags/%E5%BE%AE%E4%BF%A1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>你的武林</title>
-    <link href="https://blog.zhangyisui.top/posts/9d23a557/"/>
-    <id>https://blog.zhangyisui.top/posts/9d23a557/</id>
-    <published>2021-03-12T08:03:10.000Z</published>
-    <updated>2021-03-12T08:22:46.397Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="你的武林"><a href="#你的武林" class="headerlink" title="你的武林"></a>你的武林</h2><p>你万念俱灰，神色暗淡，未存生望，将死求安<br>却闻身后笛声轻起，百鸟皆还<br>你转身<br>看见柳笛弯弯<br>万般云霞皆暗淡<span id="more"></span><br>她轻叹，笛声戛然<br>你迈步，她抬首看<br>你拱手，她笑嫣然<br>你张口，说姑娘有何烦恼在下可否耳闻<br>在下虽已万念俱灰仍愿为姑娘碎骨粉身<br>她说既已叹息何必提故事沉沉<br>徒增悲意不如去自寻本真<br>鸟鸣悲婉<br>你也随之俯首轻叹<br>前行，空有孤寒，后退，四方皆岸<br>再抬首，她已起身。<br>你踌躇，你不决，终究向她喊到<br>明日可否再度相见？<br>她回身一笑，穿透春光灿烂，如月映照眼前。<br>如此你便明了了。<br>你不知她是谁<br>她不问你何归<br>时光细碎<br>如画唯美<br>同游天下<br>江湖忽危<br>你看见诏书。<br>败魔教者，封赏九族。<br>败魔教仇恨即无，成大事光复九族<br>最重要的<br>她的微笑，安定，或者说幸福<br>你很强，所以你拔剑，昂扬<br>为了让她，笑的安详<br>她只是笑<br>她说<br>无论如何<br>不要把我忘掉<br>你告诉她<br>鼠辈<br>不能伤她分毫<br>她步步跟随毫无怨言<br>你事事神勇护她周全<br>不觉之间宫殿已近在眼前<br>她已离去你放心面对凶险<br>你踏入<br>却是空城<br>你迈步<br>古琴铮铮<br>似有哀声<br>声源近在眼前<br>你走近，却看见她的容颜<br>月光，千年百年，未曾有变<br>春色，一朝一夕，还似从前<br>故事长长，如漏刻之沙，点点滴滴<br>而今，已是尽头<br>你抬首，你转身，你拔剑，又为了何人<br>两两相望<br>惟余轻笑<br>退无可退<br>身后已箭冲云霄<br>你懂了<br>但晚了<br>你一袭白衣剑尖染血，踌躇再三也未将柳笛忘掉。<br>她孑然一身仍带轻笑，笑你不懂她的情调。<br>你想起它的叹息<br>你想起小时候遇见过一个女孩<br>你很快就忘了<br>这就是你的武林</p><hr><p>ps: 偶然间看见b站的24小时写作挑战，然后想到自己很久都没写作了，心血来潮，就写了这篇。时间仓促，水平一般，剧情俗套，图一乐吧。</p>]]></content>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;你的武林&quot;&gt;&lt;a href=&quot;#你的武林&quot; class=&quot;headerlink&quot; title=&quot;你的武林&quot;&gt;&lt;/a&gt;你的武林&lt;/h2&gt;&lt;p&gt;你万念俱灰，神色暗淡，未存生望，将死求安&lt;br&gt;却闻身后笛声轻起，百鸟皆还&lt;br&gt;你转身&lt;br&gt;看见柳笛弯弯&lt;br&gt;万般云霞皆暗淡</summary>
-    
-    
-    
-    <category term="小说" scheme="https://blog.zhangyisui.top/categories/%E5%B0%8F%E8%AF%B4/"/>
-    
-    
-    <category term="小说" scheme="https://blog.zhangyisui.top/tags/%E5%B0%8F%E8%AF%B4/"/>
-    
-    <category term="诗" scheme="https://blog.zhangyisui.top/tags/%E8%AF%97/"/>
     
   </entry>
   
