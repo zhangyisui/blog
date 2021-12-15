@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2021-11-12T16:01:37.737Z</updated>
+  <updated>2021-11-12T16:04:27.926Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://blog.zhangyisui.top/posts/aac567fd/"/>
     <id>https://blog.zhangyisui.top/posts/aac567fd/</id>
     <published>2021-11-10T09:36:10.730Z</published>
-    <updated>2021-11-12T16:01:37.737Z</updated>
+    <updated>2021-11-12T16:04:27.926Z</updated>
     
     <content type="html"><![CDATA[<p>vbs的较为有趣的一个应用,可以在后台偷偷定时结束某个进程<span id="more"></span></p><p>新建TXT，后缀改成.VBS 代码如下：</p><p>do<br>set bag=getobject(“winmgmts:\.\root\cimv2”)<br>set pipe=bag.execquery(“select * from win32_process where name=’QQ.exe’”)<br>for each i in pipe<br>i.terminate()<br>next<br>wscript.sleep 1000<br>loop</p><p>每1000毫秒检测一次是否运行了QQ.exe这样一个程序<br>在运行的话则会自动后台关闭程序且毫无痕迹</p><p>1000毫秒和QQ.exe可以改成你需要的任何时间和任何你需要结束的进程<br>如果是系统是64位的就把Win32改成Win64</p><p>把建立的VBS存放在这个文件夹<br>C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp<br>即可实现开机自启动<br>想要解除进入资源管理器找到VBS进程结束运行即可</p><p>经过测试可能并不稳定,出问题请自行探索</p><p>深夜更新且一天两更,其实是之前攒的没发</p>]]></content>
     
@@ -40,7 +40,7 @@
     <link href="https://blog.zhangyisui.top/posts/f26dad77/"/>
     <id>https://blog.zhangyisui.top/posts/f26dad77/</id>
     <published>2021-11-07T04:44:38.599Z</published>
-    <updated>2021-11-12T15:56:15.227Z</updated>
+    <updated>2021-11-12T16:04:27.926Z</updated>
     
     <content type="html"><![CDATA[<p>本来我是个不太了解英雄联盟这种游戏的<span id="more"></span><br>偶尔去网吧玩的也是刺客信条之类的大单机<br>不过也有无聊的时候,加上被身边的朋友影响<br>有时也会玩个一两局,毕竟现象级游戏经久不衰想不了解都难<br>不过今天想谈的不是这个游戏<br>而是想谈一谈<br>edg夺冠后的社会现象<br>其实也没有那么严肃,抱着有趣的心态谈一谈<br>edg以及人们有趣的flag<br>以及这种某种层次上的社会狂欢<br>人们的行为同步的已经可以称之为社会行为<br>楼道里大喊的男女生应该都不在少数吧,当然女生理所应当的应该会少一点<br>甚至有人印了战队的战旗,当然这些尚在常理之内,无罪即行之自如<br>但是裸奔flag还有惊世骇俗的gay这种我提一下这事的层次直接就倍降<br>人类就是这样<br>一部分人或许的确是是哗众取宠<br>但绝对还有一部分人只是借机释放自己内心本就有的欲望罢了<br>这场比赛反而成了一部分人的狂欢契机,就像各种乱七八糟的节日<br>人类需要各种日子来释放自己的欲望<br>而部分毫不了解的女性们的跟风<br>大概可以解释为媚男<br>但男性也存在跟风现象<br>这种恐怕是来源于自身对被潮流抛弃的恐惧或者是获得自己身在潮流中的优越感,又或者只是单纯寻找归属感<br>当然以上仅针对跟风者,女性中存在游戏fans也并无奇怪之处</p><p>ps:B站有几个好活诸如叫100声爸爸还有倒立洗头以及倒立在操场上走一圈等等<br>略加搜索就能找到,感兴趣可以看看</p>]]></content>
     
@@ -99,6 +99,23 @@
     <category term="配色" scheme="https://blog.zhangyisui.top/tags/%E9%85%8D%E8%89%B2/"/>
     
     <category term="设计" scheme="https://blog.zhangyisui.top/tags/%E8%AE%BE%E8%AE%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为什么一随</title>
+    <link href="https://blog.zhangyisui.top/posts/3a10279/"/>
+    <id>https://blog.zhangyisui.top/posts/3a10279/</id>
+    <published>2021-09-11T03:03:56.271Z</published>
+    <updated>2021-12-15T12:26:59.568Z</updated>
+    
+    <content type="html"><![CDATA[<p>很久没更新了,学业繁忙人也忙<br>而且虽然社会事件很多,但我并不感兴趣,即使感兴趣很多事也不能谈<br>没什么可更新的,就抽一小会空闲写一写一随这个名字的由来好了<span id="more"></span><br>看似别致的名字其实很随意<br>只不过是初中的时候,和自己的朋友都给自己起了字<br>寓意是一笑随心<br>用了很久,后来习惯了,就一直用到现在<br>当时的轻狂和放纵就也随着名字留了下来<br>当时总以为自己也能像古代的才子一样成就一番事业<br>现在看来倒是的确和才子一样郁郁不得志<br>也算是一种讽刺,但又有谁会去刻意倾听笼中之鸟的悲鸣呢<br>除此之外就是和朋友的羁绊,我们一直用着当时的名字,就好像我们的友情也从未改变<br>的确蛮中二,的但不会忘记,而且当时我们的确初中二年级</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;很久没更新了,学业繁忙人也忙&lt;br&gt;而且虽然社会事件很多,但我并不感兴趣,即使感兴趣很多事也不能谈&lt;br&gt;没什么可更新的,就抽一小会空闲写一写一随这个名字的由来好了</summary>
+    
+    
+    
     
   </entry>
   
@@ -441,29 +458,6 @@
     <category term="失眠单元" scheme="https://blog.zhangyisui.top/tags/%E5%A4%B1%E7%9C%A0%E5%8D%95%E5%85%83/"/>
     
     <category term="社论" scheme="https://blog.zhangyisui.top/tags/%E7%A4%BE%E8%AE%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>凡浪</title>
-    <link href="https://blog.zhangyisui.top/posts/3848569/"/>
-    <id>https://blog.zhangyisui.top/posts/3848569/</id>
-    <published>2021-03-17T05:37:09.000Z</published>
-    <updated>2021-03-17T05:46:49.875Z</updated>
-    
-    <content type="html"><![CDATA[<h3 id="凡浪"><a href="#凡浪" class="headerlink" title="凡浪"></a>凡浪</h3><p>那些口口声声“一步更胜一步”的人们，应该看看你们。<br>我看着你们，满怀悲伤。<br>人类拥有过几千年的财富，所有的知识、见识、智慧和艺术。大多却是在橱窗里展出的礼物。<br>科技繁荣，文化繁茂，城市繁华。  <span id="more"></span><br>现代文明的成果被层层打开，却难以真正去享用。<br>囿于获取一点金钱，握住手中饭碗，走完整场人生，向难及的梦想进发。<br>很多人，从小你们就被环境决定自己的命运。<br>很多人在童年就进入了而立之年，而立为自己困于什么，不困于什么。<br>人与人之间的联系被重塑，你们看着他人的生活，却找不到自己那值得交心的朋友。<br>你们失去了，人类本该拥有的权利，自由的权利。<br>你所奔波的，就是你的生活。<br>你们不幸，遇见这样的时代。但是时代却有幸，遇见这样的你们。<br>我看着你们，满怀歉意。<br>为时代的时有不公道歉。<br>时代正在把平凡的化为伟大的，把悲伤的化为快乐的，把错误的化为正确的，把局部的化为整体的。<br>但你将自己的生命付出给能让成千上万的人享受快乐的事业。<br>为时代的歧视致歉。<br>自傲的人总习惯贬低与否定。<br>真正坚强的人，从不在乎质疑与夸耀。<br>为时代的迷茫致歉。<br>小人独善其身，君子兼济天下，求仁得仁。<br>用普通的人生去铸就更伟大的文化，审美和价值观。<br>有一天我发现，不只是我们在感悟如何去生活。<br>你们也在启发我们，如何去更好的生活。<br>那些唱着一浪更胜一浪的人，应该看着你们。<br>就像我一样，我看着你们，满怀感激。<br>因为你们，这个世界会更喜欢中国。<br>因为一个国家最好看的风景都源自国家中的平凡人。<br>因为你们，这世上的小说、音乐和电影所表现的生活就不再是困惑、悲凉，而是勤奋、善良、平实，无所畏惧。<br>是胸怀大爱，来日方长。<br>虽然没有活成想象中的样子。但每一代人的想象亦都不足以想象真正的未来。<br>如果你们仍然想拥有一些祝福。<br>那么，<br>激扬吧，凡浪!<br>我们在同一条激扬的河流。  </p><hr><p>的确没有写在真正的痛点上，因为大部分人其实都还算开心，并且生活在后浪和凡浪之间的夹层里。<br>不过，当时的我也的确很丧<br>正因此，我写的是当时的我所认为的底层<br>其中有一些可能只有我能理解但自以为别人也能理解的细节，大可忽略<br>博君一笑  </p><p>个人感觉快手的奥力给版本更贴近普通人  </p><p>附：原版及快手版地址<br><a href="https://www.bilibili.com/video/BV1FV411d7u7">后浪</a><br><a href="https://www.bilibili.com/video/BV1tK4y147uv">快手版后浪《看见》</a>  </p>]]></content>
-    
-    
-    <summary type="html">&lt;h3 id=&quot;凡浪&quot;&gt;&lt;a href=&quot;#凡浪&quot; class=&quot;headerlink&quot; title=&quot;凡浪&quot;&gt;&lt;/a&gt;凡浪&lt;/h3&gt;&lt;p&gt;那些口口声声“一步更胜一步”的人们，应该看看你们。&lt;br&gt;我看着你们，满怀悲伤。&lt;br&gt;人类拥有过几千年的财富，所有的知识、见识、智慧和艺术。大多却是在橱窗里展出的礼物。&lt;br&gt;科技繁荣，文化繁茂，城市繁华。</summary>
-    
-    
-    
-    <category term="文章" scheme="https://blog.zhangyisui.top/categories/%E6%96%87%E7%AB%A0/"/>
-    
-    
-    <category term="改编" scheme="https://blog.zhangyisui.top/tags/%E6%94%B9%E7%BC%96/"/>
-    
-    <category term="文章" scheme="https://blog.zhangyisui.top/tags/%E6%96%87%E7%AB%A0/"/>
     
   </entry>
   
