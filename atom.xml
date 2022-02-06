@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2022-01-17T04:34:19.929Z</updated>
+  <updated>2022-02-06T10:13:05.284Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2b2t引发的思考</title>
+    <link href="https://blog.zhangyisui.top/posts/fbca82ca/"/>
+    <id>https://blog.zhangyisui.top/posts/fbca82ca/</id>
+    <published>2022-02-06T10:12:41.657Z</published>
+    <updated>2022-02-06T10:13:05.284Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="因"><a href="#因" class="headerlink" title="因"></a>因</h2><p>最近稍微有点无聊<br>偶然在b站上看到一些有关mc的视频<br>就突然想再玩玩mc<br>以前虽然简单玩过,但仅仅是手机版,况且还是盗版,除了挖洞建房子,挖铁做盔甲基本没干过别的<br>可以说并未深入了解<br>既然已经过了这么久<br>就肯定不会像以前那样只是建个小房子或者养羊种菜<br>打算下载些别人的存档<br>看看宏伟的建筑,自己也搞搞建筑<br>顺便搞搞服务器,手里刚好有个vps<br>而我玩这个游戏也正是因为对创造性的东西比较有兴趣<br>顺便一提,如果你也像我一样想玩mc却被正版价格劝退推荐使用<a href="https://hmcl.huangyuhui.net/download">HMCL</a>,开源免费良心启动器,功能就不介绍了自己看<br>至于为什么叫启动器涉及到mc启动原理,不复杂但很磨叽,想了解的建议<a href="https://www.baidu.com/s?wd=mc%E5%90%AF%E5%8A%A8%E5%8E%9F%E7%90%86">百度</a><br>ps : 建议直接在GitHub下载,比官网的城通快</p><h3 id="2b2t"><a href="#2b2t" class="headerlink" title="2b2t"></a>2b2t</h3><p>唠叨了这么多回到正题<br>大数据大家都懂,在我看了几个建筑视频后<br>看到了有关<a href="https://www.baidu.com/s?wd=2b2t">2b2t</a>的视频<br>充满好奇心的我自然是毫不犹豫<br>直接开搞 注意:进入2b2t需要的版本是1.12.2<br>服务器地址为:2b2t.xin<br>进去大概玩了两三个个小时<br>被人杀了很多次,身上什么都没有,出生点附近全是一片荒芜<br>只有偶然捡到的一组紫颂果<br>但我并没有感觉无聊,毕竟只是游戏,然后我顺手加了一个所谓”组织”的群<br>才算是稍微了解了这个服务器<br>怎么说呢<br>一个组织化 暴力化 且多个组织相互排斥的超现实世界<br>虽然看起来颇有孩子玩乐的性质<br>不过你在这里会遇见各种人<br>只能说,相对而言<br>饭圈那一套其实不过是政治文化的衍生<br>或者说削弱版<br>可在这个游戏里<br>我看见了又一个变种<br>实话实说<br>挺嘲讽的<br>宛若一面现实的哈哈镜,但人类偶尔的确分不清现实和梦境</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;因&quot;&gt;&lt;a href=&quot;#因&quot; class=&quot;headerlink&quot; title=&quot;因&quot;&gt;&lt;/a&gt;因&lt;/h2&gt;&lt;p&gt;最近稍微有点无聊&lt;br&gt;偶然在b站上看到一些有关mc的视频&lt;br&gt;就突然想再玩玩mc&lt;br&gt;以前虽然简单玩过,但仅仅是手机版,况且还是盗版,除了挖洞</summary>
+      
+    
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/categories/%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="社论" scheme="https://blog.zhangyisui.top/tags/%E7%A4%BE%E8%AE%BA/"/>
+    
+    <category term="文章" scheme="https://blog.zhangyisui.top/tags/%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>《我要批评你一下》</title>
@@ -33,11 +63,11 @@
     <category term="转载" scheme="https://blog.zhangyisui.top/categories/%E8%BD%AC%E8%BD%BD/"/>
     
     
+    <category term="文章" scheme="https://blog.zhangyisui.top/tags/%E6%96%87%E7%AB%A0/"/>
+    
     <category term="吐槽" scheme="https://blog.zhangyisui.top/tags/%E5%90%90%E6%A7%BD/"/>
     
     <category term="转载" scheme="https://blog.zhangyisui.top/tags/%E8%BD%AC%E8%BD%BD/"/>
-    
-    <category term="文章" scheme="https://blog.zhangyisui.top/tags/%E6%96%87%E7%AB%A0/"/>
     
   </entry>
   
@@ -81,9 +111,9 @@
     <category term="诗" scheme="https://blog.zhangyisui.top/categories/%E8%AF%97/"/>
     
     
-    <category term="诗" scheme="https://blog.zhangyisui.top/tags/%E8%AF%97/"/>
-    
     <category term="文章" scheme="https://blog.zhangyisui.top/tags/%E6%96%87%E7%AB%A0/"/>
+    
+    <category term="诗" scheme="https://blog.zhangyisui.top/tags/%E8%AF%97/"/>
     
   </entry>
   
@@ -441,29 +471,6 @@
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
     
     <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>水房内卷的联想</title>
-    <link href="https://blog.zhangyisui.top/posts/c76f13ad/"/>
-    <id>https://blog.zhangyisui.top/posts/c76f13ad/</id>
-    <published>2021-05-28T13:54:56.000Z</published>
-    <updated>2021-06-03T06:37:56.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>三楼的水房不大，但理论上完全够用，<span id="more"></span><br>不过在早上的使用高峰期，用水仍需排队，而多数人会为自己的室友占位子又导致很多人来到水房却又无水可用，反而只能望水兴叹<br>这进一步加剧了排队<br>这就导致了水房内卷<br>可在我在已经被占的位子上洗漱后发现，多数人还是愿意互帮互助的，<br>即使你临时占用他们的位子，只要不是洗头这种长时间的操作，多数人是愿意和你共享一会位子的。<br>今早我走进水房时，一个人正在我室友帮我占的位子上刷牙，想到其他人对我的帮助，我决定也帮别人一次，<br>我站在他身后时突然想到，其实每一个个体都是内卷的受害者，内卷并非由谁发起，内卷实际上是制度问题，<br>诸如学校的水房太小，排宿舍的时候将三楼排成八人寝导致人数过多等等原因<br>所以，由此推断…<br>又能得到什么呢</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;三楼的水房不大，但理论上完全够用，</summary>
-    
-    
-    
-    <category term="随笔" scheme="https://blog.zhangyisui.top/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="吐槽" scheme="https://blog.zhangyisui.top/tags/%E5%90%90%E6%A7%BD/"/>
-    
-    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
