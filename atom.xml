@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2022-03-17T13:45:52.642Z</updated>
+  <updated>2022-03-17T13:48:32.108Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -21,16 +21,12 @@
     <link href="https://blog.zhangyisui.top/posts/2b5a5bd9/"/>
     <id>https://blog.zhangyisui.top/posts/2b5a5bd9/</id>
     <published>2022-03-17T12:59:54.653Z</published>
-    <updated>2022-03-17T13:45:52.642Z</updated>
+    <updated>2022-03-17T13:48:32.108Z</updated>
     
-    <content type="html"><![CDATA[<p>如题所言这是一篇专门用来骂腾讯的博文<br>这篇文章会尽量模块化并且有详细的考证,并且会渐渐补充,也欢迎各位进行补充<br>众所周知腾讯靠垄断和抄赚钱,这个应该不需要考证<br>那这就开始了</p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="微信"><a href="#微信" class="headerlink" title="微信"></a>微信</h3><h3 id="QQ"><a href="#QQ" class="headerlink" title="QQ"></a>QQ</h3><h2 id="游戏领域"><a href="#游戏领域" class="headerlink" title="游戏领域"></a>游戏领域</h2><h3 id="英雄联盟"><a href="#英雄联盟" class="headerlink" title="英雄联盟"></a>英雄联盟</h3><h3 id="地下城与勇士"><a href="#地下城与勇士" class="headerlink" title="地下城与勇士"></a>地下城与勇士</h3><h2 id="文学-网文领域"><a href="#文学-网文领域" class="headerlink" title="文学(网文领域)"></a>文学(网文领域)</h2><h2 id="服务"><a href="#服务" class="headerlink" title="服务"></a>服务</h2>]]></content>
+    <content type="html"><![CDATA[<p>如题所言这是一篇专门用来骂腾讯的博文<br>这篇文章会尽量模块化并且有详细的考证,并且会渐渐补充,也欢迎各位进行补充<span id="more"></span><br>众所周知腾讯靠垄断和抄赚钱,这个应该不需要考证<br>那这就开始了</p><h2 id="互联网"><a href="#互联网" class="headerlink" title="互联网"></a>互联网</h2><h3 id="微信"><a href="#微信" class="headerlink" title="微信"></a>微信</h3><h3 id="QQ"><a href="#QQ" class="headerlink" title="QQ"></a>QQ</h3><h2 id="游戏领域"><a href="#游戏领域" class="headerlink" title="游戏领域"></a>游戏领域</h2><h3 id="英雄联盟"><a href="#英雄联盟" class="headerlink" title="英雄联盟"></a>英雄联盟</h3><h3 id="地下城与勇士"><a href="#地下城与勇士" class="headerlink" title="地下城与勇士"></a>地下城与勇士</h3><h2 id="文学-网文领域"><a href="#文学-网文领域" class="headerlink" title="文学(网文领域)"></a>文学(网文领域)</h2><h2 id="服务"><a href="#服务" class="headerlink" title="服务"></a>服务</h2>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;如题所言这是一篇专门用来骂腾讯的博文&lt;br&gt;这篇文章会尽量模块化并且有详细的考证,并且会渐渐补充,也欢迎各位进行补充&lt;br&gt;众所周知腾讯靠垄断和抄赚钱,这个应该不需要考证&lt;br&gt;那这就开始了&lt;/p&gt;
-&lt;h2 id=&quot;互联网&quot;&gt;&lt;a href=&quot;#互联网&quot; class=&quot;he</summary>
-      
+    <summary type="html">&lt;p&gt;如题所言这是一篇专门用来骂腾讯的博文&lt;br&gt;这篇文章会尽量模块化并且有详细的考证,并且会渐渐补充,也欢迎各位进行补充</summary>
     
     
     
@@ -50,7 +46,7 @@
     <link href="https://blog.zhangyisui.top/posts/e8d8fd18/"/>
     <id>https://blog.zhangyisui.top/posts/e8d8fd18/</id>
     <published>2022-03-17T12:54:50.479Z</published>
-    <updated>2022-03-17T13:36:59.167Z</updated>
+    <updated>2022-03-17T13:46:50.732Z</updated>
     
     <content type="html"><![CDATA[<p>已经兴起了一阵的魔法技术<span id="more"></span><br>但因为众所周知的原因肯定是不能教的<br>所以在这里给出关键词<br>顺便提一下GitHub<br>懂得都懂(笑<br>至于你为什么要用,有需求的自然会懂<br>没需求就是你不需要<br>顺带说一下你的需求与我无关</p>]]></content>
     
@@ -408,9 +404,9 @@
     
     <category term="文章" scheme="https://blog.zhangyisui.top/tags/%E6%96%87%E7%AB%A0/"/>
     
-    <category term="吐槽" scheme="https://blog.zhangyisui.top/tags/%E5%90%90%E6%A7%BD/"/>
-    
     <category term="转载" scheme="https://blog.zhangyisui.top/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+    <category term="吐槽" scheme="https://blog.zhangyisui.top/tags/%E5%90%90%E6%A7%BD/"/>
     
   </entry>
   
