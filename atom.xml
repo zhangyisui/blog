@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2022-03-20T10:10:40.503Z</updated>
+  <updated>2022-03-21T06:12:28.706Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -17,19 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>某些死忠的逻辑</title>
+    <link href="https://blog.zhangyisui.top/posts/2545eefa/"/>
+    <id>https://blog.zhangyisui.top/posts/2545eefa/</id>
+    <published>2022-03-21T06:07:11.438Z</published>
+    <updated>2022-03-21T06:12:28.706Z</updated>
+    
+    <content type="html"><![CDATA[<p>小短文讽刺所谓的死忠逻辑,来自知乎</p><span id="more"></span><p>有人安利我鲱鱼罐头。</p><p>我:“不吃，谢谢。”</p><p>她:“你为什么不吃？”</p><p>我:“因为臭。”</p><p>她:“你凭什么说鲱鱼罐头臭，你吃过么你就说臭，有句话叫未知全貌不予置评你知道么？”</p><p>我:“大家都说臭。”</p><p>她:“谁说的？作为一个纯路人我告诉你，鲱鱼罐头不仅香，还和北京烤鸭天津狗不理并称中国三大传统美食！”</p><p>我:“没听说过。”</p><p>她:“一看你就没怎么读过书吧，没什么分辨力和审美。”</p><p>我:“我只是不想吃鲱鱼罐头而已。”</p><p>她:“凭什么啊？你知道鲱鱼有多努力么，你凭什么不吃鲱鱼罐头？”</p><p>我:“我不喜欢吃。”</p><p>她:“我看可不是，你不就是最爱黄花鱼罐头么？别以为我不知道你是在歧视鲱鱼，你收了黄花鱼多少钱啊？恰那烂钱有意思么？”</p><p>我（忍无可忍）:“正常情况下没人主动去吃鲱鱼罐头吧。”</p><p>她（气抖冷）:“什么叫正常情况下？合着我们鲱鱼党就不是正常人对么？你这叫造谣诽谤网暴你知道么，作为法学博士我要告诉你造谣诽谤网暴是犯法的。”</p><p>我:“……”</p><p>她:“你自己不吃鲱鱼罐头，本来就是恶习，以后传给你儿子孙子，你全家都不吃鲱鱼罐头，你知道这是多大的损失么，这就是教育的失败！”</p><p>我:“……”</p><p>她:“鲱鱼罐头这种正能量的美食，凭什么不全民推广，凭什么不让宣扬，作为两个孩子的妈，我就是鲱鱼罐头最忠实的妈妈粉，不仅我吃，我还要教育我的孩子一起吃。”</p><p>修改一下</p><p>又到了一年一度的文明观虾时间，有的 是上来就开骂，有的是车轱辘话说半天，也不知道在说啥……</p><p>这几只虾的经典逻辑</p><p>明明这事就怪那些给你推荐鲱鱼罐头的人，凭什么上升到鲱鱼罐头本身？</p><p>你这种不吃鲱鱼罐头的本来就是少数，还真以为自己能代表大家？</p><p>鲱鱼罐头臭还不是因为你们天天跟风黑鲱鱼罐头，要不它怎么可能是臭的？</p><p>不吃鲱鱼罐头，你罪该万死！</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;小短文讽刺所谓的死忠逻辑,来自知乎&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="转载" scheme="https://blog.zhangyisui.top/categories/%E8%BD%AC%E8%BD%BD/"/>
+    
+    
+    <category term="转载" scheme="https://blog.zhangyisui.top/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+    <category term="逻辑" scheme="https://blog.zhangyisui.top/tags/%E9%80%BB%E8%BE%91/"/>
+    
+  </entry>
+  
+  <entry>
     <title>一些有关浏览器和电脑操作的技巧</title>
     <link href="https://blog.zhangyisui.top/posts/d0b4e8d/"/>
     <id>https://blog.zhangyisui.top/posts/d0b4e8d/</id>
     <published>2022-03-20T10:10:25.372Z</published>
-    <updated>2022-03-20T10:10:40.503Z</updated>
+    <updated>2022-03-21T06:12:26.610Z</updated>
     
-    <content type="html"><![CDATA[<p>按 F12 弹出控制台，按 ctrl+shift+p 弹出输入框输入full，选择 capture full size screenshot 然后点击就会对当前网页进图并生成下载一个图片。 这个比用 QQ 截图好用的地方就是有滚动条的网页也可以全部截图到，所以叫长截图</p><p>打开网站，地址栏输入javascript:void(document.body.contentEditable=’true’);当然也可以直接在控制台输入 document.body.contentEditable=true或document.designMode = “on”然后就可以自行改变网页内容了，所以截图并非全部可信，比如之前有人借用王思聪名义用微博发支付宝的红包，可谓套路满满。</p><p>有些网站不能复制，比如懂得都懂的某度，F12打开控制台,点击左上角箭头，选择网页内容，可以在控制台看到内容，直接复制即可</p><p>使用隐身模式（按ctrl+shift+n进入），即可在一个浏览器上登录另外一个账号</p><p>想下载网页上的图片，如果一张一张的另存为，明显很蠢只需要使用这个<a href="https://www.pullywood.com/ImageAssistant/">脚本</a>即可</p><p>如果想搜索知乎上最近关于周杰伦的讨论，搜索site:zhihu.com 周杰伦，注意网址不要带http:// 有些网站没有搜索功能的话就可以这样搜索</p><p>如果查找关于 清朝 的论文，可以搜 filetype:doc 清朝 百度上有许多文档,但很多需要vip,这时候只需要将地址中的 baidu 改为 baiduvvv，地址就成了 <a href="https://wenku.baiduvvv.com/view/...........%E7%9B%B4%E6%8E%A5%E7%82%B9%E4%B8%8B%E8%BD%BD%E5%8D%B3%E5%8F%AF%E3%80%82">https://wenku.baiduvvv.com/view/...........直接点下载即可。</a></p><p>如果嫌麻烦可以使用 冰点文库下载器，无需积分，注册和登录就可以自由下载百度、豆丁等文库的文档，</p><p>如果是电子书搜索可以使用专业的<a href="https://www.jiumodiary.com/">鸠摩搜索</a>，可以直接找到对应的网盘链接</p><p>由于某些不可抗力因素，网上有些信息被删了，这时候可以使用搜素引擎的网页快照快照</p><p>有人还开发了个<a href="https://2tool.top/">网页快照网</a>，在某个网址的域名前面加上his.sh/ ，即可显示该网址在各大搜索引擎的网页快照。</p><p>互联网上的记录都被记录在 <a href="archive.org">archive.org</a> 和 <a href="archive.is">archive.is</a> 这类网站时光机</p><p>win+L可以直接锁屏</p><p>按下windows键+R，输入psr.exe回车，然后点击”开始记录”可以调用步骤记录器</p><p>它会记录下你做的所有操作，然后生成一个文档,单击停止记录后，会将详细记录文档保存到一个压缩文件中。</p><p>按住”Ctrl+Shift+N”键，立刻新建文件夹。</p><p>打开运行栏，输入osk可以打开虚拟键盘</p><p>“ctrl+w关闭当前页面</p><p>“Ctrl+P”键，打印文档</p>]]></content>
+    <content type="html"><![CDATA[<p>一些乱七八糟的技巧,不过确实有用</p><span id="more"></span><p>按 F12 弹出控制台，按 ctrl+shift+p 弹出输入框输入full，选择 capture full size screenshot 然后点击就会对当前网页进图并生成下载一个图片。 这个比用 QQ 截图好用的地方就是有滚动条的网页也可以全部截图到，所以叫长截图</p><p>打开网站，地址栏输入javascript:void(document.body.contentEditable=’true’);当然也可以直接在控制台输入 document.body.contentEditable=true或document.designMode = “on”然后就可以自行改变网页内容了，所以截图并非全部可信，比如之前有人借用王思聪名义用微博发支付宝的红包，可谓套路满满。</p><p>有些网站不能复制，比如懂得都懂的某度，F12打开控制台,点击左上角箭头，选择网页内容，可以在控制台看到内容，直接复制即可</p><p>使用隐身模式（按ctrl+shift+n进入），即可在一个浏览器上登录另外一个账号</p><p>想下载网页上的图片，如果一张一张的另存为，明显很蠢,只需要使用这个<a href="https://www.pullywood.com/ImageAssistant/">脚本</a>即可</p><p>如果想搜索知乎上最近关于周杰伦的讨论，搜索site:zhihu.com 周杰伦，注意网址不要带http:// 有些网站没有搜索功能的话就可以这样搜索</p><p>如果查找关于 清朝 的论文，可以搜 filetype:doc 清朝 百度上有许多文档,但很多需要vip,这时候只需要将地址中的 baidu 改为 baiduvvv，地址就成了 <a href="https://wenku.baiduvvv.com/view/...........">https://wenku.baiduvvv.com/view/………..</a>这种,直接点下载即可。</p><p>如果嫌麻烦可以使用 冰点文库下载器，无需积分，注册和登录就可以自由下载百度、豆丁等文库的文档，</p><p>如果是电子书搜索可以使用专业的<a href="https://www.jiumodiary.com/">鸠摩搜索</a>，可以直接找到对应的网盘链接</p><p>由于某些不可抗力因素，网上有些信息被删了，这时候可以使用搜素引擎的网页快照快照</p><p>有人还开发了个<a href="https://2tool.top/">网页快照网</a>，在某个网址的域名前面加上his.sh/ ，即可显示该网址在各大搜索引擎的网页快照。</p><p>互联网上的记录都被记录在 <a href="archive.org">archive.org</a> 和 <a href="archive.is">archive.is</a> 这类网站时光机</p><p>win+L可以直接锁屏</p><p>按下windows键+R，输入psr.exe回车，然后点击”开始记录”可以调用步骤记录器</p><p>它会记录下你做的所有操作，然后生成一个文档,单击停止记录后，会将详细记录文档保存到一个压缩文件中。</p><p>按住”Ctrl+Shift+N”键，立刻新建文件夹。</p><p>打开运行栏，输入osk可以打开虚拟键盘</p><p>“ctrl+w关闭当前页面</p><p>“Ctrl+P”键，打印文档</p>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;按 F12 弹出控制台，按 ctrl+shift+p 弹出输入框输入full，选择 capture full size screenshot 然后点击就会对当前网页进图并生成下载一个图片。 这个比用 QQ 截图好用的地方就是有滚动条的网页也可以全部截图到，所以叫长截图&lt;/p</summary>
-      
+    <summary type="html">&lt;p&gt;一些乱七八糟的技巧,不过确实有用&lt;/p&gt;</summary>
     
     
     
@@ -47,7 +67,7 @@
     <link href="https://blog.zhangyisui.top/posts/4460425a/"/>
     <id>https://blog.zhangyisui.top/posts/4460425a/</id>
     <published>2022-03-19T11:57:10.968Z</published>
-    <updated>2022-03-19T11:57:30.796Z</updated>
+    <updated>2022-03-20T10:11:14.433Z</updated>
     
     <content type="html"><![CDATA[<p>现代文盲大概就是<br>识字又看过书却依然是文盲,什么都不懂却没了谦虚</p><span id="more"></span><p>虽然我认为的确是有很多人有了知识，却不大会思考，但这比以前的文盲要好得多<br>过去的文盲，他虽然会保持“谦虚”，但这种“谦虚”也是盲目的，那就是面对知识份子的盲信。你和以前的文盲说“存在主义万岁”，以前的文盲也会跟着喊“存在主义万岁”<br>但他们知道存在主义是什么吗？存在是什么？主义又是什么？它为何万岁？他们不知道，就算你一字一句的和他解释，他们也缺乏一种接受的能力，<br>他们只知道有个知识分子喊存在主义万岁，跟着喊罢了<br>而现在，你和你的朋友说存在主义万岁，他可能不知道这是什么，但你和他解释，他可能不会认同，但他能明白存在主义是什么，你为什么说它“万岁”。<br>每个人都在表达，就一定不好吗？我不这么认为。独立思考的能力不是凭空产生的，有非常多不同的声音，能促使人在这些声音中来回权衡，这恰恰能帮助人独立思考。<br>以上.</p>]]></content>
     
@@ -59,9 +79,9 @@
     <category term="杂谈" scheme="https://blog.zhangyisui.top/categories/%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
-    
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
@@ -129,9 +149,9 @@
     <category term="杂谈" scheme="https://blog.zhangyisui.top/categories/%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
-    
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
     
     <category term="社论" scheme="https://blog.zhangyisui.top/tags/%E7%A4%BE%E8%AE%BA/"/>
     
@@ -154,9 +174,9 @@
     <category term="杂谈" scheme="https://blog.zhangyisui.top/categories/%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
-    
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
     
     <category term="社论" scheme="https://blog.zhangyisui.top/tags/%E7%A4%BE%E8%AE%BA/"/>
     
@@ -179,9 +199,9 @@
     <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
-    
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
     
     <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
     
@@ -476,33 +496,6 @@
     <category term="文章" scheme="https://blog.zhangyisui.top/tags/%E6%96%87%E7%AB%A0/"/>
     
     <category term="转载" scheme="https://blog.zhangyisui.top/tags/%E8%BD%AC%E8%BD%BD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>2b2t引发的思考</title>
-    <link href="https://blog.zhangyisui.top/posts/fbca82ca/"/>
-    <id>https://blog.zhangyisui.top/posts/fbca82ca/</id>
-    <published>2022-02-06T10:12:41.657Z</published>
-    <updated>2022-02-06T10:16:45.202Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="因"><a href="#因" class="headerlink" title="因"></a>因</h2><p>最近稍微有点无聊<br>偶然在b站上看到一些有关mc的视频<br>就突然想再玩玩mc,不过要谈的显然不是mc<span id="more"></span><br>以前虽然简单玩过,但仅仅是手机版,况且还是盗版,除了挖洞建房子,挖铁做盔甲基本没干过别的<br>可以说并未深入了解<br>既然已经过了这么久<br>就肯定不会像以前那样只是建个小房子或者养羊种菜<br>打算下载些别人的存档<br>看看宏伟的建筑,自己也搞搞建筑<br>顺便搞搞服务器,手里刚好有个vps<br>而我玩这个游戏也正是因为对创造性的东西比较有兴趣<br>顺便一提,如果你也像我一样想玩mc却被正版价格劝退推荐使用<a href="https://hmcl.huangyuhui.net/download">HMCL</a>,开源免费良心启动器,功能就不介绍了自己看<br>至于为什么叫启动器涉及到mc启动原理,不复杂但很磨叽,想了解的建议<a href="https://www.baidu.com/s?wd=mc%E5%90%AF%E5%8A%A8%E5%8E%9F%E7%90%86">百度</a><br>ps : 建议直接在GitHub下载,比官网的城通快</p><h3 id="2b2t"><a href="#2b2t" class="headerlink" title="2b2t"></a>2b2t</h3><p>唠叨了这么多回到正题<br>大数据大家都懂,在我看了几个建筑视频后<br>看到了有关<a href="https://www.baidu.com/s?wd=2b2t">2b2t</a>的视频<br>充满好奇心的我自然是毫不犹豫<br>直接开搞 注意:进入2b2t需要的版本是1.12.2<br>服务器地址为:2b2t.xin<br>进去大概玩了两三个个小时<br>被人杀了很多次,身上什么都没有,出生点附近全是一片荒芜<br>只有偶然捡到的一组紫颂果<br>但我并没有感觉无聊,毕竟只是游戏,然后我顺手加了一个所谓”组织”的群<br>才算是稍微了解了这个服务器<br>怎么说呢<br>一个组织化 暴力化 且多个组织相互排斥的超现实世界<br>虽然看起来颇有孩子玩乐的性质<br>不过你在这里会遇见各种人<br>只能说,相对而言<br>饭圈那一套其实不过是政治文化的衍生<br>或者说削弱版<br>可在这个游戏里<br>我看见了又一个变种<br>实话实说<br>挺嘲讽的<br>宛若一面现实的哈哈镜,但人类偶尔的确分不清现实和梦境</p>]]></content>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;因&quot;&gt;&lt;a href=&quot;#因&quot; class=&quot;headerlink&quot; title=&quot;因&quot;&gt;&lt;/a&gt;因&lt;/h2&gt;&lt;p&gt;最近稍微有点无聊&lt;br&gt;偶然在b站上看到一些有关mc的视频&lt;br&gt;就突然想再玩玩mc,不过要谈的显然不是mc</summary>
-    
-    
-    
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/categories/%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
-    <category term="社论" scheme="https://blog.zhangyisui.top/tags/%E7%A4%BE%E8%AE%BA/"/>
-    
-    <category term="文章" scheme="https://blog.zhangyisui.top/tags/%E6%96%87%E7%AB%A0/"/>
     
   </entry>
   
