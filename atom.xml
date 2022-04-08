@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2022-04-07T09:19:53.397Z</updated>
+  <updated>2022-04-08T10:29:46.297Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>如何制造一篇论文</title>
+    <link href="https://blog.zhangyisui.top/posts/fb5bed0f/"/>
+    <id>https://blog.zhangyisui.top/posts/fb5bed0f/</id>
+    <published>2022-04-08T10:26:11.664Z</published>
+    <updated>2022-04-08T10:29:46.297Z</updated>
+    
+    <content type="html"><![CDATA[<p>如题,不废话了<span id="more"></span></p><h2 id="确立合适的选题"><a href="#确立合适的选题" class="headerlink" title="确立合适的选题"></a>确立合适的选题</h2><p>1 选择你知道“具体要做什么的”题目</p><p>2 选泽有过接触的量力而行</p><p>3 找最新的一些资料,提前调研文献收集快速预览</p><p>4 和导师多沟通,听取老师的建议</p><h2 id="选题的创新点"><a href="#选题的创新点" class="headerlink" title="选题的创新点"></a>选题的创新点</h2><p>1 前人研究较少的内容<br>2 以不同角度作为重点和亮点<br>论文涉及到调研收集数据<br>理论建模分析实验讨论等<br>任何一个环节都能作为亮点<br>3 阅读大量的阅读文献<br>可以去复现别人工作中的实验/调研在解决困难的过程中也能找到创新点</p><h2 id="如何寻找合适的文献"><a href="#如何寻找合适的文献" class="headerlink" title="如何寻找合适的文献"></a>如何寻找合适的文献</h2><p>1 所在领域内的顶级国际会议和期刊杂志的文章,找影响因子高的<br>2 对文献进行排序 关键词相关度相关时间被引用次数<br>3 在被引用次数多的文献里找引用这篇文章前几名文章<br>4 关注综述类文章（Survey）<br>5 搜索英文文献<br>积累英文关键词搜索同一中文词对应的英文单词<br>6 通过大佬的文章引用文献找</p><h2 id="论文结构"><a href="#论文结构" class="headerlink" title="论文结构"></a>论文结构</h2><p>-封面<br>-原创性声明<br>-中英文摘要<br>-目录<br>-绪论<br>-正文<br>-总结与展望<br>-参考文献<br>-附录<br>-致谢</p><h2 id="摘要及关键字"><a href="#摘要及关键字" class="headerlink" title="摘要及关键字"></a>摘要及关键字</h2><p>第1段：简单介绍背景<br>第2段：目前存在的问题<br>第3～X段：你的具体工作有几个点就写几段<br>第X＋1段：简单总结</p><p>顺便一提英文部分可以使用grammarly以及类似网站进行语法检查</p><h2 id="文献综述四步骤"><a href="#文献综述四步骤" class="headerlink" title="文献综述四步骤"></a>文献综述四步骤</h2><p>1 按时间顺序<br>阐述研究领域的研究现状<br>2 对研究工作进行分类评述<br>经典文献详细说<br>过时观点简单说<br>争议焦点罗列观点进行比较<br>3.总结现有工作的优势与不足<br>4.提出发展前景和工作必要性</p><h2 id="论文框架"><a href="#论文框架" class="headerlink" title="论文框架"></a>论文框架</h2><p>1提出模型<br>2分析模型<br>3实验<br>4实验结果<br>5总结<br>(框架仅供参考)</p><h2 id="查重相关"><a href="#查重相关" class="headerlink" title="查重相关"></a>查重相关</h2><h3 id="不查重部分"><a href="#不查重部分" class="headerlink" title="[不查重部分]"></a>[不查重部分]</h3><p>封面<br>原创性声明<br>目录<br>致谢<br>文中图<br>代码以及数学公式</p><h3 id="查重平台"><a href="#查重平台" class="headerlink" title="[查重平台]"></a>[查重平台]</h3><p>知网<br>万方<br>维普等<br>学校合作机构<br>paperpass等第三方(不推荐)</p><h3 id="降重"><a href="#降重" class="headerlink" title="[降重]"></a>[降重]</h3><p>1善用外国资料进行翻译<br>2连续字词之间插入新文字<br>同义词转换.换句式<br>3文字换图<br>调查问卷或表格换成图<br>4删原句自行复述</p><p>绝技:翻译成英文再翻回来,翻译为其他语言亦可,但不建议使用</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;如题,不废话了</summary>
+    
+    
+    
+    <category term="学术" scheme="https://blog.zhangyisui.top/categories/%E5%AD%A6%E6%9C%AF/"/>
+    
+    
+    <category term="science" scheme="https://blog.zhangyisui.top/tags/science/"/>
+    
+    <category term="学术" scheme="https://blog.zhangyisui.top/tags/%E5%AD%A6%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>决定论</title>
     <link href="https://blog.zhangyisui.top/posts/f5c3e981/"/>
     <id>https://blog.zhangyisui.top/posts/f5c3e981/</id>
     <published>2022-04-07T09:18:52.835Z</published>
-    <updated>2022-04-07T09:19:53.397Z</updated>
+    <updated>2022-04-07T09:21:01.758Z</updated>
     
     <content type="html"><![CDATA[<p>有一个听起来荒谬，但曾得到包括爱因斯坦在内的很多科学家支持的观点——决定论。<span id="more"></span><br>一个小球在真空自由落体，我们可以轻易的算出它在某一时刻的速度。丢一个骰子，看起来点数随机，但如果有了出手速度，初始位置，以及房子里面空气流动速度和阻力等等，终究也能计算骰子最终点数。现在问题来了，只要完全知道宇宙在某一时刻的状态，便能用科学定律依此计算出宇宙中下一刻的状态，再利用下一刻可以计算出下下一刻的状态。那么从现在开始，以及接下来发生的所有事情都是固定的，因为此刻的状态是确定的。而现在的状态是由宇宙上一时刻的状态决定的，这样可以一直回溯回去，直到宇宙大爆炸。也就是说:<br>「过去以及未来发生的事情，包括你怎样来到这个世界，如何遇到真爱并走过这一生， 以何种方式死去，在138亿年前宇宙大爆炸那一刻就已经决定了」。<br>所以完全可以对心仪的人说，其实我们相遇是命运的安排，缘分从138亿年前就已经开始。</p><p>当然，我们也明知这些应该是错的，但这的确有点浪漫，让人想去相信，但这个概念终将证伪</p>]]></content>
     
@@ -42,7 +65,7 @@
     <link href="https://blog.zhangyisui.top/posts/82780993/"/>
     <id>https://blog.zhangyisui.top/posts/82780993/</id>
     <published>2022-04-07T09:12:34.784Z</published>
-    <updated>2022-04-07T09:18:33.341Z</updated>
+    <updated>2022-04-07T09:21:01.758Z</updated>
     
     <content type="html"><![CDATA[<p>每个人的身边应该都不乏道德败坏之人,但即使这种人也会有他自己的朋友,以前我并不在乎,后来才知道究其原因还是因为在社会心理学中，个体的成就、品德并不属于能否成为朋友的影响因素,而是只有以下几方面的相关变量：</p><span id="more"></span><p>1.接近性：功能性距离（即生活轨迹的相交频率）最为关键，人际中的“曝光效应”指的就是人与人之间的熟悉会产生喜欢，同时喜欢也会加深熟悉。其实简单来说就是”时间”</p><p>2.外表吸引力：因为人类在进化中形成了美即是好“Beautiful is good”的刻板印象，所以人们都喜欢外表好看的人，一方面，这样的人符合大众审美的需求；另一方面，美丽也是健康和富于生殖的体现。</p><p>3.相似性：双方发现在价值观、信仰、态度上的相似后会产生喜欢。在这里加一点，有时我们也会喜欢那些模仿我们的人，就是因为我们在自己和他们之间察觉到了相似性。</p><p>4.互补性：一些性格互补的人有时也会成为好朋友。不过总体而言这样的例子比较少，占主导地位的还是相似而不是互补。</p><p>5.喜欢那些喜欢我们的人：在我们知道有人喜欢自己时，会产生一种情感回馈，因而也会喜欢这些喜欢我们的人。而且，当我们知道有人喜欢自己后，我们的自尊也会提高，会引起我们开心的情绪，而在开心的时候，人们也会更加喜欢社交。</p><p>6.关系中的奖赏：我们会喜欢那些回报自己或者与自己的回报有关系的人。例如从小我们就很喜欢给糖吃来奖励我们的老师或者叔叔阿姨，因为人会通过条件反射形成对那些与奖赏性事件有关的人和事的积极感受。</p>]]></content>
     
@@ -263,9 +286,9 @@
     <category term="随笔" scheme="https://blog.zhangyisui.top/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
-    
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
@@ -334,9 +357,9 @@
     <category term="杂谈" scheme="https://blog.zhangyisui.top/categories/%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
-    
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
@@ -403,9 +426,9 @@
     <category term="杂谈" scheme="https://blog.zhangyisui.top/categories/%E6%9D%82%E8%B0%88/"/>
     
     
-    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
-    
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
@@ -452,32 +475,6 @@
     <category term="社论" scheme="https://blog.zhangyisui.top/tags/%E7%A4%BE%E8%AE%BA/"/>
     
     <category term="转载" scheme="https://blog.zhangyisui.top/tags/%E8%BD%AC%E8%BD%BD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>幸</title>
-    <link href="https://blog.zhangyisui.top/posts/a0d5e516/"/>
-    <id>https://blog.zhangyisui.top/posts/a0d5e516/</id>
-    <published>2022-03-18T09:45:02.733Z</published>
-    <updated>2022-03-18T10:04:51.516Z</updated>
-    
-    <content type="html"><![CDATA[<p>一个孩子从楼顶一跃而下，下面的人议论纷纷。</p><p>很多人说他的心里太过脆弱，这种人就算今天不死，也早晚都会死的。老人们感叹着，当今的年轻人没经历过什么，就丧而不奋，不知深浅。但没人惋惜，没人理解。<span id="more"></span></p><p>媒体与舆论明天就会忘掉这些事，而人们要晚一些，但可以确定的是，不久过后，除了他的亲人，没人会再次想起他。</p><p>现在，人们统一起来了，他们的枪口指向同一个地方，甚至指向自己，但他们拒绝醒悟，拒绝接受有人在操控着他们的事实。</p><p>这恐怕并不是他的错。</p><p>这个社会从一出生就扼住了他的咽喉，他只能艰难的喘息</p><p>社会塑造他，然后毁灭他，如塑造他那般，不带感情。</p><p>硬要说一个人的性格，就只能从出生的时候开始，我们性本善，我们被影响，环境决定我们，我们再反过来塑造环境，我们是他人的环境，而他人是我们的环境，这里不再是丛林，我们也不再是猛兽，有的人可以放心的做梦，而有的人依然活在恐惧中。</p><p>他跳下去的那一刻是输是赢其实很难说，但毫无疑问，从活着的角度来看，他是那一个时刻出生的无数个孩子中，最不幸的一个。</p><p>多数人的人生规划到了结尾大概都是和钱相关，钱是什么呢，活下去的必需品，一直以来人类的追求都只是活下去，过去是食物，如今是钱，是梦，金钱有了伪装就也能变成浪漫主义，而到了最后，物质的追求无非都是“活下去”而已，但人类很明显至少在现阶段无法脱离物质存在，所以我们会得到一个无聊的推论：人类只是在为了活着而活着而已。</p><p>而真正的浪漫主义者所想的其实是不为活着而活。</p><p>但也绝不仅仅是为了浪漫，我们，为了我们而活。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;一个孩子从楼顶一跃而下，下面的人议论纷纷。&lt;/p&gt;
-&lt;p&gt;很多人说他的心里太过脆弱，这种人就算今天不死，也早晚都会死的。老人们感叹着，当今的年轻人没经历过什么，就丧而不奋，不知深浅。但没人惋惜，没人理解。</summary>
-    
-    
-    
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/categories/%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
-    <category term="社论" scheme="https://blog.zhangyisui.top/tags/%E7%A4%BE%E8%AE%BA/"/>
     
   </entry>
   
