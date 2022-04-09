@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2022-04-08T10:30:59.618Z</updated>
+  <updated>2022-04-09T10:55:52.626Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Github上的优秀/有趣项目</title>
+    <link href="https://blog.zhangyisui.top/posts/f8c9593/"/>
+    <id>https://blog.zhangyisui.top/posts/f8c9593/</id>
+    <published>2022-04-09T10:54:52.950Z</published>
+    <updated>2022-04-09T10:55:52.626Z</updated>
+    
+    <content type="html"><![CDATA[<p>介绍一些我在GitHub见到的有趣且不乏实用的项目</p><span id="more"></span><h2 id="github加速"><a href="#github加速" class="headerlink" title="github加速"></a><a href="https://github.com/521xueweihan/GitHub520">github加速</a></h2><p>一个分享GitHub的快速hosts的项目,用上这个看下面的项目就能方便些</p><h2 id="AntennaPod"><a href="#AntennaPod" class="headerlink" title="AntennaPod"></a><a href="https://github.com/AntennaPod/AntennaPod">AntennaPod</a></h2><p>知名开源播客客户端,界面简洁,效果显著,可惜的是只有安卓端</p><h2 id="learnxinyminutes-docs"><a href="#learnxinyminutes-docs" class="headerlink" title="learnxinyminutes-docs"></a><a href="https://github.com/adambard/learnxinyminutes-docs">learnxinyminutes-docs</a></h2><p>y分钟学会x,其实就是精简提炼知识点,里面东西很多,有点子价值在里面</p><h2 id="YYeTsBot"><a href="#YYeTsBot" class="headerlink" title="YYeTsBot"></a><a href="https://github.com/tgbot-collection/YYeTsBot">YYeTsBot</a></h2><p>人人影视bot,可以获取电影的磁力链接等等</p><h2 id="motrix"><a href="#motrix" class="headerlink" title="motrix"></a><a href="https://github.com/agalwood/Motrix">motrix</a></h2><p>书接上回,UI合理,功能健全的磁力链接/种子下载器</p><h2 id="TrackersListCollection"><a href="#TrackersListCollection" class="headerlink" title="TrackersListCollection"></a><a href="https://github.com/XIU2/TrackersListCollection">TrackersListCollection</a></h2><p>再接上回,更新频繁的种子追踪器链接分享</p><h2 id="syncthing"><a href="#syncthing" class="headerlink" title="syncthing"></a><a href="https://github.com/syncthing/syncthing">syncthing</a></h2><p>一个数据同步器,类似OneDrive,不过是通过p2p,一般在局域网使用</p><h2 id="chineseocr-lite"><a href="#chineseocr-lite" class="headerlink" title="chineseocr_lite"></a><a href="https://github.com/DayBreak-u/chineseocr_lite">chineseocr_lite</a></h2><p>开源的离线ocr</p><h2 id="YesPlayMusic"><a href="#YesPlayMusic" class="headerlink" title="YesPlayMusic"></a><a href="https://github.com/qier222/YesPlayMusic">YesPlayMusic</a></h2><p>美化且带插件的第三方网易云客户端</p><h2 id="justlive"><a href="#justlive" class="headerlink" title="justlive"></a><a href="https://github.com/guyijie1211/JustLive-Android">justlive</a></h2><p>一个聚合多个平台的直播内容的软件,纯净极简,有些小bug但不影响用,这个是安卓端,作者主页还有其他端的项目,且用且珍惜</p><h2 id="hacktools"><a href="#hacktools" class="headerlink" title="hacktools"></a><a href="https://github.com/Z4nzu/hackingtool">hacktools</a></h2><p>常用hack工具包</p><h2 id="gif123"><a href="#gif123" class="headerlink" title="gif123"></a><a href="https://github.com/aardio/Gif123">gif123</a></h2><p>方便小巧好用的pc端gif录制器</p><h2 id="automa"><a href="#automa" class="headerlink" title="automa"></a><a href="https://github.com/Kholid060/automa">automa</a></h2><p>在浏览器里实现类似苹果快捷指令功能的插件</p><h2 id="HowToCook"><a href="#HowToCook" class="headerlink" title="HowToCook"></a><a href="https://github.com/Anduin2017/HowToCook">HowToCook</a></h2><p>程序员做饭指南,从基础到复杂,确实很人性</p><h2 id="ALL-about-RSS"><a href="#ALL-about-RSS" class="headerlink" title="ALL-about-RSS"></a><a href="https://github.com/AboutRSS/ALL-about-RSS">ALL-about-RSS</a></h2><p>关于rss的一切</p><h2 id="fluentreader"><a href="#fluentreader" class="headerlink" title="fluentreader"></a><a href="https://github.com/yang991178/fluent-reader">fluentreader</a></h2><p>书接上文,漂亮的开源rss阅读器,仅PC</p><h2 id="steam"><a href="#steam" class="headerlink" title="steam++"></a><a href="https://github.com/BeyondDimension/SteamTools">steam++</a></h2><p>一个steam的增强软件,功能强大</p><h2 id="hmcl"><a href="#hmcl" class="headerlink" title="hmcl"></a><a href="https://github.com/huanghongxun/HMCL">hmcl</a></h2><p>第三方我的世界启动器,UI友好,功能全,之前推荐过</p><h2 id="KeymouseGo"><a href="#KeymouseGo" class="headerlink" title="KeymouseGo"></a><a href="https://github.com/taojy123/KeymouseGo">KeymouseGo</a></h2><p>通过录制你的操作执行操作的小巧简易脚本软件</p><h2 id="keepass"><a href="#keepass" class="headerlink" title="keepass"></a><a href="https://github.com/keepassxreboot/keepassxc">keepass</a></h2><p>知名开源密码管理客户端,这是pc端,其他版本请在GitHub自行寻找</p><h2 id="v2ray"><a href="#v2ray" class="headerlink" title="v2ray"></a><a href="https://github.com/2dust/v2rayN">v2ray</a></h2><p>知名代理软件,懂得都懂</p><h2 id="hackbrowserdate"><a href="#hackbrowserdate" class="headerlink" title="hackbrowserdate"></a><a href="https://github.com/moonD4rk/HackBrowserData">hackbrowserdate</a></h2><p>越过加密获取浏览器里保存的密码,支持chrome及相关浏览器</p><h2 id="trafficmonitor"><a href="#trafficmonitor" class="headerlink" title="trafficmonitor"></a><a href="https://github.com/zhongyang219/TrafficMonitor">trafficmonitor</a></h2><p>在任务栏显示运行状况,bug略多,但确实有用</p><h2 id="joplin"><a href="#joplin" class="headerlink" title="joplin"></a><a href="https://github.com/laurent22/joplin">joplin</a></h2><p>知名markdown笔记软件,支持webdav与多端同步</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;介绍一些我在GitHub见到的有趣且不乏实用的项目&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="资源" scheme="https://blog.zhangyisui.top/tags/%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
   
   <entry>
     <title>如何制造一篇论文</title>
@@ -443,29 +466,6 @@
     
     
     <summary type="html">&lt;p&gt;转载一篇很久以前的文章,关于如何看待全国或将禁食狗肉,很久之前在知乎上看见的,找不到链接了,但确实写的极好</summary>
-    
-    
-    
-    <category term="转载" scheme="https://blog.zhangyisui.top/categories/%E8%BD%AC%E8%BD%BD/"/>
-    
-    
-    <category term="社论" scheme="https://blog.zhangyisui.top/tags/%E7%A4%BE%E8%AE%BA/"/>
-    
-    <category term="转载" scheme="https://blog.zhangyisui.top/tags/%E8%BD%AC%E8%BD%BD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>为什么宁愿销毁也不白送</title>
-    <link href="https://blog.zhangyisui.top/posts/1fc97c77/"/>
-    <id>https://blog.zhangyisui.top/posts/1fc97c77/</id>
-    <published>2022-03-18T09:49:09.667Z</published>
-    <updated>2022-03-18T09:58:45.186Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="Q-为什么大公司宁愿销毁过期或过时的物件也不愿意送给穷人"><a href="#Q-为什么大公司宁愿销毁过期或过时的物件也不愿意送给穷人" class="headerlink" title="Q:为什么大公司宁愿销毁过期或过时的物件也不愿意送给穷人 ?"></a>Q:为什么大公司宁愿销毁过期或过时的物件也不愿意送给穷人 ?</h2><p>基础的经济学知识,稍微科普一下,虽然是转载的<span id="more"></span></p><h3 id="一、理论上来说，到期了丢门口让别人来拿是成本最低的选择–0成本"><a href="#一、理论上来说，到期了丢门口让别人来拿是成本最低的选择–0成本" class="headerlink" title="一、理论上来说，到期了丢门口让别人来拿是成本最低的选择–0成本"></a>一、理论上来说，到期了丢门口让别人来拿是成本最低的选择–0成本</h3><p>毕竟生鲜不像牛奶，9012年的今天也不是大萧条时候，无法直接倒河里，环保压力太大。</p><p>但是这样做会造成2个结果—</p><p>1、以后在晚上（8点以后）几乎不会卖出去东西了，大家都再等等拿免费的好了。</p><p>2、由于1的原因，下午买生鲜的人会觉得不值。</p><p>3、长期以往，销量会下降到一个稳定值，只有不在乎价格或者没时间买东西的人才会随意买。（参见早上各种排队买半价鸡蛋大米的大爷大妈，盒马只要敢免费送，整个城市空闲人都会来抢。退休大爷大妈们有的是时间/时间成本可以忽略不计，用老人卡坐免费的公交车/交通成本为0，去拿免费的生鲜。）</p><p>4、部分人免费拿到后转手卖了（100卖20，100卖10块等等），以后盒马更难卖，而且吃出问题还得找你。</p><p>所以为了长期利益，不会免费送。</p><h3 id="二、给福利机构"><a href="#二、给福利机构" class="headerlink" title="二、给福利机构"></a>二、给福利机构</h3><p>1、最简单的，成本问题，怎么送，自己送去得出人出车，福利院来人晚上9点半后，福利院人手够不够。</p><p>2、当天过期的东西，福利院肯定到第二天再吃（别说晚上12点加餐），吃出问题算谁的。</p><p>所以，直接销毁看似成本很高，却是最简单的做法。</p><p>你说浪费，这个没办法啊，资本家要为大局考虑，老百姓又太喜欢捡漏。难办啊。</p><p>石崇劝酒的故事大家都知道吧，别人要销毁自己东西又不违法。道德审判没意思，同理，老百姓自己家吃不完的东西也没看天天送去福利院啊。你要丢自己如新的鞋子别人说你为什么不送给需要的人，你会怎么说？（老子连咸鱼都懒得挂，你让我送人？滚！）</p><p>啥时候到共产主义社会了，估计资本家会把要过期的东西给需要的人，老百姓把吃完的东西送穷人。要不就让政府牵头，做个公益组织（活多利少，估计也没人接）进行统一分配管理，这就是典型的行政干预了。</p><p>更合理但是不那么简单的做法就是8点后打折，至于打多少折，会不会影响总体利润还得看销售数据。</p><p>所以，这个问题归根到底还是经济学问题，无论是销毁、打对折、打一折，都是卖家根据自己动态销售数据得出的最优解，这是一个和老百姓斗智斗勇的过程。</p><p>另:<br>18线小城的大超市本来就是大致时间重贴打折签卖的，水果区、糕点区、熟食区每晚上差不多了都会叫卖。</p><p>打折不打折，跟处理临期食品没关系，保质期是根据食品本身来规定的，要打折也是往销毁的时间之前打。不是说规定了保质期12个小时，然后因为打折就再加2个小时销毁。你8点打折，一样会有人9点来，然后跟你BB反正都是打折商品了，干嘛不在销毁的时候白送</p>]]></content>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;Q-为什么大公司宁愿销毁过期或过时的物件也不愿意送给穷人&quot;&gt;&lt;a href=&quot;#Q-为什么大公司宁愿销毁过期或过时的物件也不愿意送给穷人&quot; class=&quot;headerlink&quot; title=&quot;Q:为什么大公司宁愿销毁过期或过时的物件也不愿意送给穷人 ?&quot;&gt;&lt;/a&gt;Q:为什么大公司宁愿销毁过期或过时的物件也不愿意送给穷人 ?&lt;/h2&gt;&lt;p&gt;基础的经济学知识,稍微科普一下,虽然是转载的</summary>
     
     
     
