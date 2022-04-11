@@ -31,8 +31,8 @@
 <meta property="article:modified_time" content="2022-01-17T04:34:19.929Z">
 <meta property="article:author" content="zhangyisui">
 <meta property="article:tag" content="文章">
-<meta property="article:tag" content="转载">
 <meta property="article:tag" content="吐槽">
+<meta property="article:tag" content="转载">
 <meta name="twitter:card" content="summary">
 
 <link rel="canonical" href="https://blog.zhangyisui.top/posts/cf50159f/">
@@ -301,8 +301,8 @@
           
           <div class="post-tags">
               <a href="/tags/%E6%96%87%E7%AB%A0/" rel="tag"><i class="fa fa-tag"></i> 文章</a>
-              <a href="/tags/%E8%BD%AC%E8%BD%BD/" rel="tag"><i class="fa fa-tag"></i> 转载</a>
               <a href="/tags/%E5%90%90%E6%A7%BD/" rel="tag"><i class="fa fa-tag"></i> 吐槽</a>
+              <a href="/tags/%E8%BD%AC%E8%BD%BD/" rel="tag"><i class="fa fa-tag"></i> 转载</a>
           </div>
 
         
@@ -456,6 +456,26 @@
   </span>
   <span class="author" itemprop="copyrightHolder">zhangyisui</span>
 </div>
+
+<!-- 网站运行时间的设置 -->
+<span id="timeDate">载入天数...</span>
+<span id="times">载入时分秒...</span>  大了
+<script>
+    var now = new Date();
+    function createtime() {
+        var grt= new Date("04/07/2020 12:00:00");//此处修改你的建站时间或者网站上线时间
+        now.setTime(now.getTime()+250);
+        days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days);
+        hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours);
+        if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum);
+        mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;}
+        seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
+        snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;}
+        document.getElementById("timeDate").innerHTML = "这个网站已经 "+dnum+" 天 ";
+        document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒";
+    }
+setInterval("createtime()",250);
+</script>
 
         
 
