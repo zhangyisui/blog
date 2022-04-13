@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2022-04-11T14:16:36.299Z</updated>
+  <updated>2022-04-13T06:44:23.656Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>删除的原理</title>
+    <link href="https://blog.zhangyisui.top/posts/74035ee1/"/>
+    <id>https://blog.zhangyisui.top/posts/74035ee1/</id>
+    <published>2022-04-13T06:05:14.907Z</published>
+    <updated>2022-04-13T06:44:23.656Z</updated>
+    
+    <content type="html"><![CDATA[<p>知识拿到手里了就简单解释一下<span id="more"></span><br>打个比方，你用积木搭出了一间房，这间房子就相当于你电脑里的文件，然后你让电脑把房拆了，即删除，这时候出现和消失的是房，积木本身一直存在切并无改变</p><p>现在你知道电脑垃圾都去哪了，它们没有消失，只被打乱了</p><p>但在多数文件系统中，删除一个文件后房子依然存在，只是骗你说房不见了，电脑懒得拆，当你需要用这些积木搭其他东西时，电脑就直接从房上取下来几块用在新建的房上面</p><p>这也是一些已经删除的文件可以恢复的原因</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;知识拿到手里了就简单解释一下</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="冷知识" scheme="https://blog.zhangyisui.top/tags/%E5%86%B7%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
+  
+  <entry>
     <title>资本洗脑方法</title>
     <link href="https://blog.zhangyisui.top/posts/c641664f/"/>
     <id>https://blog.zhangyisui.top/posts/c641664f/</id>
     <published>2022-04-11T14:16:24.166Z</published>
-    <updated>2022-04-11T14:16:36.299Z</updated>
+    <updated>2022-04-11T14:17:04.250Z</updated>
     
     <content type="html"><![CDATA[<p>覆盖认知，伪装主流，提升自身格调,伪装高端,大量传播<br>价值引导，使民众以为荣，引导他们主动宣传，巧用噱头</p><span id="more"></span><p>怎么让牛喝水:<br>牛不渴<br>不可以强行按着牛头喝水<br>也不可以对牛说<br>你渴了<br>你要喝水<br>应该以提醒的方式<br>你嘴皮有点干<br>点到即止<br>然后再说故事以前有一头牛<br>嘴巴干<br>缺水喝长得很难看<br>主人以为病了<br>就把牛宰了<br>如此两次即可<br>恐惧和贪婪<br>各用一次</p>]]></content>
     
@@ -44,7 +67,7 @@
     <link href="https://blog.zhangyisui.top/posts/fe405055/"/>
     <id>https://blog.zhangyisui.top/posts/fe405055/</id>
     <published>2022-04-11T14:10:43.458Z</published>
-    <updated>2022-04-11T14:12:02.338Z</updated>
+    <updated>2022-04-11T14:17:04.250Z</updated>
     
     <content type="html"><![CDATA[<p>如果动物光吃不胖，那是肚子里有寄生虫。<br>如果百姓只是勤劳而不富有，那是他们身上有太多的吸血鬼<span id="more"></span><br>比谁都能干，比谁都穷，太离谱了</p><p>讲个笑话，多劳多得</p><p>关注好的，中国已经超越美国了：2021全球10亿美元富豪榜总计上榜人数2672人，中国724人，美国718人，印度132人，俄罗斯117人，德国114人，巴西61人，日本48人，英国54人，韩国43人，法国41人，澳大利亚43人</p><p>普通人的一生:<br>六岁之前：学前教育<br>六岁：一年级<br>十二：小升初<br>十五：中考<br>十八：高考 不一定考的上<br>二十二：毕业，开始工作<br>二十五：奋斗三年，月薪五千，借钱首付，还贷三十年<br>二十七：借钱凑彩礼，终于结良缘<br>二十八：得子，攒钱准备学前早教<br>三十四：孩子入学，九年义务，一年学杂五千补习一万，雪上加霜<br>四十三：中考升高中，学杂费升级，一年一万，补习一年亦一万<br>四十六：孩子成年，勤工俭学，不问家里要一分，己身力衰心有余<br>五十：孩子毕业，开始工作，己身年衰，高龄下岗，零工碎挣，聊以厘毫<br>五十三：几年攒出一点，与子付了首付，老年小区不光彩，迎娶儿媳要新房<br>五十五：终于熬完三十年，又贷一笔凑彩礼<br>五十六：亲孙落地蹒跚步，半个甲子一轮回<br>六十五：一生劳苦终需报，碎银难补碎玉身<br>七十五：独步尘寰终离世，回首往事幸无疾。芸芸碌碌何所道，一抔清白同山阿。</p><p>《孩子，我宁愿欠你一个快乐的少年，也不愿看到你卑微的成年》</p><p>《少年，我宁愿欠你一个后浪的成年，也不愿看到你悲惨的中年》</p><p>《后生，我宁愿欠你一个体面的中年，也不愿看到你凄惨的老年》</p><p>《先生，我宁愿欠你一个安稳的老年，也不愿看到你无助的晚年》</p><p>《逝者，我宁愿欠你一个盛大的葬礼，也不愿看到你下一代输在起跑线上》</p><p>所有的合起来，不就是：</p><p>《孩子，我宁愿你从未来过，也不愿你有个悲惨的一生。》</p><p>苦难并不值得歌颂<br>中产永远是走狗<br>明智的人是少数<br>社会福利的问题<br>国不同事不同<br>奶头乐计划</p>]]></content>
     
@@ -67,7 +90,7 @@
     <link href="https://blog.zhangyisui.top/posts/1f7b8460/"/>
     <id>https://blog.zhangyisui.top/posts/1f7b8460/</id>
     <published>2022-04-11T14:06:53.478Z</published>
-    <updated>2022-04-11T14:07:58.402Z</updated>
+    <updated>2022-04-11T14:17:04.250Z</updated>
     
     <content type="html"><![CDATA[<p>第一定理<br>任意一个包含一阶谓词逻辑与初等数论的形式系统，都存在一个命题，它在这个系统中既不能被证明为真，也不能被证明为否。<br>第二定理<br>如果系统S含有初等数论，当S无矛盾时，它的无矛盾性不可能在S内证明。</p>]]></content>
     
@@ -454,31 +477,6 @@
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
     
     <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>当我们怕鬼时我们究竟在害怕什么</title>
-    <link href="https://blog.zhangyisui.top/posts/499f648a/"/>
-    <id>https://blog.zhangyisui.top/posts/499f648a/</id>
-    <published>2022-03-28T14:05:13.141Z</published>
-    <updated>2022-03-31T01:42:53.542Z</updated>
-    
-    <content type="html"><![CDATA[<p>转载的《格言》杂志的一篇文章,算是书摘中比较文艺的一篇小短文</p><span id="more"></span><p>我的体育老师曾经在数学课上说过：克服对灵异恐惧最好的办法，不是逃跑，而是不停地思考，不停地问自己问题。<br>第一个问题，就是问自己：你到底害怕的是什么？<br>怕鬼？很好，那么请继续问，你具体怕的是它的什么？是它的青面獠牙，<br>还是对它可能夺走你生命的恐惧，还是单纯对漆黑的走廊前方充满未知的不确定？<br>有人害怕贞子爬出电视的意象，有人害怕僵尸血淋淋的尖牙。当你想好答案以后，不妨再问自己，为什么会怕僵尸的尖牙？具体害怕的是牙齿的什么部位，是臼齿、犬齿还是智齿？不妨再进一步想，僵尸也会长智齿？他们也会疼吗？也会一边捂着腮帮子哭泣一边追逐活人吗？如果你害怕贞子，你也可以继续问自己：贞子是怎么从电视里爬出来的？跟频道有关系吗？跟制式有关系吗？电视关掉以后，她还会出来吗？如果把电视放在高处，她会掉下来吗？如果把电视对着墙，她会撞头吗？<br>如果你害怕的是走廊深处的漆黑未知，那么也可以继续问自己：走廊是什么材质制成的？你害怕的东西是在墙壁抹灰时候就存在，还是等到刮大白的时候？工人刮大白的时候刷不刷乳胶漆，哪儿买的？装修队自己买的还是主人自己采购的？那些你害怕的东西烦不烦这些装修材料？吸不吸甲醛？<br>你问的问题越多，就会发现你和现实的连接越紧密，你的恐惧就会越少。<br>恐惧来源于未知，而很多时候未知只是因为我们太过惊慌而忘记去思考。思考并不意味着要找到正确答案，只是让你进入理性思考的节奏。当理性开始发挥作用以后，很多可怕意象就会被大量的现实细节消解，变得不足为惧。电脑里露出的鬼脸，当你想到它可能会被杀毒软件干掉，就不可怕了。如果这鬼脸还阻挠你上淘宝，说不定你还会怒气冲冲地把它反过来干掉。<br>刚才我提到的走廊深处的未知，这来自于一个真实案例。我的一个朋友，买了新房装修，不过因为工作太忙，她每次要下班后才有时间去查看装修进度，基本上都是入夜之后的事。她的房子太新了，周围的住户都没搬进来，到了晚上连灯光都看不到，整个小区非常安静。她需要在空旷的半成品地下停车场停好车，走过一条堆满木架和装修垃圾的走廊，才能进入电梯。电梯里也被花里胡哨的木板条挡住，像是僵尸片里被封住的木窗。如果仔细观察，还能从木条间隙的电梯内面看到自己扭曲的倒影。她对这段路非常恐惧，每次走都怕得不行。<br>我把这个方法告诉她，让她每次走这条路的时候，都拼命思考种种景象对于装修的意义。看到起伏的木架，可以问问自己层高；看到装修垃圾，可以问问自己装修队有没有偷买劣质品牌；看到电梯里的木条，想想金属镜面被别坏以后得花多少钱才能修复；看到漆黑的走廊，提醒自己该如何布线和设置地灯。她通过这种思考方法，成功地变成一个单纯的装修焦虑综合征患者，再也不满怀恐惧了。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;转载的《格言》杂志的一篇文章,算是书摘中比较文艺的一篇小短文&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="转载" scheme="https://blog.zhangyisui.top/categories/%E8%BD%AC%E8%BD%BD/"/>
-    
-    
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
-    <category term="转载" scheme="https://blog.zhangyisui.top/tags/%E8%BD%AC%E8%BD%BD/"/>
-    
-    <category term="文艺" scheme="https://blog.zhangyisui.top/tags/%E6%96%87%E8%89%BA/"/>
     
   </entry>
   
