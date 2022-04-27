@@ -72,6 +72,23 @@
       </tags>
   </entry>
   <entry>
+    <title>Test</title>
+    <url>/posts/d87f7e0c/</url>
+    <content><![CDATA[<h2 id="It-just-a-test-for-the-first-run"><a href="#It-just-a-test-for-the-first-run" class="headerlink" title="It just a test for the first run"></a>It just a test for the first run<span id="more"></span></h2><p><a href="https://zhangyisui.top/">测试链接</a></p>
+<p><img src="https://ae01.alicdn.com/kf/Udcdc3a875f984075a89e53abef0b1707c.jpg" alt="测试图片"></p>
+<figure class="highlight html"><table><tr><td class="code"><pre><span class="line">测试代码;</span><br></pre></td></tr></table></figure>
+
+<p>over test  </p>
+]]></content>
+      <categories>
+        <category>test</category>
+      </categories>
+      <tags>
+        <tag>test</tag>
+        <tag>test2</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>胡言乱语</title>
     <url>/posts/fe405055/</url>
     <content><![CDATA[<p>如果动物光吃不胖，那是肚子里有寄生虫。<br>如果百姓只是勤劳而不富有，那是他们身上有太多的吸血鬼<span id="more"></span><br>比谁都能干，比谁都穷，太离谱了</p>
@@ -96,23 +113,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Test</title>
-    <url>/posts/d87f7e0c/</url>
-    <content><![CDATA[<h2 id="It-just-a-test-for-the-first-run"><a href="#It-just-a-test-for-the-first-run" class="headerlink" title="It just a test for the first run"></a>It just a test for the first run<span id="more"></span></h2><p><a href="https://zhangyisui.top/">测试链接</a></p>
-<p><img src="https://ae01.alicdn.com/kf/Udcdc3a875f984075a89e53abef0b1707c.jpg" alt="测试图片"></p>
-<figure class="highlight html"><table><tr><td class="code"><pre><span class="line">测试代码;</span><br></pre></td></tr></table></figure>
-
-<p>over test  </p>
-]]></content>
-      <categories>
-        <category>test</category>
-      </categories>
-      <tags>
-        <tag>test</tag>
-        <tag>test2</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>假装自己很懂电脑</title>
     <url>/posts/44a71f28/</url>
     <content><![CDATA[<p>太久没有更新了，本来这个周末很想更新，终究还是误了时辰<br>无奈无奈<br>遂熬夜更新一篇<span id="more"></span><br>内容简单<br>其实在不懂的人面前能假装自己懂很多东西<br>而且有太多人喜欢假装<br>实际上<br>我更喜欢拆穿他们<br>但这个<br>至少有一点点技术含量<br>很简单</p>
@@ -125,44 +125,6 @@
       <tags>
         <tag>杂谈</tag>
         <tag>技术</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Github上的优秀/有趣项目</title>
-    <url>/posts/f8c9593/</url>
-    <content><![CDATA[<p>介绍一些我在GitHub见到的有趣且不乏实用的项目</p>
-<span id="more"></span>
-<h2 id="github加速"><a href="#github加速" class="headerlink" title="github加速"></a><a href="https://github.com/521xueweihan/GitHub520">github加速</a></h2><p>一个分享GitHub的快速hosts的项目,用上这个看下面的项目就能方便些</p>
-<h2 id="AntennaPod"><a href="#AntennaPod" class="headerlink" title="AntennaPod"></a><a href="https://github.com/AntennaPod/AntennaPod">AntennaPod</a></h2><p>知名开源播客客户端,界面简洁,效果显著,可惜的是只有安卓端</p>
-<h2 id="learnxinyminutes-docs"><a href="#learnxinyminutes-docs" class="headerlink" title="learnxinyminutes-docs"></a><a href="https://github.com/adambard/learnxinyminutes-docs">learnxinyminutes-docs</a></h2><p>y分钟学会x,其实就是精简提炼知识点,里面东西很多,有点子价值在里面</p>
-<h2 id="YYeTsBot"><a href="#YYeTsBot" class="headerlink" title="YYeTsBot"></a><a href="https://github.com/tgbot-collection/YYeTsBot">YYeTsBot</a></h2><p>人人影视bot,可以获取电影的磁力链接等等</p>
-<h2 id="motrix"><a href="#motrix" class="headerlink" title="motrix"></a><a href="https://github.com/agalwood/Motrix">motrix</a></h2><p>书接上回,UI合理,功能健全的磁力链接/种子下载器</p>
-<h2 id="TrackersListCollection"><a href="#TrackersListCollection" class="headerlink" title="TrackersListCollection"></a><a href="https://github.com/XIU2/TrackersListCollection">TrackersListCollection</a></h2><p>再接上回,更新频繁的种子追踪器链接分享</p>
-<h2 id="syncthing"><a href="#syncthing" class="headerlink" title="syncthing"></a><a href="https://github.com/syncthing/syncthing">syncthing</a></h2><p>一个数据同步器,类似OneDrive,不过是通过p2p,一般在局域网使用</p>
-<h2 id="chineseocr-lite"><a href="#chineseocr-lite" class="headerlink" title="chineseocr_lite"></a><a href="https://github.com/DayBreak-u/chineseocr_lite">chineseocr_lite</a></h2><p>开源的离线ocr</p>
-<h2 id="YesPlayMusic"><a href="#YesPlayMusic" class="headerlink" title="YesPlayMusic"></a><a href="https://github.com/qier222/YesPlayMusic">YesPlayMusic</a></h2><p>美化且带插件的第三方网易云客户端</p>
-<h2 id="justlive"><a href="#justlive" class="headerlink" title="justlive"></a><a href="https://github.com/guyijie1211/JustLive-Android">justlive</a></h2><p>一个聚合多个平台的直播内容的软件,纯净极简,有些小bug但不影响用,这个是安卓端,作者主页还有其他端的项目,且用且珍惜</p>
-<h2 id="hacktools"><a href="#hacktools" class="headerlink" title="hacktools"></a><a href="https://github.com/Z4nzu/hackingtool">hacktools</a></h2><p>常用hack工具包</p>
-<h2 id="gif123"><a href="#gif123" class="headerlink" title="gif123"></a><a href="https://github.com/aardio/Gif123">gif123</a></h2><p>方便小巧好用的pc端gif录制器</p>
-<h2 id="automa"><a href="#automa" class="headerlink" title="automa"></a><a href="https://github.com/Kholid060/automa">automa</a></h2><p>在浏览器里实现类似苹果快捷指令功能的插件</p>
-<h2 id="HowToCook"><a href="#HowToCook" class="headerlink" title="HowToCook"></a><a href="https://github.com/Anduin2017/HowToCook">HowToCook</a></h2><p>程序员做饭指南,从基础到复杂,确实很人性</p>
-<h2 id="ALL-about-RSS"><a href="#ALL-about-RSS" class="headerlink" title="ALL-about-RSS"></a><a href="https://github.com/AboutRSS/ALL-about-RSS">ALL-about-RSS</a></h2><p>关于rss的一切</p>
-<h2 id="fluentreader"><a href="#fluentreader" class="headerlink" title="fluentreader"></a><a href="https://github.com/yang991178/fluent-reader">fluentreader</a></h2><p>书接上文,漂亮的开源rss阅读器,仅PC</p>
-<h2 id="steam"><a href="#steam" class="headerlink" title="steam++"></a><a href="https://github.com/BeyondDimension/SteamTools">steam++</a></h2><p>一个steam的增强软件,功能强大</p>
-<h2 id="hmcl"><a href="#hmcl" class="headerlink" title="hmcl"></a><a href="https://github.com/huanghongxun/HMCL">hmcl</a></h2><p>第三方我的世界启动器,UI友好,功能全,之前推荐过</p>
-<h2 id="KeymouseGo"><a href="#KeymouseGo" class="headerlink" title="KeymouseGo"></a><a href="https://github.com/taojy123/KeymouseGo">KeymouseGo</a></h2><p>通过录制你的操作执行操作的小巧简易脚本软件</p>
-<h2 id="keepass"><a href="#keepass" class="headerlink" title="keepass"></a><a href="https://github.com/keepassxreboot/keepassxc">keepass</a></h2><p>知名开源密码管理客户端,这是pc端,其他版本请在GitHub自行寻找</p>
-<h2 id="v2ray"><a href="#v2ray" class="headerlink" title="v2ray"></a><a href="https://github.com/2dust/v2rayN">v2ray</a></h2><p>知名代理软件,懂得都懂</p>
-<h2 id="hackbrowserdate"><a href="#hackbrowserdate" class="headerlink" title="hackbrowserdate"></a><a href="https://github.com/moonD4rk/HackBrowserData">hackbrowserdate</a></h2><p>越过加密获取浏览器里保存的密码,支持chrome及相关浏览器</p>
-<h2 id="trafficmonitor"><a href="#trafficmonitor" class="headerlink" title="trafficmonitor"></a><a href="https://github.com/zhongyang219/TrafficMonitor">trafficmonitor</a></h2><p>在任务栏显示运行状况,bug略多,但确实有用</p>
-<h2 id="joplin"><a href="#joplin" class="headerlink" title="joplin"></a><a href="https://github.com/laurent22/joplin">joplin</a></h2><p>知名markdown笔记软件,支持webdav与多端同步</p>
-]]></content>
-      <categories>
-        <category>技术</category>
-      </categories>
-      <tags>
-        <tag>技术</tag>
-        <tag>资源</tag>
       </tags>
   </entry>
   <entry>
@@ -209,6 +171,63 @@
       </tags>
   </entry>
   <entry>
+    <title>脸的价值</title>
+    <url>/posts/cf01d746/</url>
+    <content><![CDATA[<p>很多人觉得，长的好看有什么用，又不能当饭吃<br>但实际上，美貌溢价是真实存在的<span id="more"></span><br>两个简单的问题，同样是互联网巨头，为什么李彦宏是老公,而马云是爸爸<br>同样是一级保护动物为什么偏偏大熊猫是国宝<br>以貌取人就是这个世界上最大的政治正确<br>毕竟有趣的灵魂是可以后天塑造的<br>而互联网的速度让大家摄入的信息都差不多，而颜值的产出率和稀缺性反而恒定<br>虽然有整容机构,但仍难掩其稀缺性<br>稀缺性决定价值归属，有趣的灵魂可以批量复制，好看的皮囊只能万里挑一<br>这就是卵巢彩票<br>投胎学才是真正的最强学科</p>
+<p>同时还有人发现,消费越贵的地方，高颜值占比就越高<br>结论大概是<br>有钱人会想办法变好看，而好看的人更容易变有钱<br>闭环了</p>
+<p>此外还有一个猜想</p>
+<p>先插一句<br>人类为何要和好看的人交配</p>
+<p>是因为适合交配有利于繁衍的才会被当做人类定义的好看，而不是好看才交配<br>从生物学角度解释如果人类定义的好看是不适合交配不利于繁衍的人，基因便会因为没法繁衍而被进化淘汰<br>比如说现在胸大的女性会在漫长进化中被认定孩子有足够的奶喝，屁股大盆骨宽有利于生产，皮肤白皙光滑有弹性能够提现个体生活物质丰富生存压力小等等<br>假设平胸腰粗大鼻孔能够有利于繁衍生存，你也会认为这就是好看</p>
+<p>简单来说,人类必定会认那些基因回报率高的人为好看</p>
+<p>猜想即<br>正如同人类的外观能体现繁殖能力一样，人类的外观或许也可以反馈出你的智慧。<br>同时，为了弥补这个简单的理论中的漏洞，假设应该改为每一个愚蠢的人都会很丑，但不是所有聪明人都很美</p>
+<p>顺便<br>我们看黑人都长一个样，这并不是因为脸盲。这种现象叫做“异族效应”，指的是我们因为一直处在在同一个环境中，而出现了”知觉窄化”，对于不同种族的面孔变得不”感冒”</p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+      <tags>
+        <tag>杂谈</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Github上的优秀/有趣项目</title>
+    <url>/posts/f8c9593/</url>
+    <content><![CDATA[<p>介绍一些我在GitHub见到的有趣且不乏实用的项目</p>
+<span id="more"></span>
+<h2 id="github加速"><a href="#github加速" class="headerlink" title="github加速"></a><a href="https://github.com/521xueweihan/GitHub520">github加速</a></h2><p>一个分享GitHub的快速hosts的项目,用上这个看下面的项目就能方便些</p>
+<h2 id="AntennaPod"><a href="#AntennaPod" class="headerlink" title="AntennaPod"></a><a href="https://github.com/AntennaPod/AntennaPod">AntennaPod</a></h2><p>知名开源播客客户端,界面简洁,效果显著,可惜的是只有安卓端</p>
+<h2 id="learnxinyminutes-docs"><a href="#learnxinyminutes-docs" class="headerlink" title="learnxinyminutes-docs"></a><a href="https://github.com/adambard/learnxinyminutes-docs">learnxinyminutes-docs</a></h2><p>y分钟学会x,其实就是精简提炼知识点,里面东西很多,有点子价值在里面</p>
+<h2 id="YYeTsBot"><a href="#YYeTsBot" class="headerlink" title="YYeTsBot"></a><a href="https://github.com/tgbot-collection/YYeTsBot">YYeTsBot</a></h2><p>人人影视bot,可以获取电影的磁力链接等等</p>
+<h2 id="motrix"><a href="#motrix" class="headerlink" title="motrix"></a><a href="https://github.com/agalwood/Motrix">motrix</a></h2><p>书接上回,UI合理,功能健全的磁力链接/种子下载器</p>
+<h2 id="TrackersListCollection"><a href="#TrackersListCollection" class="headerlink" title="TrackersListCollection"></a><a href="https://github.com/XIU2/TrackersListCollection">TrackersListCollection</a></h2><p>再接上回,更新频繁的种子追踪器链接分享</p>
+<h2 id="syncthing"><a href="#syncthing" class="headerlink" title="syncthing"></a><a href="https://github.com/syncthing/syncthing">syncthing</a></h2><p>一个数据同步器,类似OneDrive,不过是通过p2p,一般在局域网使用</p>
+<h2 id="chineseocr-lite"><a href="#chineseocr-lite" class="headerlink" title="chineseocr_lite"></a><a href="https://github.com/DayBreak-u/chineseocr_lite">chineseocr_lite</a></h2><p>开源的离线ocr</p>
+<h2 id="YesPlayMusic"><a href="#YesPlayMusic" class="headerlink" title="YesPlayMusic"></a><a href="https://github.com/qier222/YesPlayMusic">YesPlayMusic</a></h2><p>美化且带插件的第三方网易云客户端</p>
+<h2 id="justlive"><a href="#justlive" class="headerlink" title="justlive"></a><a href="https://github.com/guyijie1211/JustLive-Android">justlive</a></h2><p>一个聚合多个平台的直播内容的软件,纯净极简,有些小bug但不影响用,这个是安卓端,作者主页还有其他端的项目,且用且珍惜</p>
+<h2 id="hacktools"><a href="#hacktools" class="headerlink" title="hacktools"></a><a href="https://github.com/Z4nzu/hackingtool">hacktools</a></h2><p>常用hack工具包</p>
+<h2 id="gif123"><a href="#gif123" class="headerlink" title="gif123"></a><a href="https://github.com/aardio/Gif123">gif123</a></h2><p>方便小巧好用的pc端gif录制器</p>
+<h2 id="automa"><a href="#automa" class="headerlink" title="automa"></a><a href="https://github.com/Kholid060/automa">automa</a></h2><p>在浏览器里实现类似苹果快捷指令功能的插件</p>
+<h2 id="HowToCook"><a href="#HowToCook" class="headerlink" title="HowToCook"></a><a href="https://github.com/Anduin2017/HowToCook">HowToCook</a></h2><p>程序员做饭指南,从基础到复杂,确实很人性</p>
+<h2 id="ALL-about-RSS"><a href="#ALL-about-RSS" class="headerlink" title="ALL-about-RSS"></a><a href="https://github.com/AboutRSS/ALL-about-RSS">ALL-about-RSS</a></h2><p>关于rss的一切</p>
+<h2 id="fluentreader"><a href="#fluentreader" class="headerlink" title="fluentreader"></a><a href="https://github.com/yang991178/fluent-reader">fluentreader</a></h2><p>书接上文,漂亮的开源rss阅读器,仅PC</p>
+<h2 id="steam"><a href="#steam" class="headerlink" title="steam++"></a><a href="https://github.com/BeyondDimension/SteamTools">steam++</a></h2><p>一个steam的增强软件,功能强大</p>
+<h2 id="hmcl"><a href="#hmcl" class="headerlink" title="hmcl"></a><a href="https://github.com/huanghongxun/HMCL">hmcl</a></h2><p>第三方我的世界启动器,UI友好,功能全,之前推荐过</p>
+<h2 id="KeymouseGo"><a href="#KeymouseGo" class="headerlink" title="KeymouseGo"></a><a href="https://github.com/taojy123/KeymouseGo">KeymouseGo</a></h2><p>通过录制你的操作执行操作的小巧简易脚本软件</p>
+<h2 id="keepass"><a href="#keepass" class="headerlink" title="keepass"></a><a href="https://github.com/keepassxreboot/keepassxc">keepass</a></h2><p>知名开源密码管理客户端,这是pc端,其他版本请在GitHub自行寻找</p>
+<h2 id="v2ray"><a href="#v2ray" class="headerlink" title="v2ray"></a><a href="https://github.com/2dust/v2rayN">v2ray</a></h2><p>知名代理软件,懂得都懂</p>
+<h2 id="hackbrowserdate"><a href="#hackbrowserdate" class="headerlink" title="hackbrowserdate"></a><a href="https://github.com/moonD4rk/HackBrowserData">hackbrowserdate</a></h2><p>越过加密获取浏览器里保存的密码,支持chrome及相关浏览器</p>
+<h2 id="trafficmonitor"><a href="#trafficmonitor" class="headerlink" title="trafficmonitor"></a><a href="https://github.com/zhongyang219/TrafficMonitor">trafficmonitor</a></h2><p>在任务栏显示运行状况,bug略多,但确实有用</p>
+<h2 id="joplin"><a href="#joplin" class="headerlink" title="joplin"></a><a href="https://github.com/laurent22/joplin">joplin</a></h2><p>知名markdown笔记软件,支持webdav与多端同步</p>
+]]></content>
+      <categories>
+        <category>技术</category>
+      </categories>
+      <tags>
+        <tag>技术</tag>
+        <tag>资源</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>v2ray</title>
     <url>/posts/e8d8fd18/</url>
     <content><![CDATA[<p>已经兴起了一阵的魔法技术<span id="more"></span><br>但因为众所周知的原因肯定是不能教的<br>所以在这里给出关键词<br>顺便提一下GitHub<br>懂得都懂(笑<br>至于你为什么要用,有需求的自然会懂<br>没需求就是你不需要<br>顺带说一下你的需求与我无关</p>
@@ -242,22 +261,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《我要批评你一下》</title>
-    <url>/posts/cf50159f/</url>
-    <content><![CDATA[<p>许久之前从知乎看到的一个段子,夸张了揭露了某些喷子错乱的逻辑,时间戳是2020年,一直存在我的笔记里,转载一下<span id="more"></span></p>
-<p>甲：我要批评你一下，你可不要介意啊。<br>乙：你说就是了。<br>甲：我觉得你最好不要太自大。这样给人感觉很不好。<br>乙：自大？我为啥会自大？怎么就自大了？<br>甲：看看。早说了让你不要太介意，你怎么这么在意啊？这就要急了？<br>乙：可我没有自大啊。<br>甲：那我一说你，你这么急干啥？这不是“此地无银三百两”吗？<br>乙：因为我没有自大啊。<br>甲：你只是不愿意面对、承认而已。<br>乙：你举例来说说，我哪里自大了？<br>甲：因为我觉得你和正常人不一样，心理可能有问题，觉得自己天下第一。<br>乙：我心理哪里有问题？<br>甲：放松！不要讳疾忌医嘛。心理疾病又不丢人。<br>乙：心理疾病是不丢人，可我没有心理疾病啊。<br>甲：都说了心理疾病不丢人了，你怎么还是不好意思承认？这你都不敢承认，还敢说自己和正常人一样？<br>乙：我怎么就和正常人不一样了？<br>甲：看看正常人，再看看你，就觉得不一样。<br>乙：哪里不一样？<br>甲：那种眼神就不一样。你就是自大者的眼神。我一下子就感觉出来了。<br>乙：可大家都没感觉出来啊。<br>甲：那是你伪装得好。你伪装得越好，越证明你的不正常。正常的人，那还用伪装？<br>乙：你怎么知道我是伪装出来的？<br>甲：因为你伪装得太像了！跟真的一样。你每天费心费力伪装，不就是因为不敢面对吗？<br>乙：我没伪装啊。<br>甲：你这个人，怎么经不起批评呢？怎么就是不愿意承认呢？面子就这么重要？<br>乙：没有的事，我为什么要承认？我真没有。<br>甲：你觉得没有不一定没有，这是你潜意识里的，我是在帮助你意识到这一点。<br>乙：我自己都意识不到的东西，你怎么能这么肯定呢？<br>甲：当局者迷，旁观者清啊。<br>乙：旁观者多了，怎么就你这么一个人这么认为啊？<br>甲：我这是为你好啊！说不定别人都在背后笑话你，只是不当面告诉你而已。别人都没有我这么善良，没有我这么关心你，不会和你说实话。<br>乙：我认为不存在这种状况。<br>甲：你说不存在就不存在了？你一个人一个人亲自问了？再说了，你就是一个个亲自问，他们也不一定会说实话的。通过今天和你说话，我就明白了，怪不得别人都不愿意批评你呢，原来你是个经不起批评的玻璃心啊。<br>乙：我没有经不起批评啊。<br>甲：那你为什么不听我批评你？<br>乙：因为你的批评没道理，逻辑混乱，我不想和你说话。<br>甲：经不起批评的人，都是这样想的，觉得别人的批评没道理。你就是不想听实话呗。<br>乙：我没有不想听实话啊。<br>甲：那你听我批评你啊！<br>乙：你批评我可以，你要拿出实锤证据来啊。你不能老拿你的感觉说事吧？<br>甲：实锤证据有啊！事实证明你就是个经不起批评的人，这一点你承认吧？你看看，我就随便说了你一句，你就辩解了这么一大堆，不就是因为心虚吗？我现在就要批评你“经不起批评，不愿意面对和接受他人批评”这一点。<br>乙：你这简直是胡搅蛮缠啊。<br>甲：你看看，这更印证了我对你的批评了吧？你就是一个心胸狭窄、死要面子活受罪的人！<br>乙：我并不是这样一个人。<br>甲：你不是这样的人，那是哪样的人？你的意思是你是个十全十美的完人？所以找不出可以被批评的点？<br>乙：我没说自己是个十全十美的完人啊。<br>甲：那你为什么不接受我的批评？<br>乙：因为你说我是个自大的人，这不符合事实啊。<br>甲：你都觉得自己是个十全十美的完人了，还不够自大？那怎么才算自大？<br>乙：我不想和你说话了。<br>甲：你就是个自大还不承认，自认为自己十全十美、天下第一，经不得别人批评、心胸狭窄、死要面子活受罪的人！你再这样下去，早晚要倒霉的！</p>
-<p>over</p>
-]]></content>
-      <categories>
-        <category>转载</category>
-      </categories>
-      <tags>
-        <tag>文章</tag>
-        <tag>吐槽</tag>
-        <tag>转载</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>成为朋友的相关变量</title>
     <url>/posts/82780993/</url>
     <content><![CDATA[<p>每个人的身边应该都不乏道德败坏之人,但即使这种人也会有他自己的朋友,以前我并不在乎,后来才知道究其原因还是因为在社会心理学中，个体的成就、品德并不属于能否成为朋友的影响因素,而是只有以下几方面的相关变量：</p>
@@ -275,6 +278,22 @@
       <tags>
         <tag>社论</tag>
         <tag>science</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《我要批评你一下》</title>
+    <url>/posts/cf50159f/</url>
+    <content><![CDATA[<p>许久之前从知乎看到的一个段子,夸张了揭露了某些喷子错乱的逻辑,时间戳是2020年,一直存在我的笔记里,转载一下<span id="more"></span></p>
+<p>甲：我要批评你一下，你可不要介意啊。<br>乙：你说就是了。<br>甲：我觉得你最好不要太自大。这样给人感觉很不好。<br>乙：自大？我为啥会自大？怎么就自大了？<br>甲：看看。早说了让你不要太介意，你怎么这么在意啊？这就要急了？<br>乙：可我没有自大啊。<br>甲：那我一说你，你这么急干啥？这不是“此地无银三百两”吗？<br>乙：因为我没有自大啊。<br>甲：你只是不愿意面对、承认而已。<br>乙：你举例来说说，我哪里自大了？<br>甲：因为我觉得你和正常人不一样，心理可能有问题，觉得自己天下第一。<br>乙：我心理哪里有问题？<br>甲：放松！不要讳疾忌医嘛。心理疾病又不丢人。<br>乙：心理疾病是不丢人，可我没有心理疾病啊。<br>甲：都说了心理疾病不丢人了，你怎么还是不好意思承认？这你都不敢承认，还敢说自己和正常人一样？<br>乙：我怎么就和正常人不一样了？<br>甲：看看正常人，再看看你，就觉得不一样。<br>乙：哪里不一样？<br>甲：那种眼神就不一样。你就是自大者的眼神。我一下子就感觉出来了。<br>乙：可大家都没感觉出来啊。<br>甲：那是你伪装得好。你伪装得越好，越证明你的不正常。正常的人，那还用伪装？<br>乙：你怎么知道我是伪装出来的？<br>甲：因为你伪装得太像了！跟真的一样。你每天费心费力伪装，不就是因为不敢面对吗？<br>乙：我没伪装啊。<br>甲：你这个人，怎么经不起批评呢？怎么就是不愿意承认呢？面子就这么重要？<br>乙：没有的事，我为什么要承认？我真没有。<br>甲：你觉得没有不一定没有，这是你潜意识里的，我是在帮助你意识到这一点。<br>乙：我自己都意识不到的东西，你怎么能这么肯定呢？<br>甲：当局者迷，旁观者清啊。<br>乙：旁观者多了，怎么就你这么一个人这么认为啊？<br>甲：我这是为你好啊！说不定别人都在背后笑话你，只是不当面告诉你而已。别人都没有我这么善良，没有我这么关心你，不会和你说实话。<br>乙：我认为不存在这种状况。<br>甲：你说不存在就不存在了？你一个人一个人亲自问了？再说了，你就是一个个亲自问，他们也不一定会说实话的。通过今天和你说话，我就明白了，怪不得别人都不愿意批评你呢，原来你是个经不起批评的玻璃心啊。<br>乙：我没有经不起批评啊。<br>甲：那你为什么不听我批评你？<br>乙：因为你的批评没道理，逻辑混乱，我不想和你说话。<br>甲：经不起批评的人，都是这样想的，觉得别人的批评没道理。你就是不想听实话呗。<br>乙：我没有不想听实话啊。<br>甲：那你听我批评你啊！<br>乙：你批评我可以，你要拿出实锤证据来啊。你不能老拿你的感觉说事吧？<br>甲：实锤证据有啊！事实证明你就是个经不起批评的人，这一点你承认吧？你看看，我就随便说了你一句，你就辩解了这么一大堆，不就是因为心虚吗？我现在就要批评你“经不起批评，不愿意面对和接受他人批评”这一点。<br>乙：你这简直是胡搅蛮缠啊。<br>甲：你看看，这更印证了我对你的批评了吧？你就是一个心胸狭窄、死要面子活受罪的人！<br>乙：我并不是这样一个人。<br>甲：你不是这样的人，那是哪样的人？你的意思是你是个十全十美的完人？所以找不出可以被批评的点？<br>乙：我没说自己是个十全十美的完人啊。<br>甲：那你为什么不接受我的批评？<br>乙：因为你说我是个自大的人，这不符合事实啊。<br>甲：你都觉得自己是个十全十美的完人了，还不够自大？那怎么才算自大？<br>乙：我不想和你说话了。<br>甲：你就是个自大还不承认，自认为自己十全十美、天下第一，经不得别人批评、心胸狭窄、死要面子活受罪的人！你再这样下去，早晚要倒霉的！</p>
+<p>over</p>
+]]></content>
+      <categories>
+        <category>转载</category>
+      </categories>
+      <tags>
+        <tag>文章</tag>
+        <tag>转载</tag>
+        <tag>吐槽</tag>
       </tags>
   </entry>
   <entry>
@@ -354,6 +373,20 @@
       </tags>
   </entry>
   <entry>
+    <title>那个偷飞机的男孩</title>
+    <url>/posts/502c17c7/</url>
+    <content><![CDATA[<p>这是一个周五的晚上8点钟，美国华盛顿州西雅图塔科马机场，29岁的地勤工作人员理查德·罗素结束了自己一天的常规工作后，偷偷溜进了停机坪上的一架76座双引擎庞巴迪Q400客机的驾驶舱。<span id="more"></span><br>没有飞机驾驶执照、没有接受过任何飞行训练的他发动了引擎。靠着在模拟航空游戏里学到的有限操作，他驾驶飞机做出了一连串惊险的动作，地面上的人们在惊呼中拍下了视频。当时的天空景色很美。<br>75分钟以后，飞机在西雅图附近普吉特湾的一个小岛上坠毁，理查德·罗素没有生还。<br>事发前毫无征兆。人们搜寻着他生前在这个世界上留下的蛛丝马迹，然而所有能够获取到的信息都无法解释他的动机，那些碎片拼凑出来的形象，完全无法和劫机犯划上等号。<br>理查德·罗素出生在佛罗里达州的基韦斯特岛，那是美国本土最南端的岛屿，能够看到绝美的热带夕阳。七岁时，他随家人搬到冰天雪地的阿拉斯加。2010年，他在俄勒冈旅行时认识了现在的妻子，婚后两个人开了一家面包店。再之后，为了能够离妻子的家人近一点，他们搬到了西雅图定居。<br>理查德的家人发布公开声明说，他是一个温暖而有同情心的人，是忠诚的丈夫、关爱父母的儿子。他也被身边所有人喜爱，因为他对每个人都温柔和善。<br>29年的人生过得平淡且知足，他爱着，也被爱着。唯一能够找到线索的，是他在飞行时和地面塔台空管交谈的录音。塔台叫他Rich，那是他的名字Richard的简称。塔台一直在试图引导他降落。<br>塔台：“我，还有我们所有人，都不希望你受伤。你如果想降落的话，就试试我说的办法。”<br>Rich：“可我想知道那条逆戟鲸的位置，你知道，就是那条背着宝宝的逆载鲸。我想去看看那家伙。”<br>他说自己想去看看那条鲸鱼——这是另一条来自西雅图的新闻：一条逆戟鲸背着自己幼息的尸体在海里游了17天才决定放手。<br>根据《美国国家地理》发布的新闻：“这条名叫“j35”的逆戟鲸，背着幼崽的尸体在海中游荡1600多公里、悼念了整整17天后，终于选择了放手，完成了这场‘漫长的告别’。这是一场前所未有的哀悼，也是迄今为止，时间最长的动物哀悼行为……”两条原本不相关的新闻，以一种奇特的方式连接在了一起。<br>塔台：“Rich，如果可以的话，请尽量把飞机贴近水面。”<br>Rich：“旁边的景物过得好快，我要好好看看这些风景，享受这一刻的宁静。一切都很美。”<br>塔台：“你能看清楚周围的地形吗？能见度有没有问题？”<br>Rich：“没有，一切都非常清楚。我刚刚绕着雷尼尔山飞了一小圈，很美，我想剩下来的油还够让我飞到奥林匹克山去看看……我不知道该怎么降落，其实我本来就没打算降落。”<br>然后，声音消失了，飞机坠毁在小岛上的森林之中。雷达记录了最后的飞行轨迹，显示飞机坠毁前，在空中盘旋了无数个如同乱麻的圈。<br>社交网络上，美国人给予了理查德·罗素哀悼，人们称他为“Space Cowboy”(“太空牛仔”)。<br>很多年以后，我大概会忘记那些焦虑、忧惧与恐慌，忘记那些吸引了无数口水和注意力的头版头条与热点话题。但是，我大概还会记得在这个夏天，这一则悲伤而离奇的新闻。<br>我喜欢这样的悲悯和温柔。</p>
+]]></content>
+      <categories>
+        <category>转载</category>
+      </categories>
+      <tags>
+        <tag>文章</tag>
+        <tag>转载</tag>
+        <tag>文艺</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>你的武林</title>
     <url>/posts/9d23a557/</url>
     <content><![CDATA[<h2 id="你的武林"><a href="#你的武林" class="headerlink" title="你的武林"></a>你的武林</h2><p>你万念俱灰，神色暗淡，未存生望，将死求安<br>却闻身后笛声轻起，百鸟皆还<br>你转身<br>看见柳笛弯弯<br>万般云霞皆暗淡<span id="more"></span><br>她轻叹，笛声戛然<br>你迈步，她抬首看<br>你拱手，她笑嫣然<br>你张口，说姑娘有何烦恼在下可否耳闻<br>在下虽已万念俱灰仍愿为姑娘碎骨粉身<br>她说既已叹息何必提故事沉沉<br>徒增悲意不如去自寻本真<br>鸟鸣悲婉<br>你也随之俯首轻叹<br>前行，空有孤寒，后退，四方皆岸<br>再抬首，她已起身。<br>你踌躇，你不决，终究向她喊到<br>明日可否再度相见？<br>她回身一笑，穿透春光灿烂，如月映照眼前。<br>如此你便明了了。<br>你不知她是谁<br>她不问你何归<br>时光细碎<br>如画唯美<br>同游天下<br>江湖忽危<br>你看见诏书。<br>败魔教者，封赏九族。<br>败魔教仇恨即无，成大事光复九族<br>最重要的<br>她的微笑，安定，或者说幸福<br>你很强，所以你拔剑，昂扬<br>为了让她，笑的安详<br>她只是笑<br>她说<br>无论如何<br>不要把我忘掉<br>你告诉她<br>鼠辈<br>不能伤她分毫<br>她步步跟随毫无怨言<br>你事事神勇护她周全<br>不觉之间宫殿已近在眼前<br>她已离去你放心面对凶险<br>你踏入<br>却是空城<br>你迈步<br>古琴铮铮<br>似有哀声<br>声源近在眼前<br>你走近，却看见她的容颜<br>月光，千年百年，未曾有变<br>春色，一朝一夕，还似从前<br>故事长长，如漏刻之沙，点点滴滴<br>而今，已是尽头<br>你抬首，你转身，你拔剑，又为了何人<br>两两相望<br>惟余轻笑<br>退无可退<br>身后已箭冲云霄<br>你懂了<br>但晚了<br>你一袭白衣剑尖染血，踌躇再三也未将柳笛忘掉。<br>她孑然一身仍带轻笑，笑你不懂她的情调。<br>你想起它的叹息<br>你想起小时候遇见过一个女孩<br>你很快就忘了<br>这就是你的武林</p>
@@ -369,20 +402,6 @@
       </tags>
   </entry>
   <entry>
-    <title>那个偷飞机的男孩</title>
-    <url>/posts/502c17c7/</url>
-    <content><![CDATA[<p>这是一个周五的晚上8点钟，美国华盛顿州西雅图塔科马机场，29岁的地勤工作人员理查德·罗素结束了自己一天的常规工作后，偷偷溜进了停机坪上的一架76座双引擎庞巴迪Q400客机的驾驶舱。<span id="more"></span><br>没有飞机驾驶执照、没有接受过任何飞行训练的他发动了引擎。靠着在模拟航空游戏里学到的有限操作，他驾驶飞机做出了一连串惊险的动作，地面上的人们在惊呼中拍下了视频。当时的天空景色很美。<br>75分钟以后，飞机在西雅图附近普吉特湾的一个小岛上坠毁，理查德·罗素没有生还。<br>事发前毫无征兆。人们搜寻着他生前在这个世界上留下的蛛丝马迹，然而所有能够获取到的信息都无法解释他的动机，那些碎片拼凑出来的形象，完全无法和劫机犯划上等号。<br>理查德·罗素出生在佛罗里达州的基韦斯特岛，那是美国本土最南端的岛屿，能够看到绝美的热带夕阳。七岁时，他随家人搬到冰天雪地的阿拉斯加。2010年，他在俄勒冈旅行时认识了现在的妻子，婚后两个人开了一家面包店。再之后，为了能够离妻子的家人近一点，他们搬到了西雅图定居。<br>理查德的家人发布公开声明说，他是一个温暖而有同情心的人，是忠诚的丈夫、关爱父母的儿子。他也被身边所有人喜爱，因为他对每个人都温柔和善。<br>29年的人生过得平淡且知足，他爱着，也被爱着。唯一能够找到线索的，是他在飞行时和地面塔台空管交谈的录音。塔台叫他Rich，那是他的名字Richard的简称。塔台一直在试图引导他降落。<br>塔台：“我，还有我们所有人，都不希望你受伤。你如果想降落的话，就试试我说的办法。”<br>Rich：“可我想知道那条逆戟鲸的位置，你知道，就是那条背着宝宝的逆载鲸。我想去看看那家伙。”<br>他说自己想去看看那条鲸鱼——这是另一条来自西雅图的新闻：一条逆戟鲸背着自己幼息的尸体在海里游了17天才决定放手。<br>根据《美国国家地理》发布的新闻：“这条名叫“j35”的逆戟鲸，背着幼崽的尸体在海中游荡1600多公里、悼念了整整17天后，终于选择了放手，完成了这场‘漫长的告别’。这是一场前所未有的哀悼，也是迄今为止，时间最长的动物哀悼行为……”两条原本不相关的新闻，以一种奇特的方式连接在了一起。<br>塔台：“Rich，如果可以的话，请尽量把飞机贴近水面。”<br>Rich：“旁边的景物过得好快，我要好好看看这些风景，享受这一刻的宁静。一切都很美。”<br>塔台：“你能看清楚周围的地形吗？能见度有没有问题？”<br>Rich：“没有，一切都非常清楚。我刚刚绕着雷尼尔山飞了一小圈，很美，我想剩下来的油还够让我飞到奥林匹克山去看看……我不知道该怎么降落，其实我本来就没打算降落。”<br>然后，声音消失了，飞机坠毁在小岛上的森林之中。雷达记录了最后的飞行轨迹，显示飞机坠毁前，在空中盘旋了无数个如同乱麻的圈。<br>社交网络上，美国人给予了理查德·罗素哀悼，人们称他为“Space Cowboy”(“太空牛仔”)。<br>很多年以后，我大概会忘记那些焦虑、忧惧与恐慌，忘记那些吸引了无数口水和注意力的头版头条与热点话题。但是，我大概还会记得在这个夏天，这一则悲伤而离奇的新闻。<br>我喜欢这样的悲悯和温柔。</p>
-]]></content>
-      <categories>
-        <category>转载</category>
-      </categories>
-      <tags>
-        <tag>文章</tag>
-        <tag>转载</tag>
-        <tag>文艺</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>傻士比亚和喜特勒</title>
     <url>/posts/49ad4322/</url>
     <content><![CDATA[<p>“唯一的莎士比亚”“超越一个时代，属于千秋万代”“莎士比亚就是无限”“人类最伟大的戏剧大师”……人们对威廉・莎士比亚总是不吝赞美之辞，但是莎翁并非独一无二的戏剧天才，至少在18世纪的英国，有一个与他旗鼓相当，甚至在某些方面可能超越了他的业余戏剧家，名叫温斯顿・史密斯。<span id="more"></span></p>
@@ -394,19 +413,6 @@
       <tags>
         <tag>文章</tag>
         <tag>转载</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>决定论</title>
-    <url>/posts/f5c3e981/</url>
-    <content><![CDATA[<p>有一个听起来荒谬，但曾得到包括爱因斯坦在内的很多科学家支持的观点——决定论。<span id="more"></span><br>一个小球在真空自由落体，我们可以轻易的算出它在某一时刻的速度。丢一个骰子，看起来点数随机，但如果有了出手速度，初始位置，以及房子里面空气流动速度和阻力等等，终究也能计算骰子最终点数。现在问题来了，只要完全知道宇宙在某一时刻的状态，便能用科学定律依此计算出宇宙中下一刻的状态，再利用下一刻可以计算出下下一刻的状态。那么从现在开始，以及接下来发生的所有事情都是固定的，因为此刻的状态是确定的。而现在的状态是由宇宙上一时刻的状态决定的，这样可以一直回溯回去，直到宇宙大爆炸。也就是说:<br>「过去以及未来发生的事情，包括你怎样来到这个世界，如何遇到真爱并走过这一生， 以何种方式死去，在138亿年前宇宙大爆炸那一刻就已经决定了」。<br>所以完全可以对心仪的人说，其实我们相遇是命运的安排，缘分从138亿年前就已经开始。</p>
-<p>当然，我们也明知这些应该是错的，但这的确有点浪漫，让人想去相信，但这个概念终将证伪</p>
-]]></content>
-      <categories>
-        <category>science</category>
-      </categories>
-      <tags>
-        <tag>science</tag>
       </tags>
   </entry>
   <entry>
@@ -443,6 +449,19 @@
       </tags>
   </entry>
   <entry>
+    <title>决定论</title>
+    <url>/posts/f5c3e981/</url>
+    <content><![CDATA[<p>有一个听起来荒谬，但曾得到包括爱因斯坦在内的很多科学家支持的观点——决定论。<span id="more"></span><br>一个小球在真空自由落体，我们可以轻易的算出它在某一时刻的速度。丢一个骰子，看起来点数随机，但如果有了出手速度，初始位置，以及房子里面空气流动速度和阻力等等，终究也能计算骰子最终点数。现在问题来了，只要完全知道宇宙在某一时刻的状态，便能用科学定律依此计算出宇宙中下一刻的状态，再利用下一刻可以计算出下下一刻的状态。那么从现在开始，以及接下来发生的所有事情都是固定的，因为此刻的状态是确定的。而现在的状态是由宇宙上一时刻的状态决定的，这样可以一直回溯回去，直到宇宙大爆炸。也就是说:<br>「过去以及未来发生的事情，包括你怎样来到这个世界，如何遇到真爱并走过这一生， 以何种方式死去，在138亿年前宇宙大爆炸那一刻就已经决定了」。<br>所以完全可以对心仪的人说，其实我们相遇是命运的安排，缘分从138亿年前就已经开始。</p>
+<p>当然，我们也明知这些应该是错的，但这的确有点浪漫，让人想去相信，但这个概念终将证伪</p>
+]]></content>
+      <categories>
+        <category>science</category>
+      </categories>
+      <tags>
+        <tag>science</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Re：刺杀小说家</title>
     <url>/posts/1c5308de/</url>
     <content><![CDATA[<h2 id="Re：刺杀小说家"><a href="#Re：刺杀小说家" class="headerlink" title="Re：刺杀小说家"></a>Re：刺杀小说家</h2><p>本来只想更一篇，看到这个草稿，惊觉再不更就过时了，虽然没人看，并且已经过时了，但还是更一下</p>
@@ -457,16 +476,15 @@
       </tags>
   </entry>
   <entry>
-    <title>关于几个电影的一些感想 2021.04</title>
-    <url>/posts/90bf77db/</url>
-    <content><![CDATA[<h2 id="关于叶问4、新神榜、三体和阿凡达"><a href="#关于叶问4、新神榜、三体和阿凡达" class="headerlink" title="关于叶问4、新神榜、三体和阿凡达"></a>关于叶问4、新神榜、三体和阿凡达</h2><p>现在是2021年四月九日<br>我刚刚看完了叶问四<br>说实话我现在很年轻，但是总有一种自己已经老了的感觉<br>看电影或者文章总会不自觉的思考人生还有各种乱七八糟的其他问题<span id="more"></span><br>刚刚看完了叶问4，作为一部功夫片，其实本来没必要在意太多细节<br>但叶问对我来说不同，我这个人很奇怪，也许是因为年纪小，我只做自己喜欢的<br>电影我也只看自己感兴趣的<br>叶问对我来说，至少截至现在，是我认为最好的功夫片<br>作为标杆，作为范例存在<br>而且它也的确存在值得称赞的细节<br>种种贴近真实的描写的确让他有了更多的思想寄托<br>而这一部甚至关底boss都更换为了更真实的一个美军军官<br>没有神化到拯救世界的地步，叶问的死因也很普通，当然，是为了真实<br>正是这种真实让我想写下这篇文章<br>片子剧情并不复杂，几条看似分散情节的实际上最终都归到叶问一个人身上<br>我想说的就是片中的剧情问题<br>剧情表现思想<br>提前声明片中并没有任何思想错误<br>只是叶问所做出的改变并不能说是全面（想看懂下面的话需要已经看过这部电影<br>剧中并没有提到之后的万会长的女儿在学校里的生活，实话实说可能编剧也不会写<br>我当然也不会<br>而美军的军官，这种情况下，只能说是被使用武力说服，<br>而真正的人性<br>在确认叶问死后，甚至不需要，只需要确认他离开后，就可以马上翻脸，这只是针对剧中出现的军官来说<br>而其他军官，翻脸的成本更低，毕竟一个死人，又不会起来打我<br>“如果他还活着，肯定不是我的对手”<br>这就是人性，移民局依然存在，仇恨依然存在，斗争就不会停止<br>这就是本能<br>大概一周前，我在电影院看过了阿凡达<br>我以前并没有看过这部电影，但它的确很有名<br>导演的确讲好了一个故事<br>但只能说是一个童话<br>宇宙不是童话世界<br>可能人类将来扮演的反而是土著的角色，而另一个幻影骑士会不会出现不得而知<br>在这方面我反而认同大刘那套黑暗森林法则<br>宇宙文明和国与国人与人是一样的<br>要么保持距离<br>要么保持战争<br>距离感永远很重要<br>这就是真实<br>这就是本能<br>叶问是一个人，只能改变一点点东西<br>叶问会死<br>他所做出的改变也会消失<br>可能我所想的太过阴暗，不过我的确就是这样的人，揣测，分析，置身事外，讨厌麻烦，抱怨，厌世<br>但这与这篇文章无关<br>我并不感觉自己有什么不对<br>毕竟人类的确谈不上多么光明正大的物种<br>回到改变这个问题<br>如果改变没有意义<br>那么，我们怎么做？<br>很巧，我昨天刚刚看过另一部电影<br>新神榜：哪吒传说<br>哪吒传说中却恰恰提到了这个问题<br>这也是一部很好的电影，有剧情，有立意<br>作为一部动漫神话英雄电影可以说是很高的水准<br>甚至足以发展出一整个神话宇宙<br>整个系列只要保持水平，甚至比这部片子稍低一点，就完全有望创造复仇者联盟一样的超级IP<br>片中说<br>“也许是什么都改变不了，就像医院里的病人，不管治不治疗，人都终有一死，可如果病治好了，他就会在这个世上多些时间，我相信这些时间对他们来说，不会是毫无用处的，对他们的亲人朋友也不是。”<br>我已经出生了六千七百多天，在这些天里我怀疑，我犹豫，多数时候活着，但食之无味，饮之无觉，儿时的快乐消逝之后，长大的烦恼就随之而来<br>儿时的我深夜时躺在床上，想到总有一天父亲母亲早晚有一天会离我而去，而我有一天也会迈进坟墓，不自觉的流下泪来<br>那时我的理想或者说梦就是我的家人和我能永远的在一起生活<br>而后来就再不存在理想这种东西了，没有什么是永存的<br>而我欠其他人的却永远都还不清，于是我的目标变为了还债<br>而后就是如今，人，就是人，只是人，永远是人<br>而我，某些时候已经不是所谓的人了<br>我想，那些自杀的文人或许大多是因为看透了生活的无可救药和疯狂吧<br>而我的疯狂绝非可以用一首诗医治的那种</p>
+    <title>哥德尔不完备性定理</title>
+    <url>/posts/1f7b8460/</url>
+    <content><![CDATA[<p>第一定理<br>任意一个包含一阶谓词逻辑与初等数论的形式系统，都存在一个命题，它在这个系统中既不能被证明为真，也不能被证明为否。<br>第二定理<br>如果系统S含有初等数论，当S无矛盾时，它的无矛盾性不可能在S内证明。</p>
 ]]></content>
       <categories>
-        <category>影评</category>
+        <category>science</category>
       </categories>
       <tags>
-        <tag>随笔</tag>
-        <tag>影评</tag>
+        <tag>science</tag>
       </tags>
   </entry>
   <entry>
@@ -486,15 +504,30 @@
       </tags>
   </entry>
   <entry>
-    <title>哥德尔不完备性定理</title>
-    <url>/posts/1f7b8460/</url>
-    <content><![CDATA[<p>第一定理<br>任意一个包含一阶谓词逻辑与初等数论的形式系统，都存在一个命题，它在这个系统中既不能被证明为真，也不能被证明为否。<br>第二定理<br>如果系统S含有初等数论，当S无矛盾时，它的无矛盾性不可能在S内证明。</p>
+    <title>关于几个电影的一些感想 2021.04</title>
+    <url>/posts/90bf77db/</url>
+    <content><![CDATA[<h2 id="关于叶问4、新神榜、三体和阿凡达"><a href="#关于叶问4、新神榜、三体和阿凡达" class="headerlink" title="关于叶问4、新神榜、三体和阿凡达"></a>关于叶问4、新神榜、三体和阿凡达</h2><p>现在是2021年四月九日<br>我刚刚看完了叶问四<br>说实话我现在很年轻，但是总有一种自己已经老了的感觉<br>看电影或者文章总会不自觉的思考人生还有各种乱七八糟的其他问题<span id="more"></span><br>刚刚看完了叶问4，作为一部功夫片，其实本来没必要在意太多细节<br>但叶问对我来说不同，我这个人很奇怪，也许是因为年纪小，我只做自己喜欢的<br>电影我也只看自己感兴趣的<br>叶问对我来说，至少截至现在，是我认为最好的功夫片<br>作为标杆，作为范例存在<br>而且它也的确存在值得称赞的细节<br>种种贴近真实的描写的确让他有了更多的思想寄托<br>而这一部甚至关底boss都更换为了更真实的一个美军军官<br>没有神化到拯救世界的地步，叶问的死因也很普通，当然，是为了真实<br>正是这种真实让我想写下这篇文章<br>片子剧情并不复杂，几条看似分散情节的实际上最终都归到叶问一个人身上<br>我想说的就是片中的剧情问题<br>剧情表现思想<br>提前声明片中并没有任何思想错误<br>只是叶问所做出的改变并不能说是全面（想看懂下面的话需要已经看过这部电影<br>剧中并没有提到之后的万会长的女儿在学校里的生活，实话实说可能编剧也不会写<br>我当然也不会<br>而美军的军官，这种情况下，只能说是被使用武力说服，<br>而真正的人性<br>在确认叶问死后，甚至不需要，只需要确认他离开后，就可以马上翻脸，这只是针对剧中出现的军官来说<br>而其他军官，翻脸的成本更低，毕竟一个死人，又不会起来打我<br>“如果他还活着，肯定不是我的对手”<br>这就是人性，移民局依然存在，仇恨依然存在，斗争就不会停止<br>这就是本能<br>大概一周前，我在电影院看过了阿凡达<br>我以前并没有看过这部电影，但它的确很有名<br>导演的确讲好了一个故事<br>但只能说是一个童话<br>宇宙不是童话世界<br>可能人类将来扮演的反而是土著的角色，而另一个幻影骑士会不会出现不得而知<br>在这方面我反而认同大刘那套黑暗森林法则<br>宇宙文明和国与国人与人是一样的<br>要么保持距离<br>要么保持战争<br>距离感永远很重要<br>这就是真实<br>这就是本能<br>叶问是一个人，只能改变一点点东西<br>叶问会死<br>他所做出的改变也会消失<br>可能我所想的太过阴暗，不过我的确就是这样的人，揣测，分析，置身事外，讨厌麻烦，抱怨，厌世<br>但这与这篇文章无关<br>我并不感觉自己有什么不对<br>毕竟人类的确谈不上多么光明正大的物种<br>回到改变这个问题<br>如果改变没有意义<br>那么，我们怎么做？<br>很巧，我昨天刚刚看过另一部电影<br>新神榜：哪吒传说<br>哪吒传说中却恰恰提到了这个问题<br>这也是一部很好的电影，有剧情，有立意<br>作为一部动漫神话英雄电影可以说是很高的水准<br>甚至足以发展出一整个神话宇宙<br>整个系列只要保持水平，甚至比这部片子稍低一点，就完全有望创造复仇者联盟一样的超级IP<br>片中说<br>“也许是什么都改变不了，就像医院里的病人，不管治不治疗，人都终有一死，可如果病治好了，他就会在这个世上多些时间，我相信这些时间对他们来说，不会是毫无用处的，对他们的亲人朋友也不是。”<br>我已经出生了六千七百多天，在这些天里我怀疑，我犹豫，多数时候活着，但食之无味，饮之无觉，儿时的快乐消逝之后，长大的烦恼就随之而来<br>儿时的我深夜时躺在床上，想到总有一天父亲母亲早晚有一天会离我而去，而我有一天也会迈进坟墓，不自觉的流下泪来<br>那时我的理想或者说梦就是我的家人和我能永远的在一起生活<br>而后来就再不存在理想这种东西了，没有什么是永存的<br>而我欠其他人的却永远都还不清，于是我的目标变为了还债<br>而后就是如今，人，就是人，只是人，永远是人<br>而我，某些时候已经不是所谓的人了<br>我想，那些自杀的文人或许大多是因为看透了生活的无可救药和疯狂吧<br>而我的疯狂绝非可以用一首诗医治的那种</p>
 ]]></content>
       <categories>
-        <category>science</category>
+        <category>影评</category>
       </categories>
       <tags>
-        <tag>science</tag>
+        <tag>随笔</tag>
+        <tag>影评</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>图书资源网站总集</title>
+    <url>/posts/b35ed62e/</url>
+    <content><![CDATA[<h2 id="因"><a href="#因" class="headerlink" title="因"></a>因</h2><p>买了个kindle，但是正版书实在是买不起了<br>就顺便找了一下书籍资源，在这里做一个网站总集<span id="more"></span><br>方便各位，也方便自己<br>当然<br>有能力的话还是建议各位支持正版</p>
+<p>鸠摩搜书（结合这个以及下面两个就能找到绝大多数书）：<br><a href="https://www.jiumodiary.com/">https://www.jiumodiary.com/</a><br>熊猫搜书（需要关注公众号，但还是很好用的）：<br><a href="https://xmsoushu.com/#/">https://xmsoushu.com/#/</a><br>读书达人：<br><a href="http://www.dushudaren.com/">http://www.dushudaren.com/</a><br>Zlibrary：<br><a href="https://zh.1lib.org/?signAll=1&amp;ts=0937">https://zh.1lib.org/?signAll=1&amp;ts=0937</a><br>点点文档：<br><a href="https://www.torrent.org.cn/bd">https://www.torrent.org.cn/bd</a><br>书享家（导航）：<br><a href="http://shuxiangjia.cn/Aconvert">http://shuxiangjia.cn/Aconvert</a><br>贼吧网：<br><a href="https://www.zei8.me/">https://www.zei8.me/</a><br>爱下电子书（txt和epub都支持下载）：<br><a href="https://www.aixdzs.com/">https://www.aixdzs.com/</a><br>书荒网：<br><a href="https://www.15huang.com/">https://www.15huang.com</a><br>好读（绝版书多）：<br><a href="http://www.haodoo.net/">http://www.haodoo.net</a><br>亿年书海（可以在线，网站顶部可生成epub）：<br><a href="https://www.inien.com/">https://www.inien.com</a><br>星空书海：<br><a href="https://www.goodepub.com/">https://www.goodepub.com/</a><br>读读狗：<br><a href="http://www.dududog.com/">http://www.dududog.com</a><br>书单网：<br><a href="https://pan.shudan.vip/list-1.html">https://pan.shudan.vip/list-1.html</a><br>txt to epub转换：<br><a href="https://www.aconvert.com/cn/ebook/txt-to-epub/">https://www.aconvert.com/cn/ebook/txt-to-epub/</a></p>
+]]></content>
+      <categories>
+        <category>资源</category>
+      </categories>
+      <tags>
+        <tag>资源</tag>
+        <tag>书</tag>
       </tags>
   </entry>
   <entry>
@@ -514,21 +547,7 @@
       </tags>
   </entry>
   <entry>
-    <title>图书资源网站总集</title>
-    <url>/posts/b35ed62e/</url>
-    <content><![CDATA[<h2 id="因"><a href="#因" class="headerlink" title="因"></a>因</h2><p>买了个kindle，但是正版书实在是买不起了<br>就顺便找了一下书籍资源，在这里做一个网站总集<span id="more"></span><br>方便各位，也方便自己<br>当然<br>有能力的话还是建议各位支持正版</p>
-<p>鸠摩搜书（结合这个以及下面两个就能找到绝大多数书）：<br><a href="https://www.jiumodiary.com/">https://www.jiumodiary.com/</a><br>熊猫搜书（需要关注公众号，但还是很好用的）：<br><a href="https://xmsoushu.com/#/">https://xmsoushu.com/#/</a><br>读书达人：<br><a href="http://www.dushudaren.com/">http://www.dushudaren.com/</a><br>Zlibrary：<br><a href="https://zh.1lib.org/?signAll=1&amp;ts=0937">https://zh.1lib.org/?signAll=1&amp;ts=0937</a><br>点点文档：<br><a href="https://www.torrent.org.cn/bd">https://www.torrent.org.cn/bd</a><br>书享家（导航）：<br><a href="http://shuxiangjia.cn/Aconvert">http://shuxiangjia.cn/Aconvert</a><br>贼吧网：<br><a href="https://www.zei8.me/">https://www.zei8.me/</a><br>爱下电子书（txt和epub都支持下载）：<br><a href="https://www.aixdzs.com/">https://www.aixdzs.com/</a><br>书荒网：<br><a href="https://www.15huang.com/">https://www.15huang.com</a><br>好读（绝版书多）：<br><a href="http://www.haodoo.net/">http://www.haodoo.net</a><br>亿年书海（可以在线，网站顶部可生成epub）：<br><a href="https://www.inien.com/">https://www.inien.com</a><br>星空书海：<br><a href="https://www.goodepub.com/">https://www.goodepub.com/</a><br>读读狗：<br><a href="http://www.dududog.com/">http://www.dududog.com</a><br>书单网：<br><a href="https://pan.shudan.vip/list-1.html">https://pan.shudan.vip/list-1.html</a><br>txt to epub转换：<br><a href="https://www.aconvert.com/cn/ebook/txt-to-epub/">https://www.aconvert.com/cn/ebook/txt-to-epub/</a></p>
-]]></content>
-      <categories>
-        <category>资源</category>
-      </categories>
-      <tags>
-        <tag>资源</tag>
-        <tag>书</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>转载故事-一双旧鞋卖出天价</title>
+    <title>如何把一双旧鞋卖出天价</title>
     <url>/posts/a63c4f28/</url>
     <content><![CDATA[<h2 id="正文"><a href="#正文" class="headerlink" title="正文"></a>正文</h2><p>1952年，美国三大报纸之一的《洛杉矶时报》在头版位置刊登了一条轰动一时的广告：“高价求购1932年洛杉矶奥运会上埃迪·托兰扔向看台的另一只阿迪达斯跑鞋。”<span id="more"></span>求购人开出的价码是5000美元。埃迪·托兰作为美国历史上最杰出的运动员之一，在1932年洛杉矶奥运会上夺得了百米大战的桂冠，并以10秒3的成绩打破了当时的百米世界纪录，他夺冠时穿的鞋子自然具有一定的收藏价值。<br>在广告刊登后的半年时间内，有超过100只号称埃迪·托兰夺冠时穿的跑鞋被络绎不绝地送到广告刊登者加利的面前，但都被一一否定了，他们送来的鞋子跟加利收藏的那一只压根不是一双。加利再一次在报纸上发布广告，加价到8000美元，另一<br>只鞋子依然没有重出江湖。<br>其间也曾有人对广告的真实性表示怀疑，认为埃迪·托兰夺冠之后根本就没有把鞋子扔向看台。但由于当时还没有电视直播，又是20年之前的陈年往事了，没有任何直接证据为这种怀疑的声音提供支持，这种异议编终还是淹没在众人寻找埃迪·托兰之鞋的声浪中。<br>1953年，埃迪·托兰的另只跑鞋依然没有露面。失望之余，加利放弃了把埃迪·托兰的跑鞋凑成一双的梦想，最终还将自己手里的那只鞋子出手了，卖了4000美元。但让人为他拒腕叹息的是，就在他卖出鞋子不久，另一只鞋子终于出现了。~位始终没有露面的神秘卖家提供了一只跑鞋，跟那只刚刚易手的鞋子是天造地设的一双，并最终只以6000美元的价钱卖出。这个轰动一时的收购事件终于告一段落。<br>跑鞋的拥有者爱德华先生把他的收藏品陈列在当地的体育博物馆，向参观者展示埃迪·托兰曾经的荣光。但两年后，已经移居欧洲的埃迪·托兰应邀参观这个博物馆时，面对自己的跑鞋却幽默地耸耸肩：“它没有一点我的脚臭味。”大吃一惊的爱德华从玻璃展柜里拿出鞋子让埃迪·托兰穿了一下——比他的脚至少小了两个码。<br>消息传出，舆论一片哗然，原来加利设下了一个不折不扣的骗局。埃迪·托兰还证实，他当年夺冠的时候根本就没把鞋子扔向看台，甚至也从没有意识到其不菲的价值，那双鞋子可能被扔进了垃圾箱，早就在人间不复存在了。至此，加利也只好出面承认，他卖出的第一只鞋子只是自己穿过的旧跑鞋，出售第二只鞋子的幕后主使人自然也是他——只有他的手里才会有跟卖出的第一只鞋子相配的另一只。他先是依托名人编造了一个故事，然后用高价购鞋的广告间接证明自己手里的鞋子是真品，同时给它确定了一个比较高的市场价位。在成功地营造出声势之后，他以稍低的价位卖出第一只，马上又成功地以高价卖出了另一只.</p>
 <h2 id="ps"><a href="#ps" class="headerlink" title="ps"></a>ps</h2><p>很久很久以前的读者里的文章,当时顺手剪到了笔记里,觉得确实不错<br>ocr一下就顺手传上来给各位看看吧,真实性我并没有深究,不过其实当小说看也是可以的<br>至于所表达的内容我就不多谈了,小孩子都能看懂<br>哦,后面还有一小段没剪到的,补上</p>
@@ -540,19 +559,6 @@
       <tags>
         <tag>文章</tag>
         <tag>转载</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>失控玩家倒是真的让我失控了</title>
-    <url>/posts/3a6ca741/</url>
-    <content><![CDATA[<p>不敢相信我花了两个小时看了一个我非常不喜欢的电影<br>经典的英雄史诗环节<span id="more"></span><br>逻辑混乱,看完让人想笑却笑不出来<br>编剧看来一点也不了解什么叫互联网，什么叫编程，什么叫程序，什么叫人工智能，很多情节单独来看都让我有点难受<br>中间女主和男主kiss的那段到底是哪个按键能达成这个kiss我就蛮无法理解<br>不过传奇爱情里的奇迹即使出现了两次倒也勉强可以接受<br>但最后的剧情又变成了女主和男二的故事，男主是男二对女主的表白<br>那一刻,我愣了,但又非常的合理,看来编剧对爱情的把控还是很厉害的<br>可能这剧本也是他对女主角的表白呢<br>但把服务器放在自己公司里而且就在一楼,机房也小的可怜,这真的是最大的网游该有的规模?,而且大公司的服务器怎么可能在再公司里<br>就算真的在自己的公司,也应该在地下,就算真的在地下,也应该不止一份,可见编剧在专业方面还是有所欠缺,倒是宣发方面的的确确是大师水准<br>还有诡异的代码逻辑，单服务器离线消失的居然是npc而独立的npc居然能配合服务器单独存在<br>诡异的权限，诡异的功能,以及从始至终那个诡异的眼镜都难以解释<br>前半段勉强还能接受，后半段离谱的桥的特效，还有那离谱的次时代藏贴图的手法实在是让我想笑<br>白费了一堆铺垫只能说是合理,贴图勉勉强强还合逻辑，不过说实话，真是从头到尾都带着尴尬<br>以及经典的英雄永远都需要旁观者，全世界都关注着我，offline，神秘代码，关注，所有人都关注他的故事<br>倒是符合了普通人心中的英雄黑客形象<br>结尾单单和npc聊天的需求更是超现实联想<br>ai再先进也是向人的方向靠拢,有现实生活我还何必呢<br>因为是虚拟人就没有羞耻了?其实只是好奇而已,热度很快就会消退,一如继往<br>而这些拥有自我意识的ai的人权就更难以探究了<br>不过倒是的确适合爆米花需求的观众以及无知者,人类的知识层次和审美的不同给了这种电影活下去的机会<br>英雄史诗已经成了一种药<br>其实剧本总体来说不算差,换个皮讲个其他的故事大概能好很多,不过编剧的故事框架拆解拆解其实就是个普通英雄故事,新意不大<br>应该是治不好现代人的病但的确能赚钱的商业电影</p>
-]]></content>
-      <categories>
-        <category>影评</category>
-      </categories>
-      <tags>
-        <tag>杂谈</tag>
-        <tag>影评</tag>
       </tags>
   </entry>
   <entry>
@@ -577,6 +583,19 @@
       </tags>
   </entry>
   <entry>
+    <title>失控玩家倒是真的让我失控了</title>
+    <url>/posts/3a6ca741/</url>
+    <content><![CDATA[<p>不敢相信我花了两个小时看了一个我非常不喜欢的电影<br>经典的英雄史诗环节<span id="more"></span><br>逻辑混乱,看完让人想笑却笑不出来<br>编剧看来一点也不了解什么叫互联网，什么叫编程，什么叫程序，什么叫人工智能，很多情节单独来看都让我有点难受<br>中间女主和男主kiss的那段到底是哪个按键能达成这个kiss我就蛮无法理解<br>不过传奇爱情里的奇迹即使出现了两次倒也勉强可以接受<br>但最后的剧情又变成了女主和男二的故事，男主是男二对女主的表白<br>那一刻,我愣了,但又非常的合理,看来编剧对爱情的把控还是很厉害的<br>可能这剧本也是他对女主角的表白呢<br>但把服务器放在自己公司里而且就在一楼,机房也小的可怜,这真的是最大的网游该有的规模?,而且大公司的服务器怎么可能在再公司里<br>就算真的在自己的公司,也应该在地下,就算真的在地下,也应该不止一份,可见编剧在专业方面还是有所欠缺,倒是宣发方面的的确确是大师水准<br>还有诡异的代码逻辑，单服务器离线消失的居然是npc而独立的npc居然能配合服务器单独存在<br>诡异的权限，诡异的功能,以及从始至终那个诡异的眼镜都难以解释<br>前半段勉强还能接受，后半段离谱的桥的特效，还有那离谱的次时代藏贴图的手法实在是让我想笑<br>白费了一堆铺垫只能说是合理,贴图勉勉强强还合逻辑，不过说实话，真是从头到尾都带着尴尬<br>以及经典的英雄永远都需要旁观者，全世界都关注着我，offline，神秘代码，关注，所有人都关注他的故事<br>倒是符合了普通人心中的英雄黑客形象<br>结尾单单和npc聊天的需求更是超现实联想<br>ai再先进也是向人的方向靠拢,有现实生活我还何必呢<br>因为是虚拟人就没有羞耻了?其实只是好奇而已,热度很快就会消退,一如继往<br>而这些拥有自我意识的ai的人权就更难以探究了<br>不过倒是的确适合爆米花需求的观众以及无知者,人类的知识层次和审美的不同给了这种电影活下去的机会<br>英雄史诗已经成了一种药<br>其实剧本总体来说不算差,换个皮讲个其他的故事大概能好很多,不过编剧的故事框架拆解拆解其实就是个普通英雄故事,新意不大<br>应该是治不好现代人的病但的确能赚钱的商业电影</p>
+]]></content>
+      <categories>
+        <category>影评</category>
+      </categories>
+      <tags>
+        <tag>杂谈</tag>
+        <tag>影评</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>如何跳过青年大学习</title>
     <url>/posts/22179bc6/</url>
     <content><![CDATA[<h3 id="如何跳过青年大学习"><a href="#如何跳过青年大学习" class="headerlink" title="如何跳过青年大学习"></a>如何跳过青年大学习</h3><h2 id="6月23日更新-进了看几秒就退就会加分，小丑竟是我自己"><a href="#6月23日更新-进了看几秒就退就会加分，小丑竟是我自己" class="headerlink" title="6月23日更新 进了看几秒就退就会加分，小丑竟是我自己"></a>6月23日更新 进了看几秒就退就会加分，小丑竟是我自己</h2><h2 id="First-step"><a href="#First-step" class="headerlink" title="First step"></a>First step</h2><p>在微信上打开链接：<a href="http://debugtbs.qq.com/">http://debugtbs.qq.com</a> 和 <a href="http://debugmm.qq.com/?forcex5=true">debugmm.qq.com/?forcex5=true</a> 开启vConsole调试功能<span id="more"></span>（多数人先打开第二个等待出现x5内核打开的文字后打开第一个点击Debugx5，选择信息，勾选vConsole功能即可，部分人可能不同）<br>图↓</p>
@@ -593,22 +612,6 @@
       <tags>
         <tag>Android</tag>
         <tag>微信</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>优雅的自动刷网课</title>
-    <url>/posts/e3d61257/</url>
-    <content><![CDATA[<p>临近期末，或者可能有很多人已经放假了，又到了一年两度搞定网课的时节，但手刷实在太累，而且很耗时间，毕竟实在太多又没什么营养<br>因此，出现了网课代刷服务，，不过刷过的可能知道，这行业水很深，价格浮动频繁，虽然不贵，两块到五块一门，但课多的话就是多倍花钱<br>而且质量参差不齐，有时练习题的答案都是脚本的废料<br>因此出个小小的教程，自己动手丰衣足食，技术水准不高，见笑了<span id="more"></span></p>
-<h2 id="part-one"><a href="#part-one" class="headerlink" title="part one"></a>part one</h2><p>第一步<br>安装油猴，有一定基础的话应该听说过，明白的人大概不会看这篇教学，所以假设你是个小白<br>油猴即Tampermonkey，是一款免费开源且强悍的浏览器扩展，本身是一个脚本管理器<br>如果你动手能力够强，靠这个关键词和百度就够了，通过油猴刷课只能说是诸多作用中的一个，还有更多作用等你挖掘<br>当然，你是个小白<br>市面上常见的浏览器大概有以下几种:<br>1、Chrome<br>2、QQ浏览器<br>3、Microsoft Edge（windows自带）<br>4、Safari（mac自带）<br>5、360浏览器<br>6、UC浏览器<br>7、Firefox（火狐）<br>8、opera</p>
-<p>建议首先在自带的扩展商店里寻找（chrome可能需要科学上网），直接搜索Tampermonkey安装即可<br>如果插件商店没有，建议直接到<a href="https://www.tampermonkey.net/">油猴官网</a>下载（可能也需要科学上网，不过在我撰文时是可以正常访问的）<br>基本所有浏览器都能通过以上方法完成安装 （ps：下载时记得根据自己浏览器版本选择相应的插件版本）下载之后一路确定即可<br>这样最难的一步就结束了</p>
-<h2 id="part-two"><a href="#part-two" class="headerlink" title="part two"></a>part two</h2><p>第二步就简单得多,只要进入油猴的网上应用店安装脚本就可以了。<br>进入网上应用店只需要点击浏览器上的油猴图标（如下图），<br><img src="/images/111.png" alt="油猴图标"><br>点击获取新脚本，然后进入GreasyFork即可，当然也可以直接点击<a href="https://greasyfork.org/zh-CN">这里</a><br>之后就更简单了<br>直接搜索超星或者学习通关键字然后选择一个自己喜欢的脚本安装即可<br>而后打开课程界面，脚本一般就会自动开始刷课了，只要一直挂着就好</p>
-<h2 id="part-three"><a href="#part-three" class="headerlink" title="part three"></a>part three</h2><p>相应的还有一个进阶的小部分<br>因为油猴作为一个脚本管理器是可以编辑脚本的<br>在编辑后便可以实现视频秒过功能，加快刷课进度<br>不过一般情况下不推荐使用，秒过可能导致不良记录<br>在这里我以我在用的脚本为例示范<br>首先进入脚本管理页面<br><img src="/images/222.png" alt="脚本管理页示意"><br>而后点击相应的脚本编辑<br><img src="/images/333.png" alt="编辑示意"><br>进入编辑页面<br>优秀的作者肯定会留下注释<br>比如这样<br><img src="/images/444.png" alt="编辑页示意"><br>只要按说明修改相应参数即可<br>在这里我将rate修改为0，秒过功能便被开启<br>需要注意的是，开关脚本以及修改脚本功能，都需要刷新网页之后才能生效<br>over</p>
-]]></content>
-      <categories>
-        <category>技术</category>
-      </categories>
-      <tags>
-        <tag>技术</tag>
       </tags>
   </entry>
   <entry>
@@ -642,17 +645,19 @@
       </tags>
   </entry>
   <entry>
-    <title>配色快选方案</title>
-    <url>/posts/769b76f1/</url>
-    <content><![CDATA[<p>为了让我的导航页更好看一点<br>找了若干篇配色方案的文章阅读<span id="more"></span><br>后来发现最简单的其实是选一张自认为配色合理的图片<br>然后用PS打开</p>
-<p>另存为web所用格式<br>选择gif<br>颜色选择32或者8<br>这时候下面颜色表里会出现这张图片的配色<br>然后存储颜色表，导入调色板里，就可以使用这组配色了</p>
+    <title>优雅的自动刷网课</title>
+    <url>/posts/e3d61257/</url>
+    <content><![CDATA[<p>临近期末，或者可能有很多人已经放假了，又到了一年两度搞定网课的时节，但手刷实在太累，而且很耗时间，毕竟实在太多又没什么营养<br>因此，出现了网课代刷服务，，不过刷过的可能知道，这行业水很深，价格浮动频繁，虽然不贵，两块到五块一门，但课多的话就是多倍花钱<br>而且质量参差不齐，有时练习题的答案都是脚本的废料<br>因此出个小小的教程，自己动手丰衣足食，技术水准不高，见笑了<span id="more"></span></p>
+<h2 id="part-one"><a href="#part-one" class="headerlink" title="part one"></a>part one</h2><p>第一步<br>安装油猴，有一定基础的话应该听说过，明白的人大概不会看这篇教学，所以假设你是个小白<br>油猴即Tampermonkey，是一款免费开源且强悍的浏览器扩展，本身是一个脚本管理器<br>如果你动手能力够强，靠这个关键词和百度就够了，通过油猴刷课只能说是诸多作用中的一个，还有更多作用等你挖掘<br>当然，你是个小白<br>市面上常见的浏览器大概有以下几种:<br>1、Chrome<br>2、QQ浏览器<br>3、Microsoft Edge（windows自带）<br>4、Safari（mac自带）<br>5、360浏览器<br>6、UC浏览器<br>7、Firefox（火狐）<br>8、opera</p>
+<p>建议首先在自带的扩展商店里寻找（chrome可能需要科学上网），直接搜索Tampermonkey安装即可<br>如果插件商店没有，建议直接到<a href="https://www.tampermonkey.net/">油猴官网</a>下载（可能也需要科学上网，不过在我撰文时是可以正常访问的）<br>基本所有浏览器都能通过以上方法完成安装 （ps：下载时记得根据自己浏览器版本选择相应的插件版本）下载之后一路确定即可<br>这样最难的一步就结束了</p>
+<h2 id="part-two"><a href="#part-two" class="headerlink" title="part two"></a>part two</h2><p>第二步就简单得多,只要进入油猴的网上应用店安装脚本就可以了。<br>进入网上应用店只需要点击浏览器上的油猴图标（如下图），<br><img src="/images/111.png" alt="油猴图标"><br>点击获取新脚本，然后进入GreasyFork即可，当然也可以直接点击<a href="https://greasyfork.org/zh-CN">这里</a><br>之后就更简单了<br>直接搜索超星或者学习通关键字然后选择一个自己喜欢的脚本安装即可<br>而后打开课程界面，脚本一般就会自动开始刷课了，只要一直挂着就好</p>
+<h2 id="part-three"><a href="#part-three" class="headerlink" title="part three"></a>part three</h2><p>相应的还有一个进阶的小部分<br>因为油猴作为一个脚本管理器是可以编辑脚本的<br>在编辑后便可以实现视频秒过功能，加快刷课进度<br>不过一般情况下不推荐使用，秒过可能导致不良记录<br>在这里我以我在用的脚本为例示范<br>首先进入脚本管理页面<br><img src="/images/222.png" alt="脚本管理页示意"><br>而后点击相应的脚本编辑<br><img src="/images/333.png" alt="编辑示意"><br>进入编辑页面<br>优秀的作者肯定会留下注释<br>比如这样<br><img src="/images/444.png" alt="编辑页示意"><br>只要按说明修改相应参数即可<br>在这里我将rate修改为0，秒过功能便被开启<br>需要注意的是，开关脚本以及修改脚本功能，都需要刷新网页之后才能生效<br>over</p>
 ]]></content>
       <categories>
-        <category>设计</category>
+        <category>技术</category>
       </categories>
       <tags>
-        <tag>配色</tag>
-        <tag>设计</tag>
+        <tag>技术</tag>
       </tags>
   </entry>
   <entry>
@@ -712,6 +717,20 @@
       </tags>
   </entry>
   <entry>
+    <title>配色快选方案</title>
+    <url>/posts/769b76f1/</url>
+    <content><![CDATA[<p>为了让我的导航页更好看一点<br>找了若干篇配色方案的文章阅读<span id="more"></span><br>后来发现最简单的其实是选一张自认为配色合理的图片<br>然后用PS打开</p>
+<p>另存为web所用格式<br>选择gif<br>颜色选择32或者8<br>这时候下面颜色表里会出现这张图片的配色<br>然后存储颜色表，导入调色板里，就可以使用这组配色了</p>
+]]></content>
+      <categories>
+        <category>设计</category>
+      </categories>
+      <tags>
+        <tag>配色</tag>
+        <tag>设计</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>一些小技巧</title>
     <url>/posts/67785cd5/</url>
     <content><![CDATA[<p>百度文库文档的下载/商品的历史价格查询/GitHub源码加速下载<span id="more"></span><br>以下是简便高效易理解的途径</p>
@@ -753,6 +772,22 @@
       </tags>
   </entry>
   <entry>
+    <title>当我们怕鬼时我们究竟在害怕什么</title>
+    <url>/posts/499f648a/</url>
+    <content><![CDATA[<p>转载的《格言》杂志的一篇文章,算是书摘中比较文艺的一篇小短文</p>
+<span id="more"></span>
+<p>我的体育老师曾经在数学课上说过：克服对灵异恐惧最好的办法，不是逃跑，而是不停地思考，不停地问自己问题。<br>第一个问题，就是问自己：你到底害怕的是什么？<br>怕鬼？很好，那么请继续问，你具体怕的是它的什么？是它的青面獠牙，<br>还是对它可能夺走你生命的恐惧，还是单纯对漆黑的走廊前方充满未知的不确定？<br>有人害怕贞子爬出电视的意象，有人害怕僵尸血淋淋的尖牙。当你想好答案以后，不妨再问自己，为什么会怕僵尸的尖牙？具体害怕的是牙齿的什么部位，是臼齿、犬齿还是智齿？不妨再进一步想，僵尸也会长智齿？他们也会疼吗？也会一边捂着腮帮子哭泣一边追逐活人吗？如果你害怕贞子，你也可以继续问自己：贞子是怎么从电视里爬出来的？跟频道有关系吗？跟制式有关系吗？电视关掉以后，她还会出来吗？如果把电视放在高处，她会掉下来吗？如果把电视对着墙，她会撞头吗？<br>如果你害怕的是走廊深处的漆黑未知，那么也可以继续问自己：走廊是什么材质制成的？你害怕的东西是在墙壁抹灰时候就存在，还是等到刮大白的时候？工人刮大白的时候刷不刷乳胶漆，哪儿买的？装修队自己买的还是主人自己采购的？那些你害怕的东西烦不烦这些装修材料？吸不吸甲醛？<br>你问的问题越多，就会发现你和现实的连接越紧密，你的恐惧就会越少。<br>恐惧来源于未知，而很多时候未知只是因为我们太过惊慌而忘记去思考。思考并不意味着要找到正确答案，只是让你进入理性思考的节奏。当理性开始发挥作用以后，很多可怕意象就会被大量的现实细节消解，变得不足为惧。电脑里露出的鬼脸，当你想到它可能会被杀毒软件干掉，就不可怕了。如果这鬼脸还阻挠你上淘宝，说不定你还会怒气冲冲地把它反过来干掉。<br>刚才我提到的走廊深处的未知，这来自于一个真实案例。我的一个朋友，买了新房装修，不过因为工作太忙，她每次要下班后才有时间去查看装修进度，基本上都是入夜之后的事。她的房子太新了，周围的住户都没搬进来，到了晚上连灯光都看不到，整个小区非常安静。她需要在空旷的半成品地下停车场停好车，走过一条堆满木架和装修垃圾的走廊，才能进入电梯。电梯里也被花里胡哨的木板条挡住，像是僵尸片里被封住的木窗。如果仔细观察，还能从木条间隙的电梯内面看到自己扭曲的倒影。她对这段路非常恐惧，每次走都怕得不行。<br>我把这个方法告诉她，让她每次走这条路的时候，都拼命思考种种景象对于装修的意义。看到起伏的木架，可以问问自己层高；看到装修垃圾，可以问问自己装修队有没有偷买劣质品牌；看到电梯里的木条，想想金属镜面被别坏以后得花多少钱才能修复；看到漆黑的走廊，提醒自己该如何布线和设置地灯。她通过这种思考方法，成功地变成一个单纯的装修焦虑综合征患者，再也不满怀恐惧了。</p>
+]]></content>
+      <categories>
+        <category>转载</category>
+      </categories>
+      <tags>
+        <tag>杂谈</tag>
+        <tag>转载</tag>
+        <tag>文艺</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>当下</title>
     <url>/posts/4874af19/</url>
     <content><![CDATA[<p>封校期间其实有些时候蛮无聊的,就打开微信的公众号看了看,看到几篇有意思的文章,就就着这个谈谈,所谓”当下”<span id="more"></span><br>首先看到的是<a href="https://mp.weixin.qq.com/s/PghFhKv0wO9qty22MKnkog">这篇</a>(如果文章失效,可以看<a href="/images/%E5%AD%97%E8%8A%82%E6%80%BB%E9%83%A8.jpeg">快照</a>)<br>其实看完之后并没什么感想,卖课的公知味道有点重了,就随便又往下翻了翻<br>看到了<a href="https://mp.weixin.qq.com/s/tKTXm67Atp5mlrQf7vUWLA">另一篇</a><a href="/images/%E5%88%AB%E6%8A%A2%E8%8F%9C.jpeg">快照</a><br>这篇虽然和第一篇毫无关系但却和第一篇的所谓”你越强，世界对你越友善”不谋而合第一篇里强者享受的是物质的富足<br>而在第二篇里的脚本,能用到这些的的又是另一方面的强者,同样也是用于对物质的需求之上<br>这个世界就是这样的,这个世界确实从来就没有公平可言,弱肉强食只是换了个形式表现出来,所谓的幸福美好只是偶尔闪烁的梦幻泡影,但确实这个世界上也确实仍然有渴望公平的人,有心怀希望的人,有的人依然需要光,而我们在这一刻,只能做出选择<br>不过在做出选择之前我希望你看看<a href="https://mp.weixin.qq.com/s/QwWiRY0xJtj52uigpc_nUQ">这个</a>和<a href="https://mp.weixin.qq.com/s/ElfIU435-vjqKq6xmyr1TQ">这个</a>,并问问自己当下的我们应该如何选择<br>他们的快照在<a href="/images/shit.jpeg">这里</a>和<a href="/images/%E4%B8%8A%E6%B5%B7%E4%BA%BA%E7%9A%84%E5%BF%8D%E8%80%90.jpeg">这里</a></p>
@@ -779,19 +814,16 @@
       </tags>
   </entry>
   <entry>
-    <title>当我们怕鬼时我们究竟在害怕什么</title>
-    <url>/posts/499f648a/</url>
-    <content><![CDATA[<p>转载的《格言》杂志的一篇文章,算是书摘中比较文艺的一篇小短文</p>
-<span id="more"></span>
-<p>我的体育老师曾经在数学课上说过：克服对灵异恐惧最好的办法，不是逃跑，而是不停地思考，不停地问自己问题。<br>第一个问题，就是问自己：你到底害怕的是什么？<br>怕鬼？很好，那么请继续问，你具体怕的是它的什么？是它的青面獠牙，<br>还是对它可能夺走你生命的恐惧，还是单纯对漆黑的走廊前方充满未知的不确定？<br>有人害怕贞子爬出电视的意象，有人害怕僵尸血淋淋的尖牙。当你想好答案以后，不妨再问自己，为什么会怕僵尸的尖牙？具体害怕的是牙齿的什么部位，是臼齿、犬齿还是智齿？不妨再进一步想，僵尸也会长智齿？他们也会疼吗？也会一边捂着腮帮子哭泣一边追逐活人吗？如果你害怕贞子，你也可以继续问自己：贞子是怎么从电视里爬出来的？跟频道有关系吗？跟制式有关系吗？电视关掉以后，她还会出来吗？如果把电视放在高处，她会掉下来吗？如果把电视对着墙，她会撞头吗？<br>如果你害怕的是走廊深处的漆黑未知，那么也可以继续问自己：走廊是什么材质制成的？你害怕的东西是在墙壁抹灰时候就存在，还是等到刮大白的时候？工人刮大白的时候刷不刷乳胶漆，哪儿买的？装修队自己买的还是主人自己采购的？那些你害怕的东西烦不烦这些装修材料？吸不吸甲醛？<br>你问的问题越多，就会发现你和现实的连接越紧密，你的恐惧就会越少。<br>恐惧来源于未知，而很多时候未知只是因为我们太过惊慌而忘记去思考。思考并不意味着要找到正确答案，只是让你进入理性思考的节奏。当理性开始发挥作用以后，很多可怕意象就会被大量的现实细节消解，变得不足为惧。电脑里露出的鬼脸，当你想到它可能会被杀毒软件干掉，就不可怕了。如果这鬼脸还阻挠你上淘宝，说不定你还会怒气冲冲地把它反过来干掉。<br>刚才我提到的走廊深处的未知，这来自于一个真实案例。我的一个朋友，买了新房装修，不过因为工作太忙，她每次要下班后才有时间去查看装修进度，基本上都是入夜之后的事。她的房子太新了，周围的住户都没搬进来，到了晚上连灯光都看不到，整个小区非常安静。她需要在空旷的半成品地下停车场停好车，走过一条堆满木架和装修垃圾的走廊，才能进入电梯。电梯里也被花里胡哨的木板条挡住，像是僵尸片里被封住的木窗。如果仔细观察，还能从木条间隙的电梯内面看到自己扭曲的倒影。她对这段路非常恐惧，每次走都怕得不行。<br>我把这个方法告诉她，让她每次走这条路的时候，都拼命思考种种景象对于装修的意义。看到起伏的木架，可以问问自己层高；看到装修垃圾，可以问问自己装修队有没有偷买劣质品牌；看到电梯里的木条，想想金属镜面被别坏以后得花多少钱才能修复；看到漆黑的走廊，提醒自己该如何布线和设置地灯。她通过这种思考方法，成功地变成一个单纯的装修焦虑综合征患者，再也不满怀恐惧了。</p>
+    <title>挑食联想</title>
+    <url>/posts/8f220670/</url>
+    <content><![CDATA[<p>胡思乱想罢了<br>其实也没什么特别讨厌的东西<span id="more"></span><br>即使讨厌也不是完全不能吃<br>吃当然可以<br>只不过相对来说不喜欢<br>不喜欢就是不喜欢<br>没有什么特别的含义<br>也不需要有原因<br>如果够饥饿的话<br>人类是什么东西都能吃得下去的<br>瓜子皮，西瓜皮啊都能吃对吧<br>所以其实并没有什么挑食与否<br>只是在现有的情况下做出自己所喜欢的选择<br>只要以自己的身体健康为前提<br>吃自己想吃的什么都是一样的<br>人们反对挑食<br>是因为挑食会让人不健康<br>而不是因为挑食本身<br>其他的很多事也是如此，人们只是反对它带来的负面影响<br>而有时候事件本身并不一定真的会带来负面影响<br>那些反对的过分的家伙也该想一想<br>自己是否只是借着反对<br>借着所谓反对的名头<br>抬高自己，烘托别人的不知好歹<br>来让自己处于道德上或者其他什么位置的制高点来获得优越感</p>
 ]]></content>
       <categories>
-        <category>转载</category>
+        <category>杂谈</category>
       </categories>
       <tags>
         <tag>杂谈</tag>
-        <tag>转载</tag>
-        <tag>文艺</tag>
+        <tag>随笔</tag>
       </tags>
   </entry>
   <entry>
@@ -825,19 +857,6 @@
       <tags>
         <tag>技术</tag>
         <tag>浏览器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>挑食联想</title>
-    <url>/posts/8f220670/</url>
-    <content><![CDATA[<p>胡思乱想罢了<br>其实也没什么特别讨厌的东西<span id="more"></span><br>即使讨厌也不是完全不能吃<br>吃当然可以<br>只不过相对来说不喜欢<br>不喜欢就是不喜欢<br>没有什么特别的含义<br>也不需要有原因<br>如果够饥饿的话<br>人类是什么东西都能吃得下去的<br>瓜子皮，西瓜皮啊都能吃对吧<br>所以其实并没有什么挑食与否<br>只是在现有的情况下做出自己所喜欢的选择<br>只要以自己的身体健康为前提<br>吃自己想吃的什么都是一样的<br>人们反对挑食<br>是因为挑食会让人不健康<br>而不是因为挑食本身<br>其他的很多事也是如此，人们只是反对它带来的负面影响<br>而有时候事件本身并不一定真的会带来负面影响<br>那些反对的过分的家伙也该想一想<br>自己是否只是借着反对<br>借着所谓反对的名头<br>抬高自己，烘托别人的不知好歹<br>来让自己处于道德上或者其他什么位置的制高点来获得优越感</p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-      </categories>
-      <tags>
-        <tag>杂谈</tag>
-        <tag>随笔</tag>
       </tags>
   </entry>
   <entry>
@@ -884,21 +903,6 @@
       </tags>
   </entry>
   <entry>
-    <title>有礼貌的抱团喧闹者</title>
-    <url>/posts/e3e2ebf2/</url>
-    <content><![CDATA[<p>本来是准备睡觉的<br>怪就怪我去了趟厕所<br>连更太多不在我的计划之内<br>不过这个本来就是即兴项目<br>欢迎来到失眠单元<span id="more"></span></p>
-<hr>
-<p>连续两天(昨天和今天)<br>我走进水房 ps：水房厕所一体，厕所的门在水房里面<br>看见几个裸男和几个只穿内裤的人<br>光着身子在水房其实也没什么大不了的<br>虽然以前没见过但尚可接受，就当是思想解放的小菜<br>不过配送的吵闹真的够劲<br>开着门的话估计四分之三个楼层都能听见<br>我的宿舍在走廊尽头<br>关上门还能隐隐约约听到一点<br>这都不算<br>真正有趣的是吵闹的原因<br>连续两天 肯定不是没原因的<br>且听我慢慢道来<br>三个字 泼水节<br>一群裸男在水房互相泼水<br>地上的水大概三厘米<br>一个人看门，有人进去就停一下<br>有人拖地 控制水的深度<br>走进厕所<br>音响，长二尺宽三寸，潮流音乐，应有尽有<br>一个字：绝<br>说实话蛮没素质<br>但是知道有人别泼水<br>而且关了水房的半扇门<br>又不能说完全没素质<br>矛盾是本性<br>正义与非正义也的确不绝对<br>天气的确热<br>但是不至于到这种地步<br>应该说尚可忍受<br>我实在无法理解这种群体性疯狂的动机<br>仍需努力</p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-      </categories>
-      <tags>
-        <tag>杂谈</tag>
-        <tag>失眠单元</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>文盲</title>
     <url>/posts/4460425a/</url>
     <content><![CDATA[<p>现代文盲大概就是<br>识字又看过书却依然是文盲,什么都不懂却没了谦虚</p>
@@ -914,16 +918,48 @@
       </tags>
   </entry>
   <entry>
-    <title>水房内卷的联想</title>
-    <url>/posts/c76f13ad/</url>
-    <content><![CDATA[<p>三楼的水房不大，但理论上完全够用，<span id="more"></span><br>不过在早上的使用高峰期，用水仍需排队，而多数人会为自己的室友占位子又导致很多人来到水房却又无水可用，反而只能望水兴叹<br>这进一步加剧了排队<br>这就导致了水房内卷<br>可在我在已经被占的位子上洗漱后发现，多数人还是愿意互帮互助的，<br>即使你临时占用他们的位子，只要不是洗头这种长时间的操作，多数人是愿意和你共享一会位子的。<br>今早我走进水房时，一个人正在我室友帮我占的位子上刷牙，想到其他人对我的帮助，我决定也帮别人一次，<br>我站在他身后时突然想到，其实每一个个体都是内卷的受害者，内卷并非由谁发起，内卷实际上是制度问题，<br>诸如学校的水房太小，排宿舍的时候将三楼排成八人寝导致人数过多等等原因<br>所以，由此推断…<br>又能得到什么呢</p>
+    <title>有礼貌的抱团喧闹者</title>
+    <url>/posts/e3e2ebf2/</url>
+    <content><![CDATA[<p>本来是准备睡觉的<br>怪就怪我去了趟厕所<br>连更太多不在我的计划之内<br>不过这个本来就是即兴项目<br>欢迎来到失眠单元<span id="more"></span></p>
+<hr>
+<p>连续两天(昨天和今天)<br>我走进水房 ps：水房厕所一体，厕所的门在水房里面<br>看见几个裸男和几个只穿内裤的人<br>光着身子在水房其实也没什么大不了的<br>虽然以前没见过但尚可接受，就当是思想解放的小菜<br>不过配送的吵闹真的够劲<br>开着门的话估计四分之三个楼层都能听见<br>我的宿舍在走廊尽头<br>关上门还能隐隐约约听到一点<br>这都不算<br>真正有趣的是吵闹的原因<br>连续两天 肯定不是没原因的<br>且听我慢慢道来<br>三个字 泼水节<br>一群裸男在水房互相泼水<br>地上的水大概三厘米<br>一个人看门，有人进去就停一下<br>有人拖地 控制水的深度<br>走进厕所<br>音响，长二尺宽三寸，潮流音乐，应有尽有<br>一个字：绝<br>说实话蛮没素质<br>但是知道有人别泼水<br>而且关了水房的半扇门<br>又不能说完全没素质<br>矛盾是本性<br>正义与非正义也的确不绝对<br>天气的确热<br>但是不至于到这种地步<br>应该说尚可忍受<br>我实在无法理解这种群体性疯狂的动机<br>仍需努力</p>
 ]]></content>
       <categories>
-        <category>随笔</category>
+        <category>杂谈</category>
       </categories>
       <tags>
-        <tag>随笔</tag>
-        <tag>吐槽</tag>
+        <tag>杂谈</tag>
+        <tag>失眠单元</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>杠精多的原因</title>
+    <url>/posts/4a83938c/</url>
+    <content><![CDATA[<p>今天抖音上看到一条视频，视频是在教一元一次方程：</p>
+<p>4x-6-x＝18<br>3x-6＝18</p>
+<p>题目不难，也没什么坑，纯粹就是一道小学数学题，没啥特别的。</p>
+<p>但让我大开眼界的，是这视频的评论区：<span id="more"></span></p>
+<p>3x怎么来的？怪不得小时候这种题只会一步</p>
+<p>你说这是钓鱼吧，我点进这些人的抖音看了，确实也不像是会钓鱼的人。</p>
+<p>你说这不是钓鱼吧，那这也太夸张了，这真的是小学数学啊。</p>
+<p>还有那3000多个赞，以及这个评论里说“我就是不会做这数学题，怎么了？”的十几个人，以及一本正经表示自己不知道3X怎呢来的，不是自己的错，是老师说的太不详细的人…</p>
+<p>几个感想。</p>
+<p>1，都说中国平均本科率4%，网友绝大多数没上过大学。以前没什么直观感受，现在算是感觉到了。</p>
+<p>2，一直在说抖音不够下沉，不如快手下沉。现在看来，抖音国内这3亿的DAU，已经够下沉了，沉得不能再沉了。</p>
+<p>3，抖音都这样了，你觉得2亿DAU的微博能好到哪里去？近10亿DAU的微信又能到怎样一个夸张的状态？</p>
+<p>4，所以我们说，永远不要和陌生网友生气，尤其是不要理陌生杠精。</p>
+<p>因为你永远不知道网线那边。</p>
+<p>会不会是一个四年级的小学生，或者是一个连四年级小学数学题都不会做的成年人，在和你杠…</p>
+<p>能拉黑解决的，不要多骂一句傻逼，绝对不要试图去讲道理…</p>
+<p>绝大多数时候，是讲不通的…</p>
+]]></content>
+      <categories>
+        <category>转载</category>
+      </categories>
+      <tags>
+        <tag>社论</tag>
+        <tag>文章</tag>
+        <tag>转载</tag>
       </tags>
   </entry>
   <entry>
@@ -967,33 +1003,16 @@
       </tags>
   </entry>
   <entry>
-    <title>杠精多的原因</title>
-    <url>/posts/4a83938c/</url>
-    <content><![CDATA[<p>今天抖音上看到一条视频，视频是在教一元一次方程：</p>
-<p>4x-6-x＝18<br>3x-6＝18</p>
-<p>题目不难，也没什么坑，纯粹就是一道小学数学题，没啥特别的。</p>
-<p>但让我大开眼界的，是这视频的评论区：<span id="more"></span></p>
-<p>3x怎么来的？怪不得小时候这种题只会一步</p>
-<p>你说这是钓鱼吧，我点进这些人的抖音看了，确实也不像是会钓鱼的人。</p>
-<p>你说这不是钓鱼吧，那这也太夸张了，这真的是小学数学啊。</p>
-<p>还有那3000多个赞，以及这个评论里说“我就是不会做这数学题，怎么了？”的十几个人，以及一本正经表示自己不知道3X怎呢来的，不是自己的错，是老师说的太不详细的人…</p>
-<p>几个感想。</p>
-<p>1，都说中国平均本科率4%，网友绝大多数没上过大学。以前没什么直观感受，现在算是感觉到了。</p>
-<p>2，一直在说抖音不够下沉，不如快手下沉。现在看来，抖音国内这3亿的DAU，已经够下沉了，沉得不能再沉了。</p>
-<p>3，抖音都这样了，你觉得2亿DAU的微博能好到哪里去？近10亿DAU的微信又能到怎样一个夸张的状态？</p>
-<p>4，所以我们说，永远不要和陌生网友生气，尤其是不要理陌生杠精。</p>
-<p>因为你永远不知道网线那边。</p>
-<p>会不会是一个四年级的小学生，或者是一个连四年级小学数学题都不会做的成年人，在和你杠…</p>
-<p>能拉黑解决的，不要多骂一句傻逼，绝对不要试图去讲道理…</p>
-<p>绝大多数时候，是讲不通的…</p>
+    <title>水房内卷的联想</title>
+    <url>/posts/c76f13ad/</url>
+    <content><![CDATA[<p>三楼的水房不大，但理论上完全够用，<span id="more"></span><br>不过在早上的使用高峰期，用水仍需排队，而多数人会为自己的室友占位子又导致很多人来到水房却又无水可用，反而只能望水兴叹<br>这进一步加剧了排队<br>这就导致了水房内卷<br>可在我在已经被占的位子上洗漱后发现，多数人还是愿意互帮互助的，<br>即使你临时占用他们的位子，只要不是洗头这种长时间的操作，多数人是愿意和你共享一会位子的。<br>今早我走进水房时，一个人正在我室友帮我占的位子上刷牙，想到其他人对我的帮助，我决定也帮别人一次，<br>我站在他身后时突然想到，其实每一个个体都是内卷的受害者，内卷并非由谁发起，内卷实际上是制度问题，<br>诸如学校的水房太小，排宿舍的时候将三楼排成八人寝导致人数过多等等原因<br>所以，由此推断…<br>又能得到什么呢</p>
 ]]></content>
       <categories>
-        <category>转载</category>
+        <category>随笔</category>
       </categories>
       <tags>
-        <tag>社论</tag>
-        <tag>文章</tag>
-        <tag>转载</tag>
+        <tag>随笔</tag>
+        <tag>吐槽</tag>
       </tags>
   </entry>
   <entry>
@@ -1057,16 +1076,18 @@
       </tags>
   </entry>
   <entry>
-    <title>浪客剑心</title>
-    <url>/posts/14cf7756/</url>
-    <content><![CDATA[<p>看完这部电影我第一感觉是羡慕，羡慕剑心的生活，<span id="more"></span>虽然他生活在血光中，但那已经是曾经，而且他总能遇到值得爱也爱他的人<br>而且他的一生壮烈，称得上是一个好故事，但我们多数人只能过着平淡的生活<br>直白点，普通的一生。<br>和他壮烈的一生相比多数人的人生都过于平淡，平淡的失去，平淡的拥有，平淡的哭或笑，平淡的死。我当然明白这是个故事，不过故事未必就未曾发生过<br>我们很多人和故事里的人相比什么都不是，而有的人确确实实会被写进历史，虽然历史大多经过美化才能拥有故事性，但能活在故事里已然足矣<br>而人类，相较于过去的恨，终究还是会更看重眼前的幸福，这不是任何人的错，这是人类进化的必然结果<br>可在他们创造故事的时候<br>我却还困于人际关系和考试，以及众多难题，很多时候在浪费时间，可悲吗？谈不上。<br>可我的确偶尔也会感到怀疑<br>我们的一生可能再也或者说从未有什么火花，能被一束光照到可能已经是幸运，有的人可能究其一生，连光都不会拥有<br>可我们从祖辈就不愿忍受黑暗了<br>那么，就该努力，成为神，或者造物主<br>当然，大可作为配角，坚定的走下去，毕竟自己还可以做自己的主角<br>而其他人在你的生命里不过是个配角罢了，不管他是谁<br>虽然配角可能比主角还要耀眼<br>又或者，演一出独角戏</p>
+    <title>资本洗脑方法</title>
+    <url>/posts/c641664f/</url>
+    <content><![CDATA[<p>覆盖认知，伪装主流，提升自身格调,伪装高端,大量传播<br>价值引导，使民众以为荣，引导他们主动宣传，巧用噱头</p>
+<span id="more"></span>
+<p>怎么让牛喝水:<br>牛不渴<br>不可以强行按着牛头喝水<br>也不可以对牛说<br>你渴了<br>你要喝水<br>应该以提醒的方式<br>你嘴皮有点干<br>点到即止<br>然后再说故事以前有一头牛<br>嘴巴干<br>缺水喝长得很难看<br>主人以为病了<br>就把牛宰了<br>如此两次即可<br>恐惧和贪婪<br>各用一次</p>
 ]]></content>
       <categories>
         <category>杂谈</category>
       </categories>
       <tags>
         <tag>杂谈</tag>
-        <tag>影评</tag>
+        <tag>随笔</tag>
       </tags>
   </entry>
   <entry>
@@ -1127,18 +1148,16 @@
       </tags>
   </entry>
   <entry>
-    <title>资本洗脑方法</title>
-    <url>/posts/c641664f/</url>
-    <content><![CDATA[<p>覆盖认知，伪装主流，提升自身格调,伪装高端,大量传播<br>价值引导，使民众以为荣，引导他们主动宣传，巧用噱头</p>
-<span id="more"></span>
-<p>怎么让牛喝水:<br>牛不渴<br>不可以强行按着牛头喝水<br>也不可以对牛说<br>你渴了<br>你要喝水<br>应该以提醒的方式<br>你嘴皮有点干<br>点到即止<br>然后再说故事以前有一头牛<br>嘴巴干<br>缺水喝长得很难看<br>主人以为病了<br>就把牛宰了<br>如此两次即可<br>恐惧和贪婪<br>各用一次</p>
+    <title>浪客剑心</title>
+    <url>/posts/14cf7756/</url>
+    <content><![CDATA[<p>看完这部电影我第一感觉是羡慕，羡慕剑心的生活，<span id="more"></span>虽然他生活在血光中，但那已经是曾经，而且他总能遇到值得爱也爱他的人<br>而且他的一生壮烈，称得上是一个好故事，但我们多数人只能过着平淡的生活<br>直白点，普通的一生。<br>和他壮烈的一生相比多数人的人生都过于平淡，平淡的失去，平淡的拥有，平淡的哭或笑，平淡的死。我当然明白这是个故事，不过故事未必就未曾发生过<br>我们很多人和故事里的人相比什么都不是，而有的人确确实实会被写进历史，虽然历史大多经过美化才能拥有故事性，但能活在故事里已然足矣<br>而人类，相较于过去的恨，终究还是会更看重眼前的幸福，这不是任何人的错，这是人类进化的必然结果<br>可在他们创造故事的时候<br>我却还困于人际关系和考试，以及众多难题，很多时候在浪费时间，可悲吗？谈不上。<br>可我的确偶尔也会感到怀疑<br>我们的一生可能再也或者说从未有什么火花，能被一束光照到可能已经是幸运，有的人可能究其一生，连光都不会拥有<br>可我们从祖辈就不愿忍受黑暗了<br>那么，就该努力，成为神，或者造物主<br>当然，大可作为配角，坚定的走下去，毕竟自己还可以做自己的主角<br>而其他人在你的生命里不过是个配角罢了，不管他是谁<br>虽然配角可能比主角还要耀眼<br>又或者，演一出独角戏</p>
 ]]></content>
       <categories>
         <category>杂谈</category>
       </categories>
       <tags>
         <tag>杂谈</tag>
-        <tag>随笔</tag>
+        <tag>影评</tag>
       </tags>
   </entry>
   <entry>
@@ -1201,6 +1220,19 @@
       </tags>
   </entry>
   <entry>
+    <title>白金终局评价</title>
+    <url>/posts/33c5517d/</url>
+    <content><![CDATA[<p>只能说平庸的极致<br>死亡笔记比这个高太多了<br>越往后越崩<span id="more"></span><br>平庸都是抬举<br>前边男主软脚虾<br>后边脑瘫情节不断<br>十一集开始直接放飞 红箭射中犹豫两分钟<br>来了之后嘴炮两分钟<br>女的直接造病毒更是离谱<br>然后病毒体积还大的一批<br>还要给男主唧唧歪歪残念自我牺牲的时间<br>智斗一点点层次一般<br>而且一这个角色惨居然只是因为丑不知是在讽刺社会还是在讽刺丑<br>奏的发言更是离谱,没看过资本论?<br>富裕？ 贫穷？ 搞些虚假的深度 富裕难道不是靠剥削贫穷的人们的价值吗？<br>暂时只到13集 之后的之后补上吧,不知道要更多少集<br>2022.1.17</p>
+]]></content>
+      <categories>
+        <category>影评</category>
+      </categories>
+      <tags>
+        <tag>杂谈</tag>
+        <tag>影评</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>睡不着的夜晚</title>
     <url>/posts/9268e2fa/</url>
     <content><![CDATA[<h3 id="因"><a href="#因" class="headerlink" title="因"></a>因</h3><p>这是一个睡不着的夜晚，我躺在床上尝试了半小时进入睡眠但是失败了。<br>原因很简单也很无奈：噪声  </p>
@@ -1222,19 +1254,6 @@
       </tags>
   </entry>
   <entry>
-    <title>白金终局评价</title>
-    <url>/posts/33c5517d/</url>
-    <content><![CDATA[<p>只能说平庸的极致<br>死亡笔记比这个高太多了<br>越往后越崩<span id="more"></span><br>平庸都是抬举<br>前边男主软脚虾<br>后边脑瘫情节不断<br>十一集开始直接放飞 红箭射中犹豫两分钟<br>来了之后嘴炮两分钟<br>女的直接造病毒更是离谱<br>然后病毒体积还大的一批<br>还要给男主唧唧歪歪残念自我牺牲的时间<br>智斗一点点层次一般<br>而且一这个角色惨居然只是因为丑不知是在讽刺社会还是在讽刺丑<br>奏的发言更是离谱,没看过资本论?<br>富裕？ 贫穷？ 搞些虚假的深度 富裕难道不是靠剥削贫穷的人们的价值吗？<br>暂时只到13集 之后的之后补上吧,不知道要更多少集<br>2022.1.17</p>
-]]></content>
-      <categories>
-        <category>影评</category>
-      </categories>
-      <tags>
-        <tag>杂谈</tag>
-        <tag>影评</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>社交概论</title>
     <url>/posts/c1a01549/</url>
     <content><![CDATA[<p>顺手转载一篇关于社交关系的文章,有道理但不完全有道理,不过写的确实带着理性</p>
@@ -1247,19 +1266,6 @@
       <tags>
         <tag>杂谈</tag>
         <tag>转载</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>群嘲目的</title>
-    <url>/posts/fff87da7/</url>
-    <content><![CDATA[<p>我对群嘲的见解<span id="more"></span><br>人们通过群嘲以获得道德或者心理或者品味上的优越感，而且往往不会受到谴责，群体给予他们安全感和隐蔽感，并且有了精神上的豁免。<br>有些时候群嘲只是为了让自己显得像群体的一员<br>但某些时候，低俗者所嘲笑的正是自己未曾拥有的或者不如人的痛处<br>不过以上种种都与有些人确实贱没有冲突</p>
-]]></content>
-      <categories>
-        <category>杂谈</category>
-      </categories>
-      <tags>
-        <tag>杂谈</tag>
-        <tag>社论</tag>
       </tags>
   </entry>
   <entry>
@@ -1440,6 +1446,19 @@
       </tags>
   </entry>
   <entry>
+    <title>群嘲目的</title>
+    <url>/posts/fff87da7/</url>
+    <content><![CDATA[<p>我对群嘲的见解<span id="more"></span><br>人们通过群嘲以获得道德或者心理或者品味上的优越感，而且往往不会受到谴责，群体给予他们安全感和隐蔽感，并且有了精神上的豁免。<br>有些时候群嘲只是为了让自己显得像群体的一员<br>但某些时候，低俗者所嘲笑的正是自己未曾拥有的或者不如人的痛处<br>不过以上种种都与有些人确实贱没有冲突</p>
+]]></content>
+      <categories>
+        <category>杂谈</category>
+      </categories>
+      <tags>
+        <tag>杂谈</tag>
+        <tag>社论</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>女性胸围划分标准</title>
     <url>/posts/6604dc7b/</url>
     <content><![CDATA[<p>虽然我是个男生但偶尔也有好奇的时候,刚好想起来就顺便查了查,多了解一下也好,可能会用得到<span id="more"></span><br>要了解胸围要先了解上胸围和下胸围<br>下胸围即<br><img src="/images/%E4%B8%8B%E8%83%B8%E5%9B%B4.png" alt="下胸围示意"><br>上胸围即<br><img src="/images/%E4%B8%8A%E8%83%B8%E5%9B%B4.png" alt="上胸围示意"><br>上减去下的值即为cup<br>差值范围在9-11cm即为A<br>11-13cm B<br>13-16cm C<br>16-19cm D<br>后续依此类推<br>而36D这种属于英式尺码,80D这种属于国际尺码<br>其中80为下胸围,转换英式即36<br>转换时按<br>75=34<br>80=36<br>85=38<br>依上类推<br>以下总结<br><img src="/images/aaa.png" alt="总结图"></p>
@@ -1527,6 +1546,22 @@
       </tags>
   </entry>
   <entry>
+    <title>拙作三</title>
+    <url>/posts/5fa3eac9/</url>
+    <content><![CDATA[<h2 id="因"><a href="#因" class="headerlink" title="因"></a>因</h2><p>放假了在家呆着无聊,想写点什么,但社会点评轻易不敢动笔,毕竟我的观点过于偏激,想写故事却已经不是文思泉涌的年纪<br>技术教程过于复杂而且我的技术也并非多么高强,只能搞搞小白入门之类的<br>就整理了一下许久之前的手稿,顺手发几首诗歌<span id="more"></span><br>当时没有手机,想到什么就都写在纸上,攒了很多成型的和未成形的文章<br>最起码也有两三斤,以下即为其中三篇,都写于2019年1月,我的高中时期,写好后应该没有任何人看到过<br>当时的大家虽然知道我写诗但应该不知道我写的诗的具体数量,虽然其中不乏玩笑之作,但说实话数量实际上比他们想象的多的多<br>不过多数都是像这种藏在角落罢了,ok,不多说,直接快进到曾经的我写的不知道是诗还是歌的东西</p>
+<h3 id="其一"><a href="#其一" class="headerlink" title="其一"></a>其一</h3><p>草坪上的碧绿挥散如烟<br>太阳他慵懒的虚度时间<br>生活就好像一个循环<br>走着走着发现一律千篇<br>日记写的乏味是因为总是今天<br>妈妈说努力这三年<br>这以后就随你便<br>有了学历<br>就有了美好的明天<br>唉 我叹息着叹息着却依然往前<br>鸡汤文说了<br>当下就是最好开篇<br>这廉价的自由<br>这单调的优秀<br>隔壁他家阿帅已交过5个女友<br>总有那么几个地方看不清<br>我拖拖拉拉写出心情<br>不管我做什么弄什么干什么学什么<br>要克服困难往前冲<br>“我们要励志”<br>“你管他干什么”<br>“这个没用”<br>中华传统美德<br>我很尊敬<br>但什么叫<br>一条鱼和满锅腥<br>这是一个人的不幸<br>可这又有什么弊病<br>你做的真挺好<br>真挺行<br>说不行不行</p>
+<h3 id="其二-《代价》"><a href="#其二-《代价》" class="headerlink" title="其二 《代价》"></a>其二 《代价》</h3><p>我用我进攻的力量伪装高雅<br>你用你无关的勇气弄虚作假<br>恰如其分的点滴之间与光阴玩笑中的嘶哑<br>错落及与此相扣的一片晚霞<br>你目光紧锁下抬头远望的天边<br>我背后时光咆哮着露出獠牙<br>枉负<br>什么代价<br>盲目挣扎<br>反抗着倒下<br>黑夜与火<br>兼容框架<br>时光轮轮转转不分春秋冬夏<br>夜晚寒凉如水何来太多月下<br>舍弃的不止这天边抑或晚霞<br>可到最后只能说<br>这是应有的代价<br>算是吧</p>
+<h3 id="其三"><a href="#其三" class="headerlink" title="其三"></a>其三</h3><p>轻回首看阳光名存实亡<br>半远望见几童子几度彷徨<br>歌声飘荡<br>梦与希望<br>如何何物何事漂游水上<br>何时<br>何人归缓<br>今生已晚<br>不必感叹梦的长短<br>曲曲折折<br>轮轮转转<br>几般哀叹<br>又无力回挽<br>几许祸端<br>又欲寻梦几般<br>既无过往<br>何必<br>粉饰平安</p>
+]]></content>
+      <categories>
+        <category>诗</category>
+      </categories>
+      <tags>
+        <tag>文章</tag>
+        <tag>诗</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>过去，雨，词</title>
     <url>/posts/6141cfaf/</url>
     <content><![CDATA[<p>久未更新，为免生疏，觉得还是要随便写点什么<br>可写来写去，存稿愈发变多，却没有一篇令人满意<br>便翻了翻之前的手稿，找出几句随手写在纸上的句子<span id="more"></span><br>略显中二，但还算有趣<br>去年的五月，我出门不愿带伞，就只好淋雨回家<br>好在雨并不是很大<br>换身衣服就好<br>我走的不快不慢，路不远不近<br>现在还能稍微回想起那种众人皆醉我独醒的感觉<br>仿佛并没有下雨<br>打着伞的人反倒奇怪<br>我偶尔也会想一些奇怪的问题<br>如果某些奇怪的宗教习惯是不打伞的话会怎样<br>如果人类真的不需要打伞会怎样<br>会不会反而打伞会显得很奇怪<br>不过打伞实际上是出于自身利益的行为，所以这些有点扯<br>我回到家<br>随手拿到一张纸<br>写道：这是与世界的亲密接触，凡世庸俗，我无力改变，但可以躲藏<br>日期是五月十八日和五月二十五日两天<br>我忘记了在这之间我经历了什么<br>但现在的我偶尔也会有这种想法，可能厌世早已变成了我的一部分，但人类无法离开社会，如同蚂蚁不能离开巢穴<br>人终其一生，总不得不和自己讨厌的东西在一起<br>毕竟不管在哪，总有各种让你讨厌的东西<br>与它在一起的另一张纸上写着一首词，词牌没有标出，但却算是应景</p>
@@ -1556,22 +1591,6 @@
         <tag>杂谈</tag>
         <tag>社论</tag>
         <tag>转载</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>拙作三</title>
-    <url>/posts/5fa3eac9/</url>
-    <content><![CDATA[<h2 id="因"><a href="#因" class="headerlink" title="因"></a>因</h2><p>放假了在家呆着无聊,想写点什么,但社会点评轻易不敢动笔,毕竟我的观点过于偏激,想写故事却已经不是文思泉涌的年纪<br>技术教程过于复杂而且我的技术也并非多么高强,只能搞搞小白入门之类的<br>就整理了一下许久之前的手稿,顺手发几首诗歌<span id="more"></span><br>当时没有手机,想到什么就都写在纸上,攒了很多成型的和未成形的文章<br>最起码也有两三斤,以下即为其中三篇,都写于2019年1月,我的高中时期,写好后应该没有任何人看到过<br>当时的大家虽然知道我写诗但应该不知道我写的诗的具体数量,虽然其中不乏玩笑之作,但说实话数量实际上比他们想象的多的多<br>不过多数都是像这种藏在角落罢了,ok,不多说,直接快进到曾经的我写的不知道是诗还是歌的东西</p>
-<h3 id="其一"><a href="#其一" class="headerlink" title="其一"></a>其一</h3><p>草坪上的碧绿挥散如烟<br>太阳他慵懒的虚度时间<br>生活就好像一个循环<br>走着走着发现一律千篇<br>日记写的乏味是因为总是今天<br>妈妈说努力这三年<br>这以后就随你便<br>有了学历<br>就有了美好的明天<br>唉 我叹息着叹息着却依然往前<br>鸡汤文说了<br>当下就是最好开篇<br>这廉价的自由<br>这单调的优秀<br>隔壁他家阿帅已交过5个女友<br>总有那么几个地方看不清<br>我拖拖拉拉写出心情<br>不管我做什么弄什么干什么学什么<br>要克服困难往前冲<br>“我们要励志”<br>“你管他干什么”<br>“这个没用”<br>中华传统美德<br>我很尊敬<br>但什么叫<br>一条鱼和满锅腥<br>这是一个人的不幸<br>可这又有什么弊病<br>你做的真挺好<br>真挺行<br>说不行不行</p>
-<h3 id="其二-《代价》"><a href="#其二-《代价》" class="headerlink" title="其二 《代价》"></a>其二 《代价》</h3><p>我用我进攻的力量伪装高雅<br>你用你无关的勇气弄虚作假<br>恰如其分的点滴之间与光阴玩笑中的嘶哑<br>错落及与此相扣的一片晚霞<br>你目光紧锁下抬头远望的天边<br>我背后时光咆哮着露出獠牙<br>枉负<br>什么代价<br>盲目挣扎<br>反抗着倒下<br>黑夜与火<br>兼容框架<br>时光轮轮转转不分春秋冬夏<br>夜晚寒凉如水何来太多月下<br>舍弃的不止这天边抑或晚霞<br>可到最后只能说<br>这是应有的代价<br>算是吧</p>
-<h3 id="其三"><a href="#其三" class="headerlink" title="其三"></a>其三</h3><p>轻回首看阳光名存实亡<br>半远望见几童子几度彷徨<br>歌声飘荡<br>梦与希望<br>如何何物何事漂游水上<br>何时<br>何人归缓<br>今生已晚<br>不必感叹梦的长短<br>曲曲折折<br>轮轮转转<br>几般哀叹<br>又无力回挽<br>几许祸端<br>又欲寻梦几般<br>既无过往<br>何必<br>粉饰平安</p>
-]]></content>
-      <categories>
-        <category>诗</category>
-      </categories>
-      <tags>
-        <tag>文章</tag>
-        <tag>诗</tag>
       </tags>
   </entry>
   <entry>
