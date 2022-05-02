@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2022-05-01T11:15:15.837Z</updated>
+  <updated>2022-05-02T05:22:21.008Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>python库安装</title>
+    <link href="https://blog.zhangyisui.top/posts/82d6e617/"/>
+    <id>https://blog.zhangyisui.top/posts/82d6e617/</id>
+    <published>2022-05-02T04:39:02.006Z</published>
+    <updated>2022-05-02T05:22:21.008Z</updated>
+    
+    <content type="html"><![CDATA[<p>简单介绍一下python库安装<br>无废话<span id="more"></span><br>一剑破万法</p><p>例：</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip install wheel <span class="comment"># 库名</span></span><br></pre></td></tr></table></figure><p>其中whell是库的名字<br>装什么库就改成什么<br>在<a href="https://pypi.org/">这里</a>发现，寻找和发布库</p><p>有些库通过以上方法可能无法安装<br>这时可以使用下载whl包使用wheel安装的方式安装<br>首先安装wheel库(如例)<br>然后在<a href="https://www.lfd.uci.edu/~gohlke/pythonlibs/">这里</a>找到自己要安装的库的安装包下载<br>（ctrl+f调用浏览器搜索<br>然后在命令行中使用</p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">pip install D:\download\wordcloud-<span class="number">1.8</span><span class="number">.1</span>-cp38-cp38-win_amd64.whl <span class="comment"># 文件路径</span></span><br></pre></td></tr></table></figure><p>只要如上面将包名改为文件路径即可<br>记得不要更改安装包文件的名字<br>可能导致安装失败</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;简单介绍一下python库安装&lt;br&gt;无废话</summary>
+    
+    
+    
+    <category term="python" scheme="https://blog.zhangyisui.top/categories/python/"/>
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="python" scheme="https://blog.zhangyisui.top/tags/python/"/>
+    
+  </entry>
+  
+  <entry>
     <title>\2022.5.1</title>
     <link href="https://blog.zhangyisui.top/posts/b723ecbe/"/>
     <id>https://blog.zhangyisui.top/posts/b723ecbe/</id>
     <published>2022-05-01T09:01:19.277Z</published>
-    <updated>2022-05-01T11:15:15.837Z</updated>
+    <updated>2022-05-01T11:15:50.542Z</updated>
     
     <content type="html"><![CDATA[<p>今天是五月一日的下午，三点钟，正是一天中最热的时候<br>昨晚我叔叔和我联系说，既然放假了便出来溜溜，顺便到我这里来探望探望我<br>顺便当然是假的，我叔叔对我向来很好，我也一直将其与父亲同等看待<br>我说不必，我学校附近属实荒凉，何况疫情当头，问题很多纯属浪费时间<br>可叔叔坚持要来，拦不下来<br>那便来吧<br>我这可只有一天而他却有五天假期<br>今天是五月一日的下午，三点钟，正是一天中最热的时候<br>我在宿舍里呆呆地等着<br>叔叔打来电话，我从宿舍里走出去，说实话我们学校很小<br>从宿舍走到校门口并不需要多久<br>走出去的时候，路上的情侣倒是蛮多<br>校园中虽然还残存着疫情时的压抑以及学校管控未松带来的不快<br>但球场上的人和校园中的诸多情侣还是让这座学校慢慢活了起来<br>到了之后，却发现现在非但不能从外边拿进东西，就连见面说上几句话都不行<br>无奈我们只能在墙边隔着栅栏说上几句<br>他们宛如探监<br>可不久门卫却又说即使这样也不行<br>我不以为然，叔叔说这样也好<br>我们只好分别，简单的几句话已经足够，至少能让我把不满和不屑压在肚子里<br>但其实他来了就已经够了，至少还能见面</p><p>因为疫情我的头发已经很久没剪了<br>在路上我也不免看着那些以前常见的事<br>以前我是不感兴趣的<br>我挠挠头抬头望向太阳<br>即使穿着相对薄的衣服<br>却还是感觉有点热<br>我把额前的头发撩起来<br>我明白了一件事</p><p>夏天到了</p><p>夏天真的到了</p><p>本文不含任何影射</p>]]></content>
     
@@ -453,29 +476,6 @@
     
     <category term="science" scheme="https://blog.zhangyisui.top/categories/science/"/>
     
-    
-    <category term="science" scheme="https://blog.zhangyisui.top/tags/science/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>成为朋友的相关变量</title>
-    <link href="https://blog.zhangyisui.top/posts/82780993/"/>
-    <id>https://blog.zhangyisui.top/posts/82780993/</id>
-    <published>2022-04-07T09:12:34.784Z</published>
-    <updated>2022-04-07T09:21:01.758Z</updated>
-    
-    <content type="html"><![CDATA[<p>每个人的身边应该都不乏道德败坏之人,但即使这种人也会有他自己的朋友,以前我并不在乎,后来才知道究其原因还是因为在社会心理学中，个体的成就、品德并不属于能否成为朋友的影响因素,而是只有以下几方面的相关变量：</p><span id="more"></span><p>1.接近性：功能性距离（即生活轨迹的相交频率）最为关键，人际中的“曝光效应”指的就是人与人之间的熟悉会产生喜欢，同时喜欢也会加深熟悉。其实简单来说就是”时间”</p><p>2.外表吸引力：因为人类在进化中形成了美即是好“Beautiful is good”的刻板印象，所以人们都喜欢外表好看的人，一方面，这样的人符合大众审美的需求；另一方面，美丽也是健康和富于生殖的体现。</p><p>3.相似性：双方发现在价值观、信仰、态度上的相似后会产生喜欢。在这里加一点，有时我们也会喜欢那些模仿我们的人，就是因为我们在自己和他们之间察觉到了相似性。</p><p>4.互补性：一些性格互补的人有时也会成为好朋友。不过总体而言这样的例子比较少，占主导地位的还是相似而不是互补。</p><p>5.喜欢那些喜欢我们的人：在我们知道有人喜欢自己时，会产生一种情感回馈，因而也会喜欢这些喜欢我们的人。而且，当我们知道有人喜欢自己后，我们的自尊也会提高，会引起我们开心的情绪，而在开心的时候，人们也会更加喜欢社交。</p><p>6.关系中的奖赏：我们会喜欢那些回报自己或者与自己的回报有关系的人。例如从小我们就很喜欢给糖吃来奖励我们的老师或者叔叔阿姨，因为人会通过条件反射形成对那些与奖赏性事件有关的人和事的积极感受。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;每个人的身边应该都不乏道德败坏之人,但即使这种人也会有他自己的朋友,以前我并不在乎,后来才知道究其原因还是因为在社会心理学中，个体的成就、品德并不属于能否成为朋友的影响因素,而是只有以下几方面的相关变量：&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="science" scheme="https://blog.zhangyisui.top/categories/science/"/>
-    
-    
-    <category term="社论" scheme="https://blog.zhangyisui.top/tags/%E7%A4%BE%E8%AE%BA/"/>
     
     <category term="science" scheme="https://blog.zhangyisui.top/tags/science/"/>
     
