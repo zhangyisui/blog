@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2022-05-02T05:24:14.356Z</updated>
+  <updated>2022-05-02T15:14:34.236Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mc皮肤制作</title>
+    <link href="https://blog.zhangyisui.top/posts/33aa081b/"/>
+    <id>https://blog.zhangyisui.top/posts/33aa081b/</id>
+    <published>2022-05-02T15:11:23.264Z</published>
+    <updated>2022-05-02T15:14:34.236Z</updated>
+    
+    <content type="html"><![CDATA[<p>仅导航<span id="more"></span><br><a href="https://www.mcbbs.net/thread-572291-1-1.html">工具</a><br><a href="https://www.mcbbs.net/thread-536636-1-1.html">头</a><br><a href="https://www.mcbbs.net/thread-537374-1-1.html">身体</a><br><a href="https://www.mcbbs.net/thread-537851-1-1.html">四肢</a><br><a href="https://www.mcbbs.net/thread-537975-1-1.html">双层皮肤</a><br><a href="https://www.mcbbs.net/thread-538548-1-1.html">材质</a></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;仅导航</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="游戏" scheme="https://blog.zhangyisui.top/tags/%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
   
   <entry>
     <title>python库安装</title>
@@ -454,27 +477,6 @@
     <category term="science" scheme="https://blog.zhangyisui.top/tags/science/"/>
     
     <category term="学术" scheme="https://blog.zhangyisui.top/tags/%E5%AD%A6%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>决定论</title>
-    <link href="https://blog.zhangyisui.top/posts/f5c3e981/"/>
-    <id>https://blog.zhangyisui.top/posts/f5c3e981/</id>
-    <published>2022-04-07T09:18:52.835Z</published>
-    <updated>2022-04-07T09:21:01.758Z</updated>
-    
-    <content type="html"><![CDATA[<p>有一个听起来荒谬，但曾得到包括爱因斯坦在内的很多科学家支持的观点——决定论。<span id="more"></span><br>一个小球在真空自由落体，我们可以轻易的算出它在某一时刻的速度。丢一个骰子，看起来点数随机，但如果有了出手速度，初始位置，以及房子里面空气流动速度和阻力等等，终究也能计算骰子最终点数。现在问题来了，只要完全知道宇宙在某一时刻的状态，便能用科学定律依此计算出宇宙中下一刻的状态，再利用下一刻可以计算出下下一刻的状态。那么从现在开始，以及接下来发生的所有事情都是固定的，因为此刻的状态是确定的。而现在的状态是由宇宙上一时刻的状态决定的，这样可以一直回溯回去，直到宇宙大爆炸。也就是说:<br>「过去以及未来发生的事情，包括你怎样来到这个世界，如何遇到真爱并走过这一生， 以何种方式死去，在138亿年前宇宙大爆炸那一刻就已经决定了」。<br>所以完全可以对心仪的人说，其实我们相遇是命运的安排，缘分从138亿年前就已经开始。</p><p>当然，我们也明知这些应该是错的，但这的确有点浪漫，让人想去相信，但这个概念终将证伪</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;有一个听起来荒谬，但曾得到包括爱因斯坦在内的很多科学家支持的观点——决定论。</summary>
-    
-    
-    
-    <category term="science" scheme="https://blog.zhangyisui.top/categories/science/"/>
-    
-    
-    <category term="science" scheme="https://blog.zhangyisui.top/tags/science/"/>
     
   </entry>
   
