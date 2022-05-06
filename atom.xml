@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2022-05-02T15:14:34.236Z</updated>
+  <updated>2022-05-06T07:01:34.599Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>如何让手机装不上某个应用</title>
+    <link href="https://blog.zhangyisui.top/posts/36189095/"/>
+    <id>https://blog.zhangyisui.top/posts/36189095/</id>
+    <published>2022-05-06T06:56:24.380Z</published>
+    <updated>2022-05-06T07:01:34.599Z</updated>
+    
+    <content type="html"><![CDATA[<p>无意间看到的，蛮有意思<span id="more"></span><br>写个小应用，用同样的包名，去掉桌面图标<br>把版本号设置的高一点(99.99.99)，这样安装的时候就会失败，因为不能降级<br>最好把签名也改了，还会显示签名不一致<br>简单点的话，直接用mt改空包然后安装成系统应用就行了</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;无意间看到的，蛮有意思</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="Android" scheme="https://blog.zhangyisui.top/tags/Android/"/>
+    
+  </entry>
+  
+  <entry>
     <title>mc皮肤制作</title>
     <link href="https://blog.zhangyisui.top/posts/33aa081b/"/>
     <id>https://blog.zhangyisui.top/posts/33aa081b/</id>
     <published>2022-05-02T15:11:23.264Z</published>
-    <updated>2022-05-02T15:14:34.236Z</updated>
+    <updated>2022-05-02T15:15:35.733Z</updated>
     
     <content type="html"><![CDATA[<p>仅导航<span id="more"></span><br><a href="https://www.mcbbs.net/thread-572291-1-1.html">工具</a><br><a href="https://www.mcbbs.net/thread-536636-1-1.html">头</a><br><a href="https://www.mcbbs.net/thread-537374-1-1.html">身体</a><br><a href="https://www.mcbbs.net/thread-537851-1-1.html">四肢</a><br><a href="https://www.mcbbs.net/thread-537975-1-1.html">双层皮肤</a><br><a href="https://www.mcbbs.net/thread-538548-1-1.html">材质</a></p>]]></content>
     
@@ -454,29 +477,6 @@
     <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
     
     <category term="资源" scheme="https://blog.zhangyisui.top/tags/%E8%B5%84%E6%BA%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何制造一篇论文</title>
-    <link href="https://blog.zhangyisui.top/posts/fb5bed0f/"/>
-    <id>https://blog.zhangyisui.top/posts/fb5bed0f/</id>
-    <published>2022-04-08T10:26:11.664Z</published>
-    <updated>2022-04-08T10:30:59.618Z</updated>
-    
-    <content type="html"><![CDATA[<p>如题,不废话了<span id="more"></span></p><h2 id="确立合适的选题"><a href="#确立合适的选题" class="headerlink" title="确立合适的选题"></a>确立合适的选题</h2><p>1 选择你知道“具体要做什么的”题目</p><p>2 选泽有过接触的量力而行</p><p>3 找最新的一些资料,提前调研文献收集快速预览</p><p>4 和导师多沟通,听取老师的建议</p><h2 id="选题的创新点"><a href="#选题的创新点" class="headerlink" title="选题的创新点"></a>选题的创新点</h2><p>1 前人研究较少的内容<br>2 以不同角度作为重点和亮点<br>论文涉及到调研收集数据<br>理论建模分析实验讨论等<br>任何一个环节都能作为亮点<br>3 阅读大量的阅读文献<br>可以去复现别人工作中的实验/调研在解决困难的过程中也能找到创新点</p><h2 id="如何寻找合适的文献"><a href="#如何寻找合适的文献" class="headerlink" title="如何寻找合适的文献"></a>如何寻找合适的文献</h2><p>1 所在领域内的顶级国际会议和期刊杂志的文章,找影响因子高的<br>2 对文献进行排序 关键词相关度相关时间被引用次数<br>3 在被引用次数多的文献里找引用这篇文章前几名文章<br>4 关注综述类文章（Survey）<br>5 搜索英文文献<br>积累英文关键词搜索同一中文词对应的英文单词<br>6 通过大佬的文章引用文献找</p><h2 id="论文结构"><a href="#论文结构" class="headerlink" title="论文结构"></a>论文结构</h2><p>-封面<br>-原创性声明<br>-中英文摘要<br>-目录<br>-绪论<br>-正文<br>-总结与展望<br>-参考文献<br>-附录<br>-致谢</p><h2 id="摘要及关键字"><a href="#摘要及关键字" class="headerlink" title="摘要及关键字"></a>摘要及关键字</h2><p>第1段：简单介绍背景<br>第2段：目前存在的问题<br>第3～X段：你的具体工作有几个点就写几段<br>第X＋1段：简单总结</p><p>顺便一提英文部分可以使用grammarly以及类似网站进行语法检查</p><h2 id="文献综述四步骤"><a href="#文献综述四步骤" class="headerlink" title="文献综述四步骤"></a>文献综述四步骤</h2><p>1 按时间顺序<br>阐述研究领域的研究现状<br>2 对研究工作进行分类评述<br>经典文献详细说<br>过时观点简单说<br>争议焦点罗列观点进行比较<br>3.总结现有工作的优势与不足<br>4.提出发展前景和工作必要性</p><h2 id="论文框架"><a href="#论文框架" class="headerlink" title="论文框架"></a>论文框架</h2><p>1提出模型<br>2分析模型<br>3实验<br>4实验结果<br>5总结<br>(框架仅供参考)</p><h2 id="查重相关"><a href="#查重相关" class="headerlink" title="查重相关"></a>查重相关</h2><h3 id="不查重部分"><a href="#不查重部分" class="headerlink" title="[不查重部分]"></a>[不查重部分]</h3><p>封面<br>原创性声明<br>目录<br>致谢<br>文中图<br>代码以及数学公式</p><h3 id="查重平台"><a href="#查重平台" class="headerlink" title="[查重平台]"></a>[查重平台]</h3><p>知网<br>万方<br>维普等<br>学校合作机构<br>paperpass等第三方(不推荐)</p><h3 id="降重"><a href="#降重" class="headerlink" title="[降重]"></a>[降重]</h3><p>1善用外国资料进行翻译<br>2连续字词之间插入新文字<br>同义词转换.换句式<br>3文字换图<br>调查问卷或表格换成图<br>4删原句自行复述</p><p>绝技:翻译成英文再翻回来,翻译为其他语言亦可,但不建议使用</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;如题,不废话了</summary>
-    
-    
-    
-    <category term="学术" scheme="https://blog.zhangyisui.top/categories/%E5%AD%A6%E6%9C%AF/"/>
-    
-    
-    <category term="science" scheme="https://blog.zhangyisui.top/tags/science/"/>
-    
-    <category term="学术" scheme="https://blog.zhangyisui.top/tags/%E5%AD%A6%E6%9C%AF/"/>
     
   </entry>
   
