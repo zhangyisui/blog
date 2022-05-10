@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2022-05-06T07:01:34.599Z</updated>
+  <updated>2022-05-10T08:42:57.438Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>为什么韭菜义无反顾</title>
+    <link href="https://blog.zhangyisui.top/posts/5df89547/"/>
+    <id>https://blog.zhangyisui.top/posts/5df89547/</id>
+    <published>2022-05-10T08:37:12.452Z</published>
+    <updated>2022-05-10T08:42:57.438Z</updated>
+    
+    <content type="html"><![CDATA[<p>巴甫洛夫的条件反射大家应该都知道<br>简单说就是每次摇铃时给狗食物<br>狗习惯后即便没有食物时摇铃狗也会分泌唾液<br>被称之为经典条件反射</p><p>值得注意的是，上述是在有外界条件刺激下引起的动物生理反应<br>那有没有办法让一个动物自发地进行某种行为？<br>有</p><span id="more"></span><p>看过心理罪的应该都知道斯金纳设计的斯金纳箱<br>笼里有一个开关，试验动物需要学会一个技能，比如灯亮了就拨动杠杆<br>完成后给予食物奖励<br>这个模式，是现代教育和训练动物的基础</p><p>当某个行为培养出来后移除奖励<br>老鼠在发现怎么拨动杆杠都没食物后，就再也不会去拨动杠杆<br>这说明动物可以靠奖励机制学会一个行为，也会因为奖励消失而遗忘这个行为</p><p>继续实验<br>如果我们改变了拨动杆杠获得的食物比例<br>比如，拨动杆杠40次才能获得食物<br>老鼠会自己去拨动杠杆40次吗<br>会，而且如同染了毒瘾一般，不管是否得到食物奖励，都会继续去拨弄<br>直到许久许久后才放弃</p><p>如果我们采取不规则的食物奖励比例<br>老鼠可能做一次就给，也可能做100次再给，完全随机</p><p>然后对比以上所有实验数据的结果：<br>结果是不规则的食物奖励（随机），消除既有行为需时最久</p><p>如果你赌博一直输一直输，那你怕了，你就不会想去赌<br>但如果是输输赢赢，即便输大于赢？<br>你会沉迷其中，不可自拔。</p><p>玩股票，看盘，报班，输输输赢赢。<br>最后不赚不亏，或者有点小赚…<br>其实还是亏了，时间也是投入</p><p>你要跟一只没受过训练的老鼠说：<br>“你拨弄个杆子，我就可能给你奖励。”<br>老鼠要是会说话，肯定不屑一顾：“我只相信真能到手的东西。”<br>人可比老鼠高级多<br>在旁边听到有奖励了，自己就会跑上来<br>然后自己把自己埋土里，长出一丛绿油油的韭菜。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;巴甫洛夫的条件反射大家应该都知道&lt;br&gt;简单说就是每次摇铃时给狗食物&lt;br&gt;狗习惯后即便没有食物时摇铃狗也会分泌唾液&lt;br&gt;被称之为经典条件反射&lt;/p&gt;
+&lt;p&gt;值得注意的是，上述是在有外界条件刺激下引起的动物生理反应&lt;br&gt;那有没有办法让一个动物自发地进行某种行为？&lt;br&gt;有&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="社论" scheme="https://blog.zhangyisui.top/categories/%E7%A4%BE%E8%AE%BA/"/>
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="社论" scheme="https://blog.zhangyisui.top/tags/%E7%A4%BE%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
     <title>如何让手机装不上某个应用</title>
     <link href="https://blog.zhangyisui.top/posts/36189095/"/>
     <id>https://blog.zhangyisui.top/posts/36189095/</id>
     <published>2022-05-06T06:56:24.380Z</published>
-    <updated>2022-05-06T07:01:34.599Z</updated>
+    <updated>2022-05-06T07:02:30.734Z</updated>
     
     <content type="html"><![CDATA[<p>无意间看到的，蛮有意思<span id="more"></span><br>写个小应用，用同样的包名，去掉桌面图标<br>把版本号设置的高一点(99.99.99)，这样安装的时候就会失败，因为不能降级<br>最好把签名也改了，还会显示签名不一致<br>简单点的话，直接用mt改空包然后安装成系统应用就行了</p>]]></content>
     
@@ -454,29 +478,6 @@
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
     
     <category term="批评" scheme="https://blog.zhangyisui.top/tags/%E6%89%B9%E8%AF%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Github上的优秀/有趣项目</title>
-    <link href="https://blog.zhangyisui.top/posts/f8c9593/"/>
-    <id>https://blog.zhangyisui.top/posts/f8c9593/</id>
-    <published>2022-04-09T10:54:52.950Z</published>
-    <updated>2022-04-09T10:56:12.667Z</updated>
-    
-    <content type="html"><![CDATA[<p>介绍一些我在GitHub见到的有趣且不乏实用的项目</p><span id="more"></span><h2 id="github加速"><a href="#github加速" class="headerlink" title="github加速"></a><a href="https://github.com/521xueweihan/GitHub520">github加速</a></h2><p>一个分享GitHub的快速hosts的项目,用上这个看下面的项目就能方便些</p><h2 id="AntennaPod"><a href="#AntennaPod" class="headerlink" title="AntennaPod"></a><a href="https://github.com/AntennaPod/AntennaPod">AntennaPod</a></h2><p>知名开源播客客户端,界面简洁,效果显著,可惜的是只有安卓端</p><h2 id="learnxinyminutes-docs"><a href="#learnxinyminutes-docs" class="headerlink" title="learnxinyminutes-docs"></a><a href="https://github.com/adambard/learnxinyminutes-docs">learnxinyminutes-docs</a></h2><p>y分钟学会x,其实就是精简提炼知识点,里面东西很多,有点子价值在里面</p><h2 id="YYeTsBot"><a href="#YYeTsBot" class="headerlink" title="YYeTsBot"></a><a href="https://github.com/tgbot-collection/YYeTsBot">YYeTsBot</a></h2><p>人人影视bot,可以获取电影的磁力链接等等</p><h2 id="motrix"><a href="#motrix" class="headerlink" title="motrix"></a><a href="https://github.com/agalwood/Motrix">motrix</a></h2><p>书接上回,UI合理,功能健全的磁力链接/种子下载器</p><h2 id="TrackersListCollection"><a href="#TrackersListCollection" class="headerlink" title="TrackersListCollection"></a><a href="https://github.com/XIU2/TrackersListCollection">TrackersListCollection</a></h2><p>再接上回,更新频繁的种子追踪器链接分享</p><h2 id="syncthing"><a href="#syncthing" class="headerlink" title="syncthing"></a><a href="https://github.com/syncthing/syncthing">syncthing</a></h2><p>一个数据同步器,类似OneDrive,不过是通过p2p,一般在局域网使用</p><h2 id="chineseocr-lite"><a href="#chineseocr-lite" class="headerlink" title="chineseocr_lite"></a><a href="https://github.com/DayBreak-u/chineseocr_lite">chineseocr_lite</a></h2><p>开源的离线ocr</p><h2 id="YesPlayMusic"><a href="#YesPlayMusic" class="headerlink" title="YesPlayMusic"></a><a href="https://github.com/qier222/YesPlayMusic">YesPlayMusic</a></h2><p>美化且带插件的第三方网易云客户端</p><h2 id="justlive"><a href="#justlive" class="headerlink" title="justlive"></a><a href="https://github.com/guyijie1211/JustLive-Android">justlive</a></h2><p>一个聚合多个平台的直播内容的软件,纯净极简,有些小bug但不影响用,这个是安卓端,作者主页还有其他端的项目,且用且珍惜</p><h2 id="hacktools"><a href="#hacktools" class="headerlink" title="hacktools"></a><a href="https://github.com/Z4nzu/hackingtool">hacktools</a></h2><p>常用hack工具包</p><h2 id="gif123"><a href="#gif123" class="headerlink" title="gif123"></a><a href="https://github.com/aardio/Gif123">gif123</a></h2><p>方便小巧好用的pc端gif录制器</p><h2 id="automa"><a href="#automa" class="headerlink" title="automa"></a><a href="https://github.com/Kholid060/automa">automa</a></h2><p>在浏览器里实现类似苹果快捷指令功能的插件</p><h2 id="HowToCook"><a href="#HowToCook" class="headerlink" title="HowToCook"></a><a href="https://github.com/Anduin2017/HowToCook">HowToCook</a></h2><p>程序员做饭指南,从基础到复杂,确实很人性</p><h2 id="ALL-about-RSS"><a href="#ALL-about-RSS" class="headerlink" title="ALL-about-RSS"></a><a href="https://github.com/AboutRSS/ALL-about-RSS">ALL-about-RSS</a></h2><p>关于rss的一切</p><h2 id="fluentreader"><a href="#fluentreader" class="headerlink" title="fluentreader"></a><a href="https://github.com/yang991178/fluent-reader">fluentreader</a></h2><p>书接上文,漂亮的开源rss阅读器,仅PC</p><h2 id="steam"><a href="#steam" class="headerlink" title="steam++"></a><a href="https://github.com/BeyondDimension/SteamTools">steam++</a></h2><p>一个steam的增强软件,功能强大</p><h2 id="hmcl"><a href="#hmcl" class="headerlink" title="hmcl"></a><a href="https://github.com/huanghongxun/HMCL">hmcl</a></h2><p>第三方我的世界启动器,UI友好,功能全,之前推荐过</p><h2 id="KeymouseGo"><a href="#KeymouseGo" class="headerlink" title="KeymouseGo"></a><a href="https://github.com/taojy123/KeymouseGo">KeymouseGo</a></h2><p>通过录制你的操作执行操作的小巧简易脚本软件</p><h2 id="keepass"><a href="#keepass" class="headerlink" title="keepass"></a><a href="https://github.com/keepassxreboot/keepassxc">keepass</a></h2><p>知名开源密码管理客户端,这是pc端,其他版本请在GitHub自行寻找</p><h2 id="v2ray"><a href="#v2ray" class="headerlink" title="v2ray"></a><a href="https://github.com/2dust/v2rayN">v2ray</a></h2><p>知名代理软件,懂得都懂</p><h2 id="hackbrowserdate"><a href="#hackbrowserdate" class="headerlink" title="hackbrowserdate"></a><a href="https://github.com/moonD4rk/HackBrowserData">hackbrowserdate</a></h2><p>越过加密获取浏览器里保存的密码,支持chrome及相关浏览器</p><h2 id="trafficmonitor"><a href="#trafficmonitor" class="headerlink" title="trafficmonitor"></a><a href="https://github.com/zhongyang219/TrafficMonitor">trafficmonitor</a></h2><p>在任务栏显示运行状况,bug略多,但确实有用</p><h2 id="joplin"><a href="#joplin" class="headerlink" title="joplin"></a><a href="https://github.com/laurent22/joplin">joplin</a></h2><p>知名markdown笔记软件,支持webdav与多端同步</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;介绍一些我在GitHub见到的有趣且不乏实用的项目&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-    <category term="资源" scheme="https://blog.zhangyisui.top/tags/%E8%B5%84%E6%BA%90/"/>
     
   </entry>
   
