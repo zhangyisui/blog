@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2022-05-10T08:42:57.438Z</updated>
+  <updated>2022-05-14T13:25:16.645Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>任意网页视频倍速</title>
+    <link href="https://blog.zhangyisui.top/posts/f569ca1a/"/>
+    <id>https://blog.zhangyisui.top/posts/f569ca1a/</id>
+    <published>2022-05-14T13:20:37.564Z</published>
+    <updated>2022-05-14T13:25:16.645Z</updated>
+    
+    <content type="html"><![CDATA[<p>首先在网页内任意位置右键选择”检查元素”或”检查”<br>然后ctrl+shift+c进入选择元素模式<br>或者点击<br><img src="/images/%E9%80%89%E6%8B%A9%E5%85%83%E7%B4%A0.png" alt="选择元素示意"><br>进入相应模式（不同浏览器可能有所不同但都是大同小异罢了）<br>然后在控制台调用document对象的queryselector方法，修改video标签里播放速度即可<br>代码如下：</p><figure class="highlight js"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">document</span>.querySelector(<span class="string">&#x27;video&#x27;</span>).playbackrate=<span class="number">2</span></span><br></pre></td></tr></table></figure><p>将2改为需要的播放倍速即可，钉钉实测可以16倍<br>输入后回车</p><p>如果需要调回去，重复操作，2改为1即可</p><p>ps：未必百分百生效</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;首先在网页内任意位置右键选择”检查元素”或”检查”&lt;br&gt;然后ctrl+shift+c进入选择元素模式&lt;br&gt;或者点击&lt;br&gt;&lt;img src=&quot;/images/%E9%80%89%E6%8B%A9%E5%85%83%E7%B4%A0.png&quot; alt=&quot;选择元素示意&quot;&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>为什么韭菜义无反顾</title>
     <link href="https://blog.zhangyisui.top/posts/5df89547/"/>
     <id>https://blog.zhangyisui.top/posts/5df89547/</id>
     <published>2022-05-10T08:37:12.452Z</published>
-    <updated>2022-05-10T08:42:57.438Z</updated>
+    <updated>2022-05-10T08:50:29.980Z</updated>
     
     <content type="html"><![CDATA[<p>巴甫洛夫的条件反射大家应该都知道<br>简单说就是每次摇铃时给狗食物<br>狗习惯后即便没有食物时摇铃狗也会分泌唾液<br>被称之为经典条件反射</p><p>值得注意的是，上述是在有外界条件刺激下引起的动物生理反应<br>那有没有办法让一个动物自发地进行某种行为？<br>有</p><span id="more"></span><p>看过心理罪的应该都知道斯金纳设计的斯金纳箱<br>笼里有一个开关，试验动物需要学会一个技能，比如灯亮了就拨动杠杆<br>完成后给予食物奖励<br>这个模式，是现代教育和训练动物的基础</p><p>当某个行为培养出来后移除奖励<br>老鼠在发现怎么拨动杆杠都没食物后，就再也不会去拨动杠杆<br>这说明动物可以靠奖励机制学会一个行为，也会因为奖励消失而遗忘这个行为</p><p>继续实验<br>如果我们改变了拨动杆杠获得的食物比例<br>比如，拨动杆杠40次才能获得食物<br>老鼠会自己去拨动杠杆40次吗<br>会，而且如同染了毒瘾一般，不管是否得到食物奖励，都会继续去拨弄<br>直到许久许久后才放弃</p><p>如果我们采取不规则的食物奖励比例<br>老鼠可能做一次就给，也可能做100次再给，完全随机</p><p>然后对比以上所有实验数据的结果：<br>结果是不规则的食物奖励（随机），消除既有行为需时最久</p><p>如果你赌博一直输一直输，那你怕了，你就不会想去赌<br>但如果是输输赢赢，即便输大于赢？<br>你会沉迷其中，不可自拔。</p><p>玩股票，看盘，报班，输输输赢赢。<br>最后不赚不亏，或者有点小赚…<br>其实还是亏了，时间也是投入</p><p>你要跟一只没受过训练的老鼠说：<br>“你拨弄个杆子，我就可能给你奖励。”<br>老鼠要是会说话，肯定不屑一顾：“我只相信真能到手的东西。”<br>人可比老鼠高级多<br>在旁边听到有奖励了，自己就会跑上来<br>然后自己把自己埋土里，长出一丛绿油油的韭菜。</p>]]></content>
     
@@ -455,29 +479,6 @@
     <category term="小说" scheme="https://blog.zhangyisui.top/tags/%E5%B0%8F%E8%AF%B4/"/>
     
     <category term="文学" scheme="https://blog.zhangyisui.top/tags/%E6%96%87%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>何为文化工业</title>
-    <link href="https://blog.zhangyisui.top/posts/855c969e/"/>
-    <id>https://blog.zhangyisui.top/posts/855c969e/</id>
-    <published>2022-04-10T06:30:09.041Z</published>
-    <updated>2022-04-10T06:48:23.515Z</updated>
-    
-    <content type="html"><![CDATA[<p>文化工业是德国法兰克福学派的学者西奥多·阿多诺及马克斯·霍克海姆等人提出的概念，用以批判资本主义社会下大众文化的商品化及标准化。这个概念是阿多诺的哲学理论的中心，它首次出现于阿多诺的《启蒙辩证法》。在这部著作中阿多诺称文化工业是从上向下“有意识地结合其消费者”。这部著作标志着批判理论早期的结束。</p><span id="more"></span><p>根据阿多诺的阐述，文化工业具有以下特征：</p><p>1、艺术生产的工厂化、工艺化或制作化，因此可量身定做、机械复制、批量生产，艺术不再是马克思所说的“自由的精神生产”；</p><p>2、艺术作品的商品化、消费化，因而艺术从精神领域蜕化成只具使用价值的器物，从而剥夺艺术本应具有的任何反抗和批判功能；</p><p>3、文化工业的大众传播形式使其传输给大众的信息具有两重性，表层信息往往是自由、平等、幸福，反抗不公和极权主义等等，深层隐藏的信息却传播给大众适应与接受现实秩序的必然性；</p><p>4、文化工业的升华是伪升华，它不断地供应文化快感和幸福承诺，用伪审美假升华遮蔽人性压抑的真实，无限期地延长支付它开出的快乐支票。“文化工业不是纯化愿望，而是压抑愿望。”(注：霍克海默和阿多诺：《启蒙辩证法》，重庆出版社，1990年版，第131页。）</p><p>5、文化工业还具有伪个性主义特征。“个性化”是它倾销文化商品的典型伎俩，大众常常被款待得像主人一样，似乎它的产品只为您一个人生产。而且它总是给文化商品打上天才的独创性和独特个性的迷人光辉，以掩饰其情感与形式的标准化、格式化以及风格的千篇一律性。<br>文化工业的伪个性主义，不仅是由于生产方式的标准化，更是由其意识形态本质所决定的。它按照社会所喜欢所需要的样子塑造所谓的个性，“个性被归结为普遍的能力，偶然性，只有当它完全具有普遍的特性时才能存在下去。”1967年阿多诺说得更直截了当：“文化工业的绝对规则不再与自由有任何共同之点。它宣示于众的是：你应该循规蹈矩，即使是在未被告之任何规矩的情况下；应该与任何已经存在的东西保持一致。像其他任何人那样思考。”(注：《文化工业再思考》，《文化研究》第1辑天津社会科学出版社2000年，第204。)</p><p>6、文化工业使工具理性完全凌驾于价值理性，使使用价值彻底臣服于交换价值。在后期资本主义社会中，文化商品要保持纯粹使用价值的幻想，就必须被纯粹的交换价值所取代。文化工业不仅把对于效用的精确计算放在首位，而且充分利用拜物教使文化商品笼罩上一层厚厚的偶像光晕。凭借偶像化这一最原始也最有效的手段，在文化商品的交换过程中达到最大限度的价值增值。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;文化工业是德国法兰克福学派的学者西奥多·阿多诺及马克斯·霍克海姆等人提出的概念，用以批判资本主义社会下大众文化的商品化及标准化。这个概念是阿多诺的哲学理论的中心，它首次出现于阿多诺的《启蒙辩证法》。在这部著作中阿多诺称文化工业是从上向下“有意识地结合其消费者”。这部著作标志着批判理论早期的结束。&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/categories/%E6%9D%82%E8%B0%88/"/>
-    
-    
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
-    <category term="批评" scheme="https://blog.zhangyisui.top/tags/%E6%89%B9%E8%AF%84/"/>
     
   </entry>
   
