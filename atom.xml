@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2022-05-14T13:38:50.614Z</updated>
+  <updated>2022-05-20T03:33:05.492Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>c、c++、c#</title>
+    <link href="https://blog.zhangyisui.top/posts/7d3dac62/"/>
+    <id>https://blog.zhangyisui.top/posts/7d3dac62/</id>
+    <published>2022-05-20T03:32:19.429Z</published>
+    <updated>2022-05-20T03:33:05.492Z</updated>
+    
+    <content type="html"><![CDATA[<p>简述一下三种语言的区别<span id="more"></span></p><p>c有对象但没有类的函数语言，旨在创建操作系统，与硬件交互，语法相对简单（除了指针<br>由于其本质，编写会相对困难，需要自己写库和功能<br>如果想编译系统，c是最佳选择</p><p>c++快速且强大，面向对象编程且有强力支持，c++相当于c的加强版版<br>语法相对复杂，需要记住的部分很多，学习成本很高，不推荐初学者学习<br>但使用并不很难，比c功能更多，通常用于游戏开发，Gui或浏览器</p><p>c#在2000年由微软创建，比c和c++更加高阶相应的运行速度更慢，面向对象让web开发更便捷<br>基本上是复制的Java，语法类似Java，继承了C和C++的许多东西,但和两者基本上已不一样了<br>学习曲线中等,简单易用，因为库非常丰富，常用于web开发，win应用和游戏开发</p><p>总结，c编写底层应用，c++编写更强的底层应用，但恐怕要牺牲自我<br>c#基本是java的替代品，不过微软的尿性大家都懂</p><p>总结：<br>C++是C语言的升级版 。c是c++的子集，c是面向过程的，c++是面向对象的,C++完全向C兼容,C程序几乎不用修改即可在C++的编译器上运行</p><p>继承关系是C-&gt;C++-&gt;C#</p><p>ps:<br>面向对象主要是说，在系统设计和实现上用的思想，面向对象的思想的运用，就是先从系统需求中确定类，然后按类实例化对象，对象之间的通信就实现了系统的功能。<br>面向过程，即系统的实现是分过很多按流程或工序设计的不同功能(函数)来实现，就是先干什么，后干什么，主要是靠函数的调用，因为面向过程没有对象，所以这些函数不属于任何对象，没有封装、继承等的灵活运用，系统一旦庞大，其设计和实现的复杂性和可控性跟面向对象不是一个数量级的。)</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;简述一下三种语言的区别</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>任意网页视频倍速</title>
@@ -451,31 +472,6 @@
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
     
     <category term="转载" scheme="https://blog.zhangyisui.top/tags/%E8%BD%AC%E8%BD%BD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>老故事翻新</title>
-    <link href="https://blog.zhangyisui.top/posts/5de5bbf5/"/>
-    <id>https://blog.zhangyisui.top/posts/5de5bbf5/</id>
-    <published>2022-04-10T06:34:07.877Z</published>
-    <updated>2022-04-10T06:53:02.986Z</updated>
-    
-    <content type="html"><![CDATA[<p>一些小的改编故事,带着些哲学气息,很短,但一针见血</p><span id="more"></span><h2 id="龟兔赛跑"><a href="#龟兔赛跑" class="headerlink" title="龟兔赛跑"></a>龟兔赛跑</h2><h3 id="0"><a href="#0" class="headerlink" title="0"></a>0</h3><p>赛跑开始了，</p><p>在一大群的乌龟里混入了一只兔子。</p><h3 id="—"><a href="#—" class="headerlink" title="—"></a>—</h3><p>乌龟们奋力地看着前方奔跑，</p><p>对那只贪玩的兔子不屑一顾。</p><p>乌龟们想，</p><p>就算兔子又怎样？</p><p>他吊儿郎当的，</p><p>能成的了什么大事呢？</p><p>就凭借他这样，</p><p>也配和我们乌龟们比赛吗？</p><h3 id="—-1"><a href="#—-1" class="headerlink" title="—"></a>—</h3><p>乌龟们每天战战兢兢地早起晚睡，</p><p>连吃饭都怕耽误了时间。</p><p>他们玩命地奔跑，</p><p>甚至还互相使个绊子，</p><p>给别的乌龟扔个石子。</p><p>生怕别的龟超过了自己。</p><p>而兔子呢？</p><p>跑两步就休息了。</p><p>生活嘛，</p><p>要不追追蝴蝶，</p><p>要不睡睡大觉，</p><p>又或者找一只雪白的母兔子打情骂俏的。</p><h3 id="—-2"><a href="#—-2" class="headerlink" title="—"></a>—</h3><p>不过兔子终究是兔子，</p><p>随便跑一跑就比乌龟要快地多。</p><p>就在一只最勤劳的最有天赋的乌龟跑到了终点时，</p><p>他踩着累累龟壳，</p><p>流着骄傲的汗水，</p><p>看着那只兔子正在领奖台上呼呼大睡呢。</p><p>乌龟们都说，</p><p>那是人家兔子遗传好，</p><p>有家学，</p><p>比你有天赋的人还比你努力。</p><p>不承认不行啊。</p><p>乌龟都忙着学习兔子的成功传记呢，</p><p>恨不得让自己的孩子一出生就会抄写背诵。</p><p>却没有一只乌龟去问一句：</p><p>为什么要比赛赛跑呢？</p><p>连那只得了第二名的乌龟也是这样，</p><p>他只是流下了激动的泪水。</p><p>一只西装革履的兔子来给他们颁奖，</p><p>主席台上的兔子们鼓起了掌。</p><p>庆祝这场公平的比赛圆满成功了。</p><p>完。</p><h2 id="电线杆上的乌鸦"><a href="#电线杆上的乌鸦" class="headerlink" title="电线杆上的乌鸦"></a>电线杆上的乌鸦</h2><h3 id="0-1"><a href="#0-1" class="headerlink" title="0"></a>0</h3><p>这是在一个童话世界的故事。</p><p>说是有一只小麻雀不小心缠在了电线上，</p><p>它挣扎不掉，</p><p>发出了凄厉的叫声。</p><p>路过的人们发现了，</p><p>赶忙打电话给总统。</p><h3 id="—-3"><a href="#—-3" class="headerlink" title="—"></a>—</h3><p>总统一声令下，</p><p>派专机撞断了国家总电线，</p><p>让全国暂时停电了。</p><p>救援人员花了半小时救下了小麻雀。</p><p>伟大的国家能为任何卑微的生命停下脚步。</p><h3 id="—-4"><a href="#—-4" class="headerlink" title="—"></a>—</h3><p>后来，</p><p>又有一只乌鸦被缠在了电线上，</p><p>电线缠住了他的脖子，</p><p>他几乎不能呼吸了。</p><p>人们打电话叫来了警察，</p><p>警察看着乌鸦漆黑的羽毛，</p><p>拔出了枪，</p><p>叫乌鸦蹲在地上，</p><p>双手抱住后脑。</p><p>可是乌鸦被电线缠住了，</p><p>他下不来啊。</p><p>只是一个劲儿叫着。</p><p>彷佛在说：</p><p>我不能呼吸了，</p><p>我不能呼吸了。</p><h3 id="—-5"><a href="#—-5" class="headerlink" title="—"></a>—</h3><p>警察警告了乌鸦三次，</p><p>乌鸦都没有蹲在地上，</p><p>双手抱住后脑。</p><p>于是警察开枪把乌鸦打死了。</p><p>这下人们的生活里就没有恼人的黑色</p><p>和没完没了的乌鸦叫了。</p><p>大家都很开心。</p><p>完。</p><h2 id="蚂蚁和蟋蟀"><a href="#蚂蚁和蟋蟀" class="headerlink" title="蚂蚁和蟋蟀"></a>蚂蚁和蟋蟀</h2><h3 id="0-2"><a href="#0-2" class="headerlink" title="0"></a>0</h3><p>有一只蚂蚁和蟋蟀是好朋友。</p><p>他们住的也很近。</p><h3 id="—-6"><a href="#—-6" class="headerlink" title="—"></a>—</h3><p>春天的时候，</p><p>蚂蚁忙着采摘新发芽的草苗，</p><p>累地吭哧吭哧的。</p><p>蟋蟀就在一旁唱着歌，</p><p>吸吮着沾了露水的花蜜。</p><p>夏天和秋天的时候，</p><p>蚂蚁还是早出晚归地劳动，</p><p>把各种各样的食物搬去巢里。</p><p>蟋蟀则月下弹着琴，</p><p>跳着舞。</p><p>嘲笑说：</p><p>“傻瓜啊傻瓜，</p><p>又在自讨苦吃，</p><p>为什么就不能像我一样自在呢？”</p><h3 id="—-7"><a href="#—-7" class="headerlink" title="—"></a>—</h3><p>终于，</p><p>冬天来了。</p><p>大雪覆盖了整个森林，</p><p>蟋蟀没有东西吃，</p><p>又冻得发抖。</p><p>他想去找蚂蚁借点吃的，</p><p>可还没有走到，</p><p>就死在了这个厚重的雪里。</p><h3 id="—-8"><a href="#—-8" class="headerlink" title="—"></a>—</h3><p>而我们的蚂蚁呢？</p><p>显然蚁后分给他的那一点食物残渣并不够他活过这个黑夜的。</p><p>他哆哆嗦嗦地，</p><p>吃掉了最后一口饼干碎屑。</p><p>想着，</p><p>自己要是再努力一点就好了，</p><p>当初要是自己多干一些，</p><p>现在就会够吃了吧。</p><p>还是自己不努力啊。</p><p>想完这些，</p><p>蚂蚁也饿死在了这个冬夜里。</p><p>完</p><h2 id="矛盾"><a href="#矛盾" class="headerlink" title="矛盾"></a>矛盾</h2><h3 id="0-3"><a href="#0-3" class="headerlink" title="0"></a>0</h3><p>有一个卖武器的人，</p><p>在城里大呼小叫地吆喝着。</p><p>“我的矛天下第一，没有戳不破的盾。”</p><p>“我的盾世间无双，没有防不住的矛。”</p><h3 id="—-9"><a href="#—-9" class="headerlink" title="—"></a>—</h3><p>他叫地声音很大，</p><p>很多人都围了上来。</p><p>一个读书人指着他的矛和盾问：</p><p>你说你这矛天下第一，没有戳不破的盾？</p><p>那商人说是。</p><p>书生又问：</p><p>你这盾世间无双，没有防不住的矛？</p><p>商人说，对。</p><p>书生大笑：</p><p>那我用你的矛去刺你的盾，</p><p>是矛折了还是盾破了呢？</p><h3 id="—-10"><a href="#—-10" class="headerlink" title="—"></a>—</h3><p>听了书生的话，</p><p>商人并没有说什么，</p><p>只是挥了挥手。</p><p>这时，</p><p>人群里一个男人走了出来，</p><p>说书生怎么这么不懂事呢，</p><p>明明就是宣传效果，</p><p>广告懂不懂？</p><p>非要搞得跟杠精一样。</p><p>一个女生也跑过来，</p><p>说自己用过他们家的盾，</p><p>质量可好了，</p><p>书生没有买过就别唧唧歪歪的。</p><p>人群里又有人喊了一句：</p><p>我知道他，</p><p>他是街角杂货铺的，</p><p>利益相关</p><p>就是来黑的！</p><p>人们声音越来越多，</p><p>也越来越大。</p><p>这个说亲眼看见书生收了钱，</p><p>那个说要去扒皮书生科举时的黑幕。</p><p>书生想辩解几句，</p><p>却发现自己发不出声了。</p><h3 id="—-11"><a href="#—-11" class="headerlink" title="—"></a>—</h3><p>最终，</p><p>书生在大家的口诛笔伐下</p><p>逃离了城里。</p><p>武器商人则是越买越好，</p><p>毕竟是能折断所有矛的盾和能刺破所有盾的矛。</p><p>听说商人都在城里开了店铺，</p><p>还新雇了几个伙计呢。</p><p>大家都瞧这几个伙计眼熟，</p><p>却不记得那里见过了。</p><p>完。</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;一些小的改编故事,带着些哲学气息,很短,但一针见血&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="转载" scheme="https://blog.zhangyisui.top/categories/%E8%BD%AC%E8%BD%BD/"/>
-    
-    
-    <category term="转载" scheme="https://blog.zhangyisui.top/tags/%E8%BD%AC%E8%BD%BD/"/>
-    
-    <category term="小说" scheme="https://blog.zhangyisui.top/tags/%E5%B0%8F%E8%AF%B4/"/>
-    
-    <category term="文学" scheme="https://blog.zhangyisui.top/tags/%E6%96%87%E5%AD%A6/"/>
     
   </entry>
   
