@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2022-05-26T10:04:40.967Z</updated>
+  <updated>2022-06-02T08:16:17.786Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>简单的割韭菜例子</title>
+    <link href="https://blog.zhangyisui.top/posts/ccbffe68/"/>
+    <id>https://blog.zhangyisui.top/posts/ccbffe68/</id>
+    <published>2022-06-02T08:15:48.012Z</published>
+    <updated>2022-06-02T08:16:17.786Z</updated>
+    
+    <content type="html"><![CDATA[<p>有商人路过某村，发现山上全是猴子，就和村民说，我买猴子，100元一只。<span id="more"></span><br>于是村民都去抓猴子，这比种地来钱快多了。很快商人买了两千多只猴子，山上猴子很少了。<br>商人这时又出价200元一只买猴子，村民见猴价翻番，便又纷纷去抓来卖给商人。<br>商人又出价300元一只买猴子，猴子几乎被抓光。<br>商人出价到500元一只，山上已没有猴子，三千多只猴子都在商人这里。<br>这天，商人有事回城，他的助手到村里和农民们说，我把猴子300元一只卖你们，等商人回来，你们500元卖给商人，你们就发财了。<br>村民疯了一般，把锅砸了卖铁，凑够钱，把三千多猴子全买了回去。</p><p>没了</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;有商人路过某村，发现山上全是猴子，就和村民说，我买猴子，100元一只。</summary>
+    
+    
+    
+    <category term="转载" scheme="https://blog.zhangyisui.top/categories/%E8%BD%AC%E8%BD%BD/"/>
+    
+    
+    <category term="社论" scheme="https://blog.zhangyisui.top/tags/%E7%A4%BE%E8%AE%BA/"/>
+    
+    <category term="转载" scheme="https://blog.zhangyisui.top/tags/%E8%BD%AC%E8%BD%BD/"/>
+    
+  </entry>
+  
+  <entry>
     <title>特殊信号符号含义</title>
     <link href="https://blog.zhangyisui.top/posts/d342e8b9/"/>
     <id>https://blog.zhangyisui.top/posts/d342e8b9/</id>
     <published>2022-05-26T10:04:07.916Z</published>
-    <updated>2022-05-26T10:04:40.967Z</updated>
+    <updated>2022-06-02T08:16:20.757Z</updated>
     
     <content type="html"><![CDATA[<p>之前在地下停车场掏出手机的时候手机信号符号上显示的不是平时显示的4G+而是显示出一个E<br>出于好奇查了查<span id="more"></span></p><p>1、G指GPRS，它是GSM移动电话用户可用的一种移动数据业务，GPRS可说是GSM的延续，是2.5G网络。在iPhone手机上显示O；</p><p>2、E指EDGE网络，是增强型数据速率GSM演进技术，属2.75G；</p><p>3、3G指普通3G网络，在国内常见的3G有电信的CDMA2000、联通的WCDMA和移动的TD-SCDMA三种，速度在2-7M；</p><p>4、H见于联通的WCDMA手机上，指3G的升级版HSDPA网络，是3.5G，速度可达14.4M；</p><p>5、H+常见于中国联通的WCDMA手机上，hsdpa的升级版HSPA+，是3.75G，速度可达21M-42M；</p><p>从网络速度对比来看，从慢到快依次是G&lt;E&lt;3G&lt;H&lt;H+</p><p>简单易懂<br>以上</p>]]></content>
     
@@ -445,31 +468,6 @@
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
     
     <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>哥德尔不完备性定理</title>
-    <link href="https://blog.zhangyisui.top/posts/1f7b8460/"/>
-    <id>https://blog.zhangyisui.top/posts/1f7b8460/</id>
-    <published>2022-04-11T14:06:53.478Z</published>
-    <updated>2022-04-11T14:17:04.250Z</updated>
-    
-    <content type="html"><![CDATA[<p>第一定理<br>任意一个包含一阶谓词逻辑与初等数论的形式系统，都存在一个命题，它在这个系统中既不能被证明为真，也不能被证明为否。<br>第二定理<br>如果系统S含有初等数论，当S无矛盾时，它的无矛盾性不可能在S内证明。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;第一定理&lt;br&gt;任意一个包含一阶谓词逻辑与初等数论的形式系统，都存在一个命题，它在这个系统中既不能被证明为真，也不能被证明为否。&lt;br&gt;第二定理&lt;br&gt;如果系统S含有初等数论，当S无矛盾时，它的无矛盾性不可能在S内证明。&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="science" scheme="https://blog.zhangyisui.top/categories/science/"/>
-    
-    
-    <category term="science" scheme="https://blog.zhangyisui.top/tags/science/"/>
     
   </entry>
   
