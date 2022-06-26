@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2022-06-19T06:19:04.409Z</updated>
+  <updated>2022-06-26T02:13:49.770Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>win10如何把“发送到xx”添加到右键</title>
+    <link href="https://blog.zhangyisui.top/posts/a78f83fb/"/>
+    <id>https://blog.zhangyisui.top/posts/a78f83fb/</id>
+    <published>2022-06-26T02:11:41.156Z</published>
+    <updated>2022-06-26T02:13:49.770Z</updated>
+    
+    <content type="html"><![CDATA[<p>win+r后输入“shell:sendto”<br>回车即可进入装有相应应用快捷方式的文件夹<br>把想用的应用的快捷方式拖进去即可<span id="more"></span></p><p>ps：如果看不懂就怪自己笨好喽（认真</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;win+r后输入“shell:sendto”&lt;br&gt;回车即可进入装有相应应用快捷方式的文件夹&lt;br&gt;把想用的应用的快捷方式拖进去即可</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>高效率 高效学习和防止拖延</title>
     <link href="https://blog.zhangyisui.top/posts/ad6c47d/"/>
     <id>https://blog.zhangyisui.top/posts/ad6c47d/</id>
     <published>2022-06-19T06:05:15.777Z</published>
-    <updated>2022-06-19T06:19:04.409Z</updated>
+    <updated>2022-06-19T06:19:25.992Z</updated>
     
     <content type="html"><![CDATA[<p>大量观看所谓高效类的教学视频后总结的结论<span id="more"></span><br>第一点：这类视频很水<br>没了<br>以下就是他们能水六七分钟用于收割流量的内容总结</p><p>高效阅读的方法：<br>先不求甚解<br>多读几遍<br>记读书笔记<br>而后提炼精华</p><p>防拖延的方法：<br>使用计划本<br>而后将行为切割成最小行为单元<br>分为机械单元(简单重复事件)和快速单元(可迅速做完事件)<br>安排日程时直接想好为什么要做这件事<br>这样在做的时候不要思考直接去做就好</p><p>over</p><p>好了，现在我们也可以开始制造废话了</p>]]></content>
     
@@ -441,29 +462,6 @@
     <category term="文章" scheme="https://blog.zhangyisui.top/tags/%E6%96%87%E7%AB%A0/"/>
     
     <category term="转载" scheme="https://blog.zhangyisui.top/tags/%E8%BD%AC%E8%BD%BD/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>删除的原理</title>
-    <link href="https://blog.zhangyisui.top/posts/74035ee1/"/>
-    <id>https://blog.zhangyisui.top/posts/74035ee1/</id>
-    <published>2022-04-13T06:05:14.907Z</published>
-    <updated>2022-04-13T06:45:47.722Z</updated>
-    
-    <content type="html"><![CDATA[<p>知识拿到手里了就简单解释一下<span id="more"></span><br>打个比方，你用积木搭出了一间房，这间房子就相当于你电脑里的文件，然后你让电脑把房拆了，即删除，这时候出现和消失的是房，积木本身一直存在切并无改变</p><p>现在你知道电脑垃圾都去哪了，它们没有消失，只被打乱了</p><p>但在多数文件系统中，删除一个文件后房子依然存在，只是骗你说房不见了，电脑懒得拆，当你需要用这些积木搭其他东西时，电脑就直接从房上取下来几块用在新建的房上面</p><p>这也是一些已经删除的文件可以恢复的原因</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;知识拿到手里了就简单解释一下</summary>
-    
-    
-    
-    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-    <category term="冷知识" scheme="https://blog.zhangyisui.top/tags/%E5%86%B7%E7%9F%A5%E8%AF%86/"/>
     
   </entry>
   
