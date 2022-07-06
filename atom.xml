@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2022-06-28T06:21:18.735Z</updated>
+  <updated>2022-07-06T08:09:07.871Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>TTL是什么以及多少合适</title>
+    <link href="https://blog.zhangyisui.top/posts/fec19fe6/"/>
+    <id>https://blog.zhangyisui.top/posts/fec19fe6/</id>
+    <published>2022-07-06T08:08:15.735Z</published>
+    <updated>2022-07-06T08:09:07.871Z</updated>
+    
+    <content type="html"><![CDATA[<p>直接举例：<span id="more"></span></p><p>有这样一个域名<a href="http://www.111.com,对应ip地址为1.1.1.1,把它的ttl设为3600秒,这条记录存储在一台dns服务器上./">www.111.com，对应IP地址为1.1.1.1，把它的TTL设为3600秒，这条记录存储在一台DNS服务器上。</a></p><p>现在有一个用户在访问<a href="http://www.111.com时,网络服务商的dns就会试图为用户解析www.111.com,当然网络服务商这台dns服务器并没有包含www.111.com这条信息,因此无法立即解析,但是通过全球dns的递归查询后,最终定位到www.111.com这台dns服务器对应的ip地址为1.1.1.1并将结果告诉告诉网络服务商的dns服务器,然后再由/">www.111.com时，网络服务商的DNS就会试图为用户解析www.111.com，当然网络服务商这台DNS服务器并没有包含www.111.com这条信息，因此无法立即解析，但是通过全球DNS的递归查询后，最终定位到www.111.com这台DNS服务器对应的IP地址为1.1.1.1并将结果告诉告诉网络服务商的DNS服务器，然后再由</a> 网络服务商告诉用户结果。</p><p>网络服务商为了以后加快对<a href="http://www.111.com这条记录的解析,就将刚才的1.1.1.1结果保留一段时间,这段时间就是ttl值,在这段时间内如果用户又有对www.111.com这条记录的解析请求,它就直接告诉用户ip地址为1.1.1.1,当ttl到期则又会重复上面的过程./">www.111.com这条记录的解析，就将刚才的1.1.1.1结果保留一段时间，这段时间就是TTL值，在这段时间内如果用户又有对www.111.com这条记录的解析请求，它就直接告诉用户IP地址为1.1.1.1，当TTL到期则又会重复上面的过程。</a></p><p>因此不应该太长或者太短，当然对自己有信心除外，一般默认都是3600也就是一小时，我认为刚好</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;直接举例：</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>几个能让你成为老马的网站</title>
     <link href="https://blog.zhangyisui.top/posts/88146c76/"/>
     <id>https://blog.zhangyisui.top/posts/88146c76/</id>
     <published>2022-06-28T06:04:49.497Z</published>
-    <updated>2022-06-28T06:21:18.735Z</updated>
+    <updated>2022-06-28T06:21:42.256Z</updated>
     
     <content type="html"><![CDATA[<p>识图网站分享<span id="more"></span></p><h2 id="常规图片搜索"><a href="#常规图片搜索" class="headerlink" title="常规图片搜索"></a>常规图片搜索</h2><p><a href="https://www.google.com/imghp">谷歌</a>&amp;<a href="https://image.baidu.com/">百度</a>&amp;<a href="https://pic.sogou.com/">搜狗</a>这种就不介绍了，都知道</p><p>实测目前国内效果最好的还是百度，基本能满足日常识图需求</p><p><a href="https://yandex.com/images/">Yandex</a><br>大概就是俄罗斯的百度，其他几个不行的话可以一试</p><p><a href="https://www.tineye.com/">TinEye</a><br>老牌识图网站，安装浏览器插件后可用右键菜单调用</p><h2 id="专用图片搜索网站"><a href="#专用图片搜索网站" class="headerlink" title="专用图片搜索网站"></a>专用图片搜索网站</h2><p><a href="https://cn.bing.com/visualsearch">必应可视化搜索</a><br>必应的视觉搜索引擎，支持植物、商品、家具、狗狗、文字、人物、建筑等</p><p><a href="https://www.pailitao.com/">拍立淘</a><br>商品搜索，和淘宝功能一致</p><p><a href="https://www.what-dog.net/">你的狗是什么品种？</a><br>如名称，微软的狗狗品种识别网站,效果见仁见智</p><p><a href="https://trace.moe/">WAIT: What Anime Is This?</a><br>通过动漫截图搜图片源，找动漫用</p><p><a href="https://saucenao.com/">SauceNAO Image Search</a><br>知名的图片逆向搜索引擎，专精动漫和插画作品以及二次元图片<br>上传后可获得该图片的来源以及作者主页链接<br>对<a href="https://www.pixiv.net/">p站（pixiv）</a>的识别效果不错</p>]]></content>
     
@@ -411,9 +432,9 @@
     <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
     <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
@@ -437,29 +458,6 @@
     <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
     
     <category term="浏览器" scheme="https://blog.zhangyisui.top/tags/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>当下</title>
-    <link href="https://blog.zhangyisui.top/posts/4874af19/"/>
-    <id>https://blog.zhangyisui.top/posts/4874af19/</id>
-    <published>2022-04-15T08:12:17.391Z</published>
-    <updated>2022-04-15T08:41:49.985Z</updated>
-    
-    <content type="html"><![CDATA[<p>封校期间其实有些时候蛮无聊的,就打开微信的公众号看了看,看到几篇有意思的文章,就就着这个谈谈,所谓”当下”<span id="more"></span><br>首先看到的是<a href="https://mp.weixin.qq.com/s/PghFhKv0wO9qty22MKnkog">这篇</a>(如果文章失效,可以看<a href="/images/%E5%AD%97%E8%8A%82%E6%80%BB%E9%83%A8.jpeg">快照</a>)<br>其实看完之后并没什么感想,卖课的公知味道有点重了,就随便又往下翻了翻<br>看到了<a href="https://mp.weixin.qq.com/s/tKTXm67Atp5mlrQf7vUWLA">另一篇</a><a href="/images/%E5%88%AB%E6%8A%A2%E8%8F%9C.jpeg">快照</a><br>这篇虽然和第一篇毫无关系但却和第一篇的所谓”你越强，世界对你越友善”不谋而合第一篇里强者享受的是物质的富足<br>而在第二篇里的脚本,能用到这些的的又是另一方面的强者,同样也是用于对物质的需求之上<br>这个世界就是这样的,这个世界确实从来就没有公平可言,弱肉强食只是换了个形式表现出来,所谓的幸福美好只是偶尔闪烁的梦幻泡影,但确实这个世界上也确实仍然有渴望公平的人,有心怀希望的人,有的人依然需要光,而我们在这一刻,只能做出选择<br>不过在做出选择之前我希望你看看<a href="https://mp.weixin.qq.com/s/QwWiRY0xJtj52uigpc_nUQ">这个</a>和<a href="https://mp.weixin.qq.com/s/ElfIU435-vjqKq6xmyr1TQ">这个</a>,并问问自己当下的我们应该如何选择<br>他们的快照在<a href="/images/shit.jpeg">这里</a>和<a href="/images/%E4%B8%8A%E6%B5%B7%E4%BA%BA%E7%9A%84%E5%BF%8D%E8%80%90.jpeg">这里</a></p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;封校期间其实有些时候蛮无聊的,就打开微信的公众号看了看,看到几篇有意思的文章,就就着这个谈谈,所谓”当下”</summary>
-    
-    
-    
-    <category term="社论" scheme="https://blog.zhangyisui.top/categories/%E7%A4%BE%E8%AE%BA/"/>
-    
-    
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
-    <category term="社论" scheme="https://blog.zhangyisui.top/tags/%E7%A4%BE%E8%AE%BA/"/>
     
   </entry>
   
