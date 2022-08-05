@@ -1,13 +1,14 @@
 # blog
 
-If you want to read the Chinese version, please slide down  
+If you want to read the Chinese version, please slide down
+中文版在下面
 
 This project is my personal blog  
 Create based on hexo and theme next  
 The ownership of the article belongs to me  
 Please indicate the source of the reprint  
 No commercial use in any form is allowed  
-Another access address:zhangyisui.top  
+Another address:zhangyisui.top  
 welcome visit
 
 这个是我的个人博客项目  
