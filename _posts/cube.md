@@ -2,9 +2,9 @@
 title: cube
 comments: true
 tags:
-  - 
-categories: 小说
-abbrlink: 
+  - 游戏
+categories: 技术
+abbrlink: 30feb1b8
 date:
 updated:
 ---
