@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2023-02-16T13:16:08.378Z</updated>
+  <updated>2023-03-05T15:35:38.228Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -17,11 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>康斯坦丁</title>
+    <link href="https://blog.zhangyisui.top/posts/749a2273/"/>
+    <id>https://blog.zhangyisui.top/posts/749a2273/</id>
+    <published>2023-03-05T15:34:59.597Z</published>
+    <updated>2023-03-05T15:35:38.228Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;禁烟宣传片和上帝自有安排，不管是好是坏，有的人喜欢，有的人不喜欢罢了&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="影评" scheme="https://blog.zhangyisui.top/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+  </entry>
+  
+  <entry>
     <title>路</title>
     <link href="https://blog.zhangyisui.top/posts/b55dde0c/"/>
     <id>https://blog.zhangyisui.top/posts/b55dde0c/</id>
     <published>2023-02-16T13:10:36.331Z</published>
-    <updated>2023-02-16T13:16:08.378Z</updated>
+    <updated>2023-02-16T13:17:03.280Z</updated>
     
     
     <summary type="html">&lt;p&gt;今天是去辞职的日子&lt;/p&gt;
@@ -391,25 +419,6 @@
     
     
     <summary type="html">&lt;p&gt;识图网站分享</summary>
-    
-    
-    
-    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>win10如何把“发送到xx”添加到右键</title>
-    <link href="https://blog.zhangyisui.top/posts/a78f83fb/"/>
-    <id>https://blog.zhangyisui.top/posts/a78f83fb/</id>
-    <published>2022-06-26T02:11:41.156Z</published>
-    <updated>2022-06-26T02:14:10.492Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;win+r后输入“shell:sendto”&lt;br&gt;回车即可进入装有相应应用快捷方式的文件夹&lt;br&gt;把想用的应用的快捷方式拖进去即可</summary>
     
     
     
