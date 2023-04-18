@@ -3,7 +3,7 @@ title: About
 ---
 ***
 
-## About the website
+## About this website
 
 * 建站于: 2020.04.07
 
@@ -13,7 +13,7 @@ title: About
 
 ## About me
 
-* 00后，辣鸡学校大二在读
+* 02年大学牲
 * 业余程序员
 * 二流诗人，三流写手
 * 写自己喜欢的，也写于人有益的
