@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2023-04-05T05:03:24.323Z</updated>
+  <updated>2023-04-18T07:27:07.910Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>流浪地球2</title>
+    <link href="https://blog.zhangyisui.top/posts/1d91adf8/"/>
+    <id>https://blog.zhangyisui.top/posts/1d91adf8/</id>
+    <published>2023-04-18T07:25:28.207Z</published>
+    <updated>2023-04-18T07:27:07.910Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;发现网上可以看了&lt;br&gt;对大刘还是很有信心的&lt;br&gt;于是就看了下</summary>
+    
+    
+    
+    <category term="影评" scheme="https://blog.zhangyisui.top/categories/%E5%BD%B1%E8%AF%84/"/>
+    
+    
+    <category term="影评" scheme="https://blog.zhangyisui.top/tags/%E5%BD%B1%E8%AF%84/"/>
+    
+  </entry>
+  
+  <entry>
     <title>重庆森林</title>
     <link href="https://blog.zhangyisui.top/posts/4971f236/"/>
     <id>https://blog.zhangyisui.top/posts/4971f236/</id>
     <published>2023-04-05T05:01:37.126Z</published>
-    <updated>2023-04-05T05:03:24.323Z</updated>
+    <updated>2023-04-05T05:04:15.219Z</updated>
     
     
     <summary type="html">&lt;p&gt;人的一生会遇见很多人</summary>
@@ -402,25 +421,6 @@
     
     
     <summary type="html">&lt;p&gt;写了个bat，为了方便想把它固定到开始菜单里&lt;br&gt;一试方知，win10系统只允许可执行文件(exe)固定到开始菜单上，普通文件（包括bat脚本文件）是不能固定到开始菜单上的&lt;br&gt;查了查，有个很简单的办法如下：</summary>
-    
-    
-    
-    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>TTL是什么以及多少合适</title>
-    <link href="https://blog.zhangyisui.top/posts/fec19fe6/"/>
-    <id>https://blog.zhangyisui.top/posts/fec19fe6/</id>
-    <published>2022-07-06T08:08:15.735Z</published>
-    <updated>2022-07-06T08:09:36.633Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;直接举例：</summary>
     
     
     
