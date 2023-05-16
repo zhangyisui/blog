@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2023-05-02T00:15:43.801Z</updated>
+  <updated>2023-05-16T02:44:57.991Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>如果现在的我对海会产生什么感觉的话</title>
+    <link href="https://blog.zhangyisui.top/posts/113435a2/"/>
+    <id>https://blog.zhangyisui.top/posts/113435a2/</id>
+    <published>2023-05-16T02:43:35.382Z</published>
+    <updated>2023-05-16T02:44:57.991Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;几天前去了下海边&lt;br&gt;可就算站在海边却也会感觉到感觉无聊</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
     <title>你眼中的世界</title>
     <link href="https://blog.zhangyisui.top/posts/85db95ce/"/>
     <id>https://blog.zhangyisui.top/posts/85db95ce/</id>
     <published>2023-05-02T00:14:56.785Z</published>
-    <updated>2023-05-02T00:15:43.801Z</updated>
+    <updated>2023-05-02T00:16:31.252Z</updated>
     
     
     <summary type="html">&lt;p&gt;如果是以前的我会认为这是个相当不错的故事</summary>
@@ -409,25 +430,6 @@
     
     
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Arduino、arm、树莓派、单片机四者有何不同？</title>
-    <link href="https://blog.zhangyisui.top/posts/2e853a23/"/>
-    <id>https://blog.zhangyisui.top/posts/2e853a23/</id>
-    <published>2022-07-21T10:12:24.718Z</published>
-    <updated>2022-07-22T05:21:38.992Z</updated>
-    
-    
-    <summary type="html">&lt;h2 id=&quot;分开讲&quot;&gt;&lt;a href=&quot;#分开讲&quot; class=&quot;headerlink&quot; title=&quot;分开讲&quot;&gt;&lt;/a&gt;分开讲&lt;/h2&gt;</summary>
-    
-    
-    
-    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
