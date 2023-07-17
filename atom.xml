@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2023-06-26T09:59:01.679Z</updated>
+  <updated>2023-07-17T07:27:18.016Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>一首没有曲子的歌</title>
+    <link href="https://blog.zhangyisui.top/posts/f83433cf/"/>
+    <id>https://blog.zhangyisui.top/posts/f83433cf/</id>
+    <published>2023-07-17T07:14:27.775Z</published>
+    <updated>2023-07-17T07:27:18.016Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;不为自己而歌</summary>
+    
+    
+    
+    <category term="词" scheme="https://blog.zhangyisui.top/categories/%E8%AF%8D/"/>
+    
+    
+    <category term="文艺" scheme="https://blog.zhangyisui.top/tags/%E6%96%87%E8%89%BA/"/>
+    
+    <category term="词" scheme="https://blog.zhangyisui.top/tags/%E8%AF%8D/"/>
+    
+  </entry>
+  
+  <entry>
     <title>一些似是而非的废话</title>
     <link href="https://blog.zhangyisui.top/posts/8b0af85b/"/>
     <id>https://blog.zhangyisui.top/posts/8b0af85b/</id>
     <published>2023-06-26T09:50:44.866Z</published>
-    <updated>2023-06-26T09:59:01.679Z</updated>
+    <updated>2023-06-26T10:32:30.459Z</updated>
     
     
     <summary type="html">&lt;p&gt;就这样结束了实习，姑且也算是毕业了</summary>
@@ -415,25 +436,6 @@
     <category term="转载" scheme="https://blog.zhangyisui.top/tags/%E8%BD%AC%E8%BD%BD/"/>
     
     <category term="科技" scheme="https://blog.zhangyisui.top/tags/%E7%A7%91%E6%8A%80/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>如何按每行字数排列文本</title>
-    <link href="https://blog.zhangyisui.top/posts/aa4c9428/"/>
-    <id>https://blog.zhangyisui.top/posts/aa4c9428/</id>
-    <published>2022-08-21T06:01:39.369Z</published>
-    <updated>2022-08-21T06:05:11.090Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;本意只是想满足一下自己的强迫症&lt;br&gt;把自己的电影片单按字数排列一下&lt;br&gt;顺便发篇博文也不错</summary>
-    
-    
-    
-    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
     
   </entry>
   
