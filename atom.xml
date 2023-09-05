@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2023-08-17T12:09:50.410Z</updated>
+  <updated>2023-09-05T06:53:41.518Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -17,11 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>暴论</title>
+    <link href="https://blog.zhangyisui.top/posts/c4b8f5ad/"/>
+    <id>https://blog.zhangyisui.top/posts/c4b8f5ad/</id>
+    <published>2023-09-05T06:52:12.335Z</published>
+    <updated>2023-09-05T06:53:41.518Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;每次到政府机关或者是一些公立机构办事总是感觉很麻烦</summary>
+    
+    
+    
+    <category term="社论" scheme="https://blog.zhangyisui.top/categories/%E7%A4%BE%E8%AE%BA/"/>
+    
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="社论" scheme="https://blog.zhangyisui.top/tags/%E7%A4%BE%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
     <title>观察者</title>
     <link href="https://blog.zhangyisui.top/posts/889b3f6b/"/>
     <id>https://blog.zhangyisui.top/posts/889b3f6b/</id>
     <published>2023-08-17T12:08:45.629Z</published>
-    <updated>2023-08-17T12:09:50.410Z</updated>
+    <updated>2023-08-17T12:10:20.266Z</updated>
     
     
     <summary type="html">&lt;p&gt;感觉自己像是一个观察者</summary>
@@ -412,27 +433,6 @@
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
     
     <category term="社论" scheme="https://blog.zhangyisui.top/tags/%E7%A4%BE%E8%AE%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>super</title>
-    <link href="https://blog.zhangyisui.top/posts/d6c1da0e/"/>
-    <id>https://blog.zhangyisui.top/posts/d6c1da0e/</id>
-    <published>2022-09-10T22:48:35.468Z</published>
-    <updated>2022-09-11T01:23:06.573Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;还算不错的cult片&lt;br&gt;想看的时候找来找去总找不到&lt;br&gt;被同名的印度电影烦的够呛&lt;/p&gt;</summary>
-    
-    
-    
-    <category term="影评" scheme="https://blog.zhangyisui.top/categories/%E5%BD%B1%E8%AF%84/"/>
-    
-    
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
-    <category term="影评" scheme="https://blog.zhangyisui.top/tags/%E5%BD%B1%E8%AF%84/"/>
     
   </entry>
   
