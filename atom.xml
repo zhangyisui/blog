@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2023-10-19T12:14:52.732Z</updated>
+  <updated>2023-11-03T02:04:56.389Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>自由的活法</title>
+    <link href="https://blog.zhangyisui.top/posts/7e649ce0/"/>
+    <id>https://blog.zhangyisui.top/posts/7e649ce0/</id>
+    <published>2023-11-03T02:00:34.813Z</published>
+    <updated>2023-11-03T02:04:56.389Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;面对将死之人，他们说，想吃点啥就吃点啥吧</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
     <title>关于生活的一些感慨</title>
     <link href="https://blog.zhangyisui.top/posts/87ee2dc8/"/>
     <id>https://blog.zhangyisui.top/posts/87ee2dc8/</id>
     <published>2023-10-19T12:05:16.237Z</published>
-    <updated>2023-10-19T12:14:52.732Z</updated>
+    <updated>2023-10-19T12:15:39.894Z</updated>
     
     
     <summary type="html">&lt;p&gt;今年也22岁了，回顾我之前的人生，感觉算是一点也没活明白</summary>
@@ -411,27 +430,6 @@
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
     
     <category term="社论" scheme="https://blog.zhangyisui.top/tags/%E7%A4%BE%E8%AE%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>about Microsoft office E5</title>
-    <link href="https://blog.zhangyisui.top/posts/ec166fc2/"/>
-    <id>https://blog.zhangyisui.top/posts/ec166fc2/</id>
-    <published>2022-10-14T08:48:17.350Z</published>
-    <updated>2022-10-14T08:51:26.413Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;Microsoft 365 E5&lt;br&gt;是为开发人员准备的可免费使用的office365专业版&lt;br&gt;这里仅指路，不做教程&lt;br&gt;建议且用且珍惜</summary>
-    
-    
-    
-    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
-    
-    <category term="资源" scheme="https://blog.zhangyisui.top/tags/%E8%B5%84%E6%BA%90/"/>
     
   </entry>
   
