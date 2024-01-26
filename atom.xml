@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2023-12-27T04:58:59.193Z</updated>
+  <updated>2024-01-26T11:23:14.294Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -17,11 +17,30 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>胡言 和几个小工具</title>
+    <link href="https://blog.zhangyisui.top/posts/9290694c/"/>
+    <id>https://blog.zhangyisui.top/posts/9290694c/</id>
+    <published>2024-01-26T09:22:00.633Z</published>
+    <updated>2024-01-26T11:23:14.294Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;感觉时间流逝的速度对我来说显著的变快了</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="技术，资源" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF%EF%BC%8C%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
+  
+  <entry>
     <title>我的回合！抽牌！</title>
     <link href="https://blog.zhangyisui.top/posts/28def0e1/"/>
     <id>https://blog.zhangyisui.top/posts/28def0e1/</id>
     <published>2023-12-27T04:57:51.903Z</published>
-    <updated>2023-12-27T04:58:59.193Z</updated>
+    <updated>2023-12-27T05:19:47.763Z</updated>
     
     
     <summary type="html">&lt;p&gt;最近在家里躺平，晚上偶尔会和家人在一起打打牌，玩玩红十，这种玩法规则简单过程也比较快，我个人认为这种规则对个人的水平需求并不高，反而是运气相对来说更重要一些。</summary>
@@ -407,27 +426,6 @@
     
     
     <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>社会矛盾</title>
-    <link href="https://blog.zhangyisui.top/posts/1bef9214/"/>
-    <id>https://blog.zhangyisui.top/posts/1bef9214/</id>
-    <published>2022-11-10T01:04:04.383Z</published>
-    <updated>2022-11-10T01:11:52.587Z</updated>
-    
-    
-    <summary type="html">&lt;p&gt;多数的社会问题</summary>
-    
-    
-    
-    <category term="社论" scheme="https://blog.zhangyisui.top/categories/%E7%A4%BE%E8%AE%BA/"/>
-    
-    
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
-    <category term="社论" scheme="https://blog.zhangyisui.top/tags/%E7%A4%BE%E8%AE%BA/"/>
     
   </entry>
   
