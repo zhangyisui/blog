@@ -20,5 +20,5 @@ title: About
 
 ## Contact me
 
-* E-mail: hechugetqiufrost@outlook.com
+* E-mail: zhangyisui@zhangyisui.top
 * 公众号：冇趣阁
