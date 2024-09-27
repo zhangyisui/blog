@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 6.3.0">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/avatar.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/avatar.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/avatar.png">
+  <link rel="mask-icon" href="/images/avatar.png" color="#222">
+
+<link rel="stylesheet" href="/css/main.css">
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha256-Z1K5uhUaJXA7Ll0XrZ/0JhX4lAtZFpT6jkKrEDT0drU=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+
+<script class="next-config" data-name="main" type="application/json">{"hostname":"blog.zhangyisui.top","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.14.1","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":true,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":4,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+
+    <meta name="description" content="Windows类标识符，用来标记&#x2F;代表一些系统应用。新建一个文件夹，将名字改为以下标识符中的一个，即可将文件夹变为对应的入口。通过这种方式可以实现对文件夹或文件的隐藏。">
+<meta property="og:type" content="article">
+<meta property="og:title" content="类标识符的一些妙用">
+<meta property="og:url" content="https://blog.zhangyisui.top/posts/102420fd/index.html">
+<meta property="og:site_name" content="一阁">
+<meta property="og:description" content="Windows类标识符，用来标记&#x2F;代表一些系统应用。新建一个文件夹，将名字改为以下标识符中的一个，即可将文件夹变为对应的入口。通过这种方式可以实现对文件夹或文件的隐藏。">
+<meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2024-09-27T14:42:37.645Z">
+<meta property="article:modified_time" content="2024-09-27T14:50:29.576Z">
+<meta property="article:author" content="zhangyisui">
+<meta property="article:tag" content="技术">
+<meta name="twitter:card" content="summary">
+
+
+<link rel="canonical" href="https://blog.zhangyisui.top/posts/102420fd/">
+
+
+
+<script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://blog.zhangyisui.top/posts/102420fd/","path":"posts/102420fd/","title":"类标识符的一些妙用"}</script>
+
+<script class="next-config" data-name="calendar" type="application/json">""</script>
+<title>类标识符的一些妙用 | 一阁</title>
+  
+
+  <script src="/js/third-party/analytics/baidu-analytics.js"></script>
+  <script async src="https://hm.baidu.com/hm.js?e292488a5341a370508618b517fdc72e"></script>
+
+
+
+
+
+  <script async defer data-website-id="" src=""></script>
+
+  <script defer data-domain="" src=""></script>
+<link rel="dns-prefetch" href="https://comment.zhangyisui.top/">
+  <noscript>
+    <link rel="stylesheet" href="/css/noscript.css">
+  </noscript>
+<link rel="alternate" href="/atom.xml" title="一阁" type="application/atom+xml">
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" class="use-motion">
+  <div class="headband"></div>
+
+  <main class="main">
+    <div class="column">
+      <header class="header" itemscope itemtype="http://schema.org/WPHeader"><div class="site-brand-container">
+  <div class="site-nav-toggle">
+    <div class="toggle" aria-label="切换导航栏" role="button">
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+        <span class="toggle-line"></span>
+    </div>
+  </div>
+
+  <div class="site-meta">
+
+    <a href="/" class="brand" rel="start">
+      <i class="logo-line"></i>
+      <p class="site-title">一阁</p>
+      <i class="logo-line"></i>
+    </a>
+      <p class="site-subtitle" itemprop="description">迈步向死,且歌且行</p>
+  </div>
+
+  <div class="site-nav-right">
+    <div class="toggle popup-trigger" aria-label="搜索" role="button">
+        <i class="fa fa-search fa-fw fa-lg"></i>
+    </div>
+  </div>
+</div>
+
+
+
+<nav class="site-nav">
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li><li class="menu-item menu-item-rss"><a href="/atom.xml" rel="section"><i class="fa fa-rss fa-fw"></i>RSS</a></li>
+      <li class="menu-item menu-item-search">
+        <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
+        </a>
+      </li>
+  </ul>
+</nav>
+
+
+
+  <div class="search-pop-overlay">
+    <div class="popup search-popup"><div class="search-header">
+  <span class="search-icon">
+    <i class="fa fa-search"></i>
+  </span>
+  <div class="search-input-container">
+    <input autocomplete="off" autocapitalize="off" maxlength="80"
+           placeholder="搜索..." spellcheck="false"
+           type="search" class="search-input">
+  </div>
+  <span class="popup-btn-close" role="button">
+    <i class="fa fa-times-circle"></i>
+  </span>
+</div>
+<div class="search-result-container no-result">
+  <div class="search-result-icon">
+    <i class="fa fa-spinner fa-pulse fa-5x"></i>
+  </div>
+</div>
+
+    </div>
+  </div>
+
+</header>
+        
+  
+  <aside class="sidebar">
+
+    <div class="sidebar-inner sidebar-overview-active">
+      <ul class="sidebar-nav">
+        <li class="sidebar-nav-toc">
+          文章目录
+        </li>
+        <li class="sidebar-nav-overview">
+          站点概览
+        </li>
+      </ul>
+
+      <div class="sidebar-panel-container">
+        <!--noindex-->
+        <div class="post-toc-wrap sidebar-panel">
+        </div>
+        <!--/noindex-->
+
+        <div class="site-overview-wrap sidebar-panel">
+          <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
+    <img class="site-author-image" itemprop="image" alt="zhangyisui"
+      src="/images/avatar1.png">
+  <p class="site-author-name" itemprop="name">zhangyisui</p>
+  <div class="site-description" itemprop="description">尽可为欢欢亦短，浮生若梦梦几何</div>
+</div>
+<div class="site-state-wrap animated">
+  <nav class="site-state">
+      <div class="site-state-item site-state-posts">
+        <a href="/archives/">
+          <span class="site-state-item-count">132</span>
+          <span class="site-state-item-name">日志</span>
+        </a>
+      </div>
+      <div class="site-state-item site-state-categories">
+          <a href="/categories/">
+        <span class="site-state-item-count">17</span>
+        <span class="site-state-item-name">分类</span></a>
+      </div>
+      <div class="site-state-item site-state-tags">
+          <a href="/tags/">
+        <span class="site-state-item-count">32</span>
+        <span class="site-state-item-name">标签</span></a>
+      </div>
+  </nav>
+</div>
+  <div class="links-of-author animated">
+      <span class="links-of-author-item">
+        <a href="https://github.com/zhangyisui" title="GitHub → https:&#x2F;&#x2F;github.com&#x2F;zhangyisui" rel="noopener me" target="_blank"><i class="fab fa-github fa-fw"></i>GitHub</a>
+      </span>
+      <span class="links-of-author-item">
+        <a href="mailto:zhangyisui@zhangyisui.top" title="E-Mail → mailto:zhangyisui@zhangyisui.top" rel="noopener me" target="_blank"><i class="fa fa-envelope fa-fw"></i>E-Mail</a>
+      </span>
+  </div>
+
+        </div>
+      </div>
+    </div>
+
+    
+    <div class="sidebar-inner sidebar-blogroll">
+      <div class="links-of-blogroll animated">
+        <div class="links-of-blogroll-title"><i class="fa fa-globe fa-fw"></i>
+          链接
+        </div>
+        <ul class="links-of-blogroll-list">
+            <li class="links-of-blogroll-item">
+              <a href="https://www.zhangyisui.top/" title="https:&#x2F;&#x2F;www.zhangyisui.top&#x2F;" rel="noopener" target="_blank">引导页</a>
+            </li>
+            <li class="links-of-blogroll-item">
+              <a href="https://tool.zhangyisui.top/" title="https:&#x2F;&#x2F;tool.zhangyisui.top&#x2F;" rel="noopener" target="_blank">工具集</a>
+            </li>
+            <li class="links-of-blogroll-item">
+              <a href="http://zhangyebai.ysepan.com/" title="http:&#x2F;&#x2F;zhangyebai.ysepan.com&#x2F;" rel="noopener" target="_blank">资源页</a>
+            </li>
+            <li class="links-of-blogroll-item">
+              <a href="https://cube.zhangyisui.top/" title="https:&#x2F;&#x2F;cube.zhangyisui.top&#x2F;" rel="noopener" target="_blank">Cube</a>
+            </li>
+        </ul>
+      </div>
+    </div>
+  </aside>
+
+
+    </div>
+
+    <div class="main-inner post posts-expand">
+
+
+  
+
+
+<div class="post-block">
+  
+  
+
+  <article itemscope itemtype="http://schema.org/Article" class="post-content" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://blog.zhangyisui.top/posts/102420fd/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar1.png">
+      <meta itemprop="name" content="zhangyisui">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="一阁">
+      <meta itemprop="description" content="尽可为欢欢亦短，浮生若梦梦几何">
+    </span>
+
+    <span hidden itemprop="post" itemscope itemtype="http://schema.org/CreativeWork">
+      <meta itemprop="name" content="类标识符的一些妙用 | 一阁">
+      <meta itemprop="description" content="">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          类标识符的一些妙用
+        </h1>
+
+        <div class="post-meta-container">
+          <div class="post-meta">
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-calendar"></i>
+      </span>
+      <span class="post-meta-item-text">发表于</span>
+      
+
+      <time title="创建时间：2024-09-27 22:42:37 / 修改时间：22:50:29" itemprop="dateCreated datePublished" datetime="2024-09-27T22:42:37+08:00">2024-09-27</time>
+    </span>
+    <span class="post-meta-item">
+      <span class="post-meta-item-icon">
+        <i class="far fa-folder"></i>
+      </span>
+      <span class="post-meta-item-text">分类于</span>
+        <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+          <a href="/categories/%E6%8A%80%E6%9C%AF/" itemprop="url" rel="index"><span itemprop="name">技术</span></a>
+        </span>
+    </span>
+
+  
+  
+  <span class="post-meta-item">
+    
+    <span class="post-meta-item-icon">
+      <i class="far fa-comment"></i>
+    </span>
+    <span class="post-meta-item-text">评论数：</span>
+  
+    <a title="waline" href="/posts/102420fd/#waline" itemprop="discussionUrl">
+      <span class="post-comments-count waline-comment-count" data-path="/posts/102420fd/" itemprop="commentCount"></span>
+    </a>
+  </span>
+  
+  
+    <span class="post-meta-break"></span>
+    <span class="post-meta-item" title="本文字数">
+      <span class="post-meta-item-icon">
+        <i class="far fa-file-word"></i>
+      </span>
+      <span class="post-meta-item-text">本文字数：</span>
+      <span>2.3k</span>
+    </span>
+    <span class="post-meta-item" title="阅读时长">
+      <span class="post-meta-item-icon">
+        <i class="far fa-clock"></i>
+      </span>
+      <span class="post-meta-item-text">阅读时长 &asymp;</span>
+      <span>4 分钟</span>
+    </span>
+</div>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+        <p>Windows类标识符，用来标记&#x2F;代表一些系统应用。<br>新建一个文件夹，将名字改为以下标识符中的一个，即可将文件夹变为对应的入口。<br>通过这种方式可以实现对文件夹或文件的隐藏。<span id="more"></span><br>当需要打开时，使用压缩软件打开，然后将文件名改回去即可，其中的文件并不会受到影响。<br>进行简单的尝试即可掌握<br>此处不赘述</p>
+<p>以下是标识符：<br>回收站.{645ff040-5081-101b-9f08-00aa002f954e}<br>回收站(满).{5ef4af3a-f726-11d0-b8a2-00c04fc309a4}<br>拨号网络.{992CFFA0-F557-101A-88EC-00DD010CCC48}<br>打印机.{2227a280-3aea-1069-a2de-08002b30309d}<br>控制面板.{21ec2020-3aea-1069-a2dd-08002b30309d}<br>网上邻居.{208D2C60-3AEA-1069-A2D7-08002B30309D}<br>无关联文件 文件名.{00021401-0000-0000-c000-000000000046}<br>BMP文件 文件名.{d3e34b21-9d75-101a-8c3d-00aa001a1652}<br>HTML文件 文件名.{25336920-03f9-11cf-8fd0-00aa00686f13}<br>媒体剪辑文件 文件名.{00022601-0000-0000-c000-000000000046}<br>计划任务 文件名.{D6277990-4c6a-11cf-8d87-00aa0060f5bf}<br>Web文件夹 文件名.{Bdeadf00-C265-11d0-Bced-00a0c90ab50f}<br>历史记录 文件名.{Ff393560-C2a7-11cf-Bff4-444553540000}<br>收藏夹 文件名.{1a9ba3a0-143a-11cf-8350-444553540000}<br>预订文件夹 文件名.{F5175861-2688-11d0-9c5e-00aa00a45957}<br>ActiveX高速缓存文件夹文件名.{88c6c381-2e85-11d0-94de-444553540000}<br>excel.{00020810-0000-0000-C000-000000000046}<br>word.{00020900-0000-0000-C000-000000000046}<br>media.{00022603-0000-0000-C000-000000000046}<br>我的文档.{450D8FBA-AD25-11D0-98A8-0800361B1103}<br>XML.{48123bc4-99d9-11d1-a6b3-00c04fd91555}<br>ftp_folder.{63da6ec0-2e98-11cf-8d82-444553540000}<br>网络和拨号连接.{7007ACC7-3202-11D1-AAD2-00805FC1270E}<br>写字板文档.{73FDDC80-AEA9-101A-98A7-00AA00374959}<br>Temporary Offline Files Cleaner.{750fdf0f-2a26-11d1-a3ea-080036587f03}<br>用户和密码.{7A9D77BD-5403-11d2-8785-2E0420524153}<br>Internet 临时文件.{7BD29E00-76C1-11CF-9DD0-00A0C9034933}<br>已下载的程序文件的清除程序.{8369AB20-56C9-11D0-94E8-00AA0059CE02}<br>公文包.{85BBD920-42A0-1069-A2E4-08002B30309D}<br>mail.{9E56BE60-C50F-11CF-9A2C-00A0C90A90CE}<br>目录.{fe1290f0-cfbd-11cf-a330-00aa00c16e65}<br>Internet Explorer.{FBF23B42-E3F0-101B-8488-00AA003E56F8}<br>Snapshot File.{FACB5ED2-7F99-11D0-ADE2-00A0C90DC8D9}<br>MyDocs Drop Target.{ECF03A32-103D-11d2-854D-006008059367}<br>Policy Package.{ecabaebd-7f19-11d2-978E-0000f8757e2a}<br>搜索结果.{e17d4fc0-5564-11d1-83f2-00a0c90dc849}<br>添加网上邻居.{D4480A50-BA28-11d1-8E75-00C04FA31A86}<br>Paint.{D3E34B21-9D75-101A-8C3D-00AA001A1652}<br>管理工具.{D20EA4E1-3957-11d2-A40B-0C5020524153}<br>字体.{D20EA4E1-3957-11d2-A40B-0C5020524152}<br>Web Folders.{BDEADF00-C265-11d0-BCED-00A0C90AB50F}<br>DocFind Command.{B005E690-678D-11d1-B758-00A0C90564FE}<br>脱机文件夹.{AFDB1F70-2A4C-11d2-9039-00C04F8EEB3E}<br>Internet Explorer.{871C5380-42A0-1069-A2EA-08002B30309D}</p>
+<p>还有一个可能会有用的<br>上帝模式&#x2F;完全控制面板.{ED7BA470-8E54-465E-825C-99712043E01C}</p>
+
+    </div>
+
+    
+    
+    
+
+    <footer class="post-footer">
+          <div class="followme">
+  <span>欢迎关注我的其它发布渠道</span>
+
+  <div class="social-list">
+
+      <div class="social-item">
+          <a target="_blank" class="social-link" href="/atom.xml">
+            <span class="icon">
+              <i class="fa fa-rss"></i>
+            </span>
+
+            <span class="label">RSS</span>
+          </a>
+      </div>
+  </div>
+</div>
+
+          <div class="post-tags">
+              <a href="/tags/%E6%8A%80%E6%9C%AF/" rel="tag"># 技术</a>
+          </div>
+
+        
+
+          <div class="post-nav">
+            <div class="post-nav-item">
+                <a href="/posts/bad45a74/" rel="prev" title="是诗">
+                  <i class="fa fa-chevron-left"></i> 是诗
+                </a>
+            </div>
+            <div class="post-nav-item">
+            </div>
+          </div>
+    </footer>
+  </article>
+</div>
+
+
+
+
+
+
+    <div class="comments" id="waline"></div>
+</div>
+  </main>
+
+  <footer class="footer">
+    <div class="footer-inner">
+
+
+<div class="copyright">
+  &copy; 2020 – 
+  <span itemprop="copyrightYear">2024</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">zhangyisui</span>
+</div>
+
+<div>
+<span id="timeDate">载入天数...</span><span id="times">载入时分秒...</span>
+<script>
+    var now = new Date(); 
+    function createtime() { 
+        var grt= new Date("04/07/2020 12:00:00");//在此处修改你的建站时间
+        now.setTime(now.getTime()+250); 
+        days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days); 
+        hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours); 
+        if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum); 
+        mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;} 
+        seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum); 
+        snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;} 
+        document.getElementById("timeDate").innerHTML = "已运行 "+dnum+" 天 "; 
+        document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒"; 
+    } 
+setInterval("createtime()",250);
+</script>
+</div>
+
+    </div>
+  </footer>
+
+  
+  <div class="back-to-top" role="button" aria-label="返回顶部">
+    <i class="fa fa-arrow-up fa-lg"></i>
+    <span>0%</span>
+  </div>
+
+<noscript>
+  <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
+</noscript>
+
+
+  
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pangu/4.0.7/pangu.min.js" integrity="sha256-j+yj56cdEY2CwkVtGyz18fNybFGpMGJ8JxG3GSyO2+I=" crossorigin="anonymous"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.1/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous"></script>
+<script src="/js/third-party/search/local-search.js"></script>
+
+
+
+
+
+  
+
+
+
+
+
+<script class="next-config" data-name="waline" type="application/json">{"lang":"zh-CN","enable":true,"serverURL":"https://comment.zhangyisui.top/","cssUrl":"https://unpkg.com/@waline/client@v2/dist/waline.css","commentCount":false,"pageview":false,"copyright":false,"allowUploadImage":false,"libUrl":"https://unpkg.com/@waline/client@v2/dist/waline.js","locale":{"placeholder":"辞达而已矣."},"emoji":["https://unpkg.com/@waline/emojis@1.0.1/weibo","https://unpkg.com/@waline/emojis@1.0.1/alus","https://unpkg.com/@waline/emojis@1.0.1/bilibili","https://unpkg.com/@waline/emojis@1.0.1/qq","https://unpkg.com/@waline/emojis@1.0.1/tieba","https://unpkg.com/@waline/emojis@1.0.1/tw-emoji"],"meta":["nick","mail","link"],"login":"enable","pageSize":10,"qiniuDebug":false,"qiniuDomain":"https://qiniu.example.cn","qiniuTokenUrl":"https://api.example.cn/qiniu/sdk/token/upload","el":"#waline","comment":true,"path":"/posts/102420fd/","dark":"auto"}</script>
+<link rel="stylesheet" href="https://unpkg.com/@waline/client@v2/dist/waline.css">
+<script>
+document.addEventListener('page:loaded', () => {
+  if (!CONFIG.waline.allowUploadImage) {
+    CONFIG.waline.imageUploader = false;
+  }
+  else if (CONFIG.waline.qiniuDomain && CONFIG.waline.qiniuTokenUrl) {
+    CONFIG.waline.imageUploader = qiniuUploadImage;
+  } else {
+   CONFIG.waline.imageUploader = true;
+  }
+  NexT.utils.loadComments(CONFIG.waline.el).then(() =>
+    NexT.utils.getScript(CONFIG.waline.libUrl, { condition: window.Waline })
+  ).then(() => 
+    Waline.init(Object.assign({}, CONFIG.waline,{ el: document.querySelector(CONFIG.waline.el) }))
+  );
+});
+</script>
+
+</body>
+</html>

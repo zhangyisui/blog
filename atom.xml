@@ -6,7 +6,7 @@
   <link href="https://blog.zhangyisui.top/atom.xml" rel="self"/>
   
   <link href="https://blog.zhangyisui.top/"/>
-  <updated>2024-08-31T12:02:02.763Z</updated>
+  <updated>2024-09-27T14:50:29.576Z</updated>
   <id>https://blog.zhangyisui.top/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>类标识符的一些妙用</title>
+    <link href="https://blog.zhangyisui.top/posts/102420fd/"/>
+    <id>https://blog.zhangyisui.top/posts/102420fd/</id>
+    <published>2024-09-27T14:42:37.645Z</published>
+    <updated>2024-09-27T14:50:29.576Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;Windows类标识符，用来标记&amp;#x2F;代表一些系统应用。&lt;br&gt;新建一个文件夹，将名字改为以下标识符中的一个，即可将文件夹变为对应的入口。&lt;br&gt;通过这种方式可以实现对文件夹或文件的隐藏。</summary>
+    
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+    <category term="技术" scheme="https://blog.zhangyisui.top/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
   
   <entry>
     <title>是诗</title>
@@ -57,9 +76,9 @@
     <category term="随笔" scheme="https://blog.zhangyisui.top/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
     <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
@@ -78,9 +97,9 @@
     <category term="随笔" scheme="https://blog.zhangyisui.top/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
     <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
@@ -99,9 +118,9 @@
     <category term="随笔" scheme="https://blog.zhangyisui.top/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
     <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
@@ -120,9 +139,9 @@
     <category term="随笔" scheme="https://blog.zhangyisui.top/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
     <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
@@ -304,9 +323,9 @@
     <category term="随笔" scheme="https://blog.zhangyisui.top/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
     <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
@@ -325,9 +344,9 @@
     <category term="随笔" scheme="https://blog.zhangyisui.top/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
     <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
@@ -346,9 +365,9 @@
     <category term="随笔" scheme="https://blog.zhangyisui.top/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
-    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
-    
     <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="杂谈" scheme="https://blog.zhangyisui.top/tags/%E6%9D%82%E8%B0%88/"/>
     
   </entry>
   
@@ -399,34 +418,6 @@
     
     
     <summary type="html">&lt;p&gt;人的一生会遇见很多人</summary>
-    
-    
-    
-    <category term="随笔" scheme="https://blog.zhangyisui.top/categories/%E9%9A%8F%E7%AC%94/"/>
-    
-    
-    <category term="随笔" scheme="https://blog.zhangyisui.top/tags/%E9%9A%8F%E7%AC%94/"/>
-    
-    <category term="影评" scheme="https://blog.zhangyisui.top/tags/%E5%BD%B1%E8%AF%84/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>康斯坦丁</title>
-    <link href="https://blog.zhangyisui.top/posts/749a2273/"/>
-    <id>https://blog.zhangyisui.top/posts/749a2273/</id>
-    <published>2023-03-05T15:34:59.597Z</published>
-    <updated>2023-03-05T15:36:19.567Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;禁烟宣传片和上帝自有安排，不管是好是坏，有的人喜欢，有的人不喜欢罢了&lt;/p&gt;
-</summary>
-        
-      
     
     
     
