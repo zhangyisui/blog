@@ -3,21 +3,24 @@
 <head>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
-<meta name="theme-color" content="#222"><meta name="generator" content="Hexo 6.3.0">
+<meta name="theme-color" content="#222" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#222" media="(prefers-color-scheme: dark)"><meta name="generator" content="Hexo 6.3.0">
 
-  <link rel="apple-touch-icon" sizes="180x180" href="/images/avatar.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/images/avatar.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/images/avatar.png">
-  <link rel="mask-icon" href="/images/avatar.png" color="#222">
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/atouming.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/atouming.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/atouming.png">
+  <link rel="mask-icon" href="/images/avatar.ico" color="#222">
 
 <link rel="stylesheet" href="/css/main.css">
 
 
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha256-Z1K5uhUaJXA7Ll0XrZ/0JhX4lAtZFpT6jkKrEDT0drU=" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha256-dABdfBfUoC8vJUBOwGVdm8L9qlMWaHTIfXt+7GnZCIo=" crossorigin="anonymous">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.1/animate.min.css" integrity="sha256-PR7ttpcvz8qrF57fur/yAx1qXMFJeJFiA6pSzWi0OIE=" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/themes/black/pace-theme-minimal.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/pace/1.2.4/pace.min.js" integrity="sha256-gqd7YTjg/BtfqWSwsJOvndl0Bxc8gFImLEkXQT8+qj0=" crossorigin="anonymous"></script>
 
-<script class="next-config" data-name="main" type="application/json">{"hostname":"blog.zhangyisui.top","root":"/","images":"/images","scheme":"Gemini","darkmode":false,"version":"8.14.1","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12},"copycode":{"enable":false,"style":null},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":true,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"trigger":"auto","top_n_per_article":4,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
+<script class="next-config" data-name="main" type="application/json">{"hostname":"blog.zhangyisui.top","root":"/","images":"/images","scheme":"Gemini","darkmode":"auto","version":"8.22.0","exturl":false,"sidebar":{"position":"left","width_expanded":320,"width_dual_column":240,"display":"post","padding":18,"offset":12},"hljswrap":true,"copycode":{"enable":true,"style":null},"fold":{"enable":true,"height":500},"bookmark":{"enable":false,"color":"#222","save":"auto"},"mediumzoom":false,"lazyload":false,"pangu":true,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":true,"nav":null},"stickytabs":false,"motion":{"enable":true,"async":false,"duration":200,"transition":{"menu_item":"fadeInDown","post_block":"fadeIn","post_header":"fadeInDown","post_body":"fadeInDown","coll_header":"fadeInLeft","sidebar":"fadeInUp"}},"prism":false,"i18n":{"placeholder":"搜索...","empty":"没有找到任何搜索结果：${query}","hits_time":"找到 ${hits} 个搜索结果（用时 ${time} 毫秒）","hits":"找到 ${hits} 个搜索结果"},"path":"/search.xml","localsearch":{"enable":true,"top_n_per_article":1,"unescape":false,"preload":false}}</script><script src="/js/config.js"></script>
 
     <meta name="description" content="临近期末，或者可能有很多人已经放假了，又到了一年两度搞定网课的时节，但手刷实在太累，而且很耗时间，毕竟实在太多又没什么营养因此，出现了网课代刷服务，，不过刷过的可能知道，这行业水很深，价格浮动频繁，虽然不贵，两块到五块一门，但课多的话就是多倍花钱而且质量参差不齐，有时练习题的答案都是脚本的废料因此出个小小的教程，自己动手丰衣足食，技术水准不高，见笑了">
 <meta property="og:type" content="article">
@@ -41,7 +44,6 @@
 <link rel="canonical" href="https://blog.zhangyisui.top/posts/e3d61257/">
 
 
-
 <script class="next-config" data-name="page" type="application/json">{"sidebar":"","isHome":false,"isPost":true,"lang":"zh-CN","comments":true,"permalink":"https://blog.zhangyisui.top/posts/e3d61257/","path":"posts/e3d61257/","title":"优雅的自动刷网课"}</script>
 
 <script class="next-config" data-name="calendar" type="application/json">""</script>
@@ -52,12 +54,11 @@
   <script async src="https://hm.baidu.com/hm.js?e292488a5341a370508618b517fdc72e"></script>
 
 
+  <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{&quot;token&quot;: &quot;c03a7a8790e34ca8916c298572348981&quot;}'></script>
 
 
 
-  <script async defer data-website-id="" src=""></script>
 
-  <script defer data-domain="" src=""></script>
 <link rel="dns-prefetch" href="https://comment.zhangyisui.top/">
   <noscript>
     <link rel="stylesheet" href="/css/noscript.css">
@@ -99,7 +100,7 @@
 
 
 <nav class="site-nav">
-  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li><li class="menu-item menu-item-rss"><a href="/atom.xml" rel="section"><i class="fa fa-rss fa-fw"></i>RSS</a></li>
+  <ul class="main-menu menu"><li class="menu-item menu-item-home"><a href="/" rel="section"><i class="fa fa-home fa-fw"></i>首页</a></li><li class="menu-item menu-item-categories"><a href="/categories/" rel="section"><i class="fa fa-th fa-fw"></i>分类</a></li><li class="menu-item menu-item-tags"><a href="/tags/" rel="section"><i class="fa fa-tags fa-fw"></i>标签</a></li><li class="menu-item menu-item-archives"><a href="/archives/" rel="section"><i class="fa fa-archive fa-fw"></i>归档</a></li><li class="menu-item menu-item-about"><a href="/about/" rel="section"><i class="fa fa-user fa-fw"></i>关于</a></li>
       <li class="menu-item menu-item-search">
         <a role="button" class="popup-trigger"><i class="fa fa-search fa-fw"></i>搜索
         </a>
@@ -110,25 +111,25 @@
 
 
   <div class="search-pop-overlay">
-    <div class="popup search-popup"><div class="search-header">
-  <span class="search-icon">
-    <i class="fa fa-search"></i>
-  </span>
-  <div class="search-input-container">
-    <input autocomplete="off" autocapitalize="off" maxlength="80"
-           placeholder="搜索..." spellcheck="false"
-           type="search" class="search-input">
-  </div>
-  <span class="popup-btn-close" role="button">
-    <i class="fa fa-times-circle"></i>
-  </span>
-</div>
-<div class="search-result-container no-result">
-  <div class="search-result-icon">
-    <i class="fa fa-spinner fa-pulse fa-5x"></i>
-  </div>
-</div>
-
+    <div class="popup search-popup">
+      <div class="search-header">
+        <span class="search-icon">
+          <i class="fa fa-search"></i>
+        </span>
+        <div class="search-input-container">
+          <input autocomplete="off" autocapitalize="off" maxlength="80"
+                placeholder="搜索..." spellcheck="false"
+                type="search" class="search-input">
+        </div>
+        <span class="popup-btn-close" role="button">
+          <i class="fa fa-times-circle"></i>
+        </span>
+      </div>
+      <div class="search-result-container">
+        <div class="search-result-icon">
+          <i class="fa fa-spinner fa-pulse fa-5x"></i>
+        </div>
+      </div>
     </div>
   </div>
 
@@ -157,7 +158,7 @@
         <div class="site-overview-wrap sidebar-panel">
           <div class="site-author animated" itemprop="author" itemscope itemtype="http://schema.org/Person">
     <img class="site-author-image" itemprop="image" alt="zhangyisui"
-      src="/images/avatar1.png">
+      src="/images/atoumingjuzhong.png">
   <p class="site-author-name" itemprop="name">zhangyisui</p>
   <div class="site-description" itemprop="description">尽可为欢欢亦短，浮生若梦梦几何</div>
 </div>
@@ -202,16 +203,16 @@
         </div>
         <ul class="links-of-blogroll-list">
             <li class="links-of-blogroll-item">
-              <a href="https://www.zhangyisui.top/" title="https:&#x2F;&#x2F;www.zhangyisui.top&#x2F;" rel="noopener" target="_blank">引导页</a>
+              <a href="https://www.zhangyisui.top/" title="https:&#x2F;&#x2F;www.zhangyisui.top" rel="noopener" target="_blank">引导页</a>
             </li>
             <li class="links-of-blogroll-item">
-              <a href="https://tool.zhangyisui.top/" title="https:&#x2F;&#x2F;tool.zhangyisui.top&#x2F;" rel="noopener" target="_blank">工具集</a>
+              <a href="https://tool.zhangyisui.top/" title="https:&#x2F;&#x2F;tool.zhangyisui.top" rel="noopener" target="_blank">工具集</a>
             </li>
             <li class="links-of-blogroll-item">
               <a href="http://zhangyebai.ysepan.com/" title="http:&#x2F;&#x2F;zhangyebai.ysepan.com&#x2F;" rel="noopener" target="_blank">资源页</a>
             </li>
             <li class="links-of-blogroll-item">
-              <a href="https://cube.zhangyisui.top/" title="https:&#x2F;&#x2F;cube.zhangyisui.top&#x2F;" rel="noopener" target="_blank">Cube</a>
+              <a href="https://cube.zhangyisui.top/" title="https:&#x2F;&#x2F;cube.zhangyisui.top" rel="noopener" target="_blank">cube</a>
             </li>
         </ul>
       </div>
@@ -235,7 +236,7 @@
     <link itemprop="mainEntityOfPage" href="https://blog.zhangyisui.top/posts/e3d61257/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/images/avatar1.png">
+      <meta itemprop="image" content="/images/atoumingjuzhong.png">
       <meta itemprop="name" content="zhangyisui">
     </span>
 
@@ -301,7 +302,7 @@
         <i class="far fa-file-word"></i>
       </span>
       <span class="post-meta-item-text">本文字数：</span>
-      <span>997</span>
+      <span>992</span>
     </span>
     <span class="post-meta-item" title="阅读时长">
       <span class="post-meta-item-icon">
@@ -318,8 +319,7 @@
     
     
     
-    <div class="post-body" itemprop="articleBody">
-        <p>临近期末，或者可能有很多人已经放假了，又到了一年两度搞定网课的时节，但手刷实在太累，而且很耗时间，毕竟实在太多又没什么营养<br>因此，出现了网课代刷服务，，不过刷过的可能知道，这行业水很深，价格浮动频繁，虽然不贵，两块到五块一门，但课多的话就是多倍花钱<br>而且质量参差不齐，有时练习题的答案都是脚本的废料<br>因此出个小小的教程，自己动手丰衣足食，技术水准不高，见笑了<span id="more"></span></p>
+    <div class="post-body" itemprop="articleBody"><p>临近期末，或者可能有很多人已经放假了，又到了一年两度搞定网课的时节，但手刷实在太累，而且很耗时间，毕竟实在太多又没什么营养<br>因此，出现了网课代刷服务，，不过刷过的可能知道，这行业水很深，价格浮动频繁，虽然不贵，两块到五块一门，但课多的话就是多倍花钱<br>而且质量参差不齐，有时练习题的答案都是脚本的废料<br>因此出个小小的教程，自己动手丰衣足食，技术水准不高，见笑了<span id="more"></span></p>
 <h2 id="part-one"><a href="#part-one" class="headerlink" title="part one"></a>part one</h2><p>第一步<br>安装油猴，有一定基础的话应该听说过，明白的人大概不会看这篇教学，所以假设你是个小白<br>油猴即Tampermonkey，是一款免费开源且强悍的浏览器扩展，本身是一个脚本管理器<br>如果你动手能力够强，靠这个关键词和百度就够了，通过油猴刷课只能说是诸多作用中的一个，还有更多作用等你挖掘<br>当然，你是个小白<br>市面上常见的浏览器大概有以下几种:<br>1、Chrome<br>2、QQ浏览器<br>3、Microsoft Edge（windows自带）<br>4、Safari（mac自带）<br>5、360浏览器<br>6、UC浏览器<br>7、Firefox（火狐）<br>8、opera</p>
 <p>建议首先在自带的扩展商店里寻找（chrome可能需要科学上网），直接搜索Tampermonkey安装即可<br>如果插件商店没有，建议直接到<a target="_blank" rel="noopener" href="https://www.tampermonkey.net/">油猴官网</a>下载（可能也需要科学上网，不过在我撰文时是可以正常访问的）<br>基本所有浏览器都能通过以上方法完成安装 （ps：下载时记得根据自己浏览器版本选择相应的插件版本）下载之后一路确定即可<br>这样最难的一步就结束了</p>
 <h2 id="part-two"><a href="#part-two" class="headerlink" title="part two"></a>part two</h2><p>第二步就简单得多,只要进入油猴的网上应用店安装脚本就可以了。<br>进入网上应用店只需要点击浏览器上的油猴图标（如下图），<br><img src="/images/111.png" alt="油猴图标"><br>点击获取新脚本，然后进入GreasyFork即可，当然也可以直接点击<a target="_blank" rel="noopener" href="https://greasyfork.org/zh-CN">这里</a><br>之后就更简单了<br>直接搜索超星或者学习通关键字然后选择一个自己喜欢的脚本安装即可<br>而后打开课程界面，脚本一般就会自动开始刷课了，只要一直挂着就好</p>
@@ -332,6 +332,23 @@
     
 
     <footer class="post-footer">
+          
+
+<div class="post-copyright">
+<ul>
+  <li class="post-copyright-author">
+      <strong>本文作者： </strong>zhangyisui
+  </li>
+  <li class="post-copyright-link">
+      <strong>本文链接：</strong>
+      <a href="https://blog.zhangyisui.top/posts/e3d61257/" title="优雅的自动刷网课">https://blog.zhangyisui.top/posts/e3d61257/</a>
+  </li>
+  <li class="post-copyright-license">
+      <strong>版权声明： </strong>本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="noopener" target="_blank"><i class="fab fa-fw fa-creative-commons"></i>BY-NC-SA</a> 许可协议。转载请注明出处！
+  </li>
+</ul>
+</div>
+
           <div class="followme">
   <span>欢迎关注我的其它发布渠道</span>
 
@@ -358,12 +375,12 @@
           <div class="post-nav">
             <div class="post-nav-item">
                 <a href="/posts/e3e2ebf2/" rel="prev" title="有礼貌的抱团喧闹者">
-                  <i class="fa fa-chevron-left"></i> 有礼貌的抱团喧闹者
+                  <i class="fa fa-angle-left"></i> 有礼貌的抱团喧闹者
                 </a>
             </div>
             <div class="post-nav-item">
                 <a href="/posts/8d600f7f/" rel="next" title="我的首次浪漫主义尝试">
-                  我的首次浪漫主义尝试 <i class="fa fa-chevron-right"></i>
+                  我的首次浪漫主义尝试 <i class="fa fa-angle-right"></i>
                 </a>
             </div>
           </div>
@@ -383,16 +400,16 @@
   <footer class="footer">
     <div class="footer-inner">
 
+  <div class="copyright">
+    &copy; 2020 – 
+    <span itemprop="copyrightYear">2025</span>
+    <span class="with-love">
+      <i class="fa fa-heart"></i>
+    </span>
+    <span class="author" itemprop="copyrightHolder">zhangyisui</span>
+  </div>
 
-<div class="copyright">
-  &copy; 2020 – 
-  <span itemprop="copyrightYear">2025</span>
-  <span class="with-love">
-    <i class="fa fa-heart"></i>
-  </span>
-  <span class="author" itemprop="copyrightHolder">zhangyisui</span>
-</div>
-
+<!-- 网站运行时间的设置 -->
 <div>
 <span id="timeDate">载入天数...</span><span id="times">载入时分秒...</span>
 <script>
@@ -412,15 +429,21 @@
 setInterval("createtime()",250);
 </script>
 </div>
-
     </div>
   </footer>
 
   
+  <div class="toggle sidebar-toggle" role="button">
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+    <span class="toggle-line"></span>
+  </div>
+  <div class="sidebar-dimmer"></div>
   <div class="back-to-top" role="button" aria-label="返回顶部">
     <i class="fa fa-arrow-up fa-lg"></i>
     <span>0%</span>
   </div>
+  <div class="reading-progress-bar"></div>
 
 <noscript>
   <div class="noscript-warning">Theme NexT works best with JavaScript enabled</div>
@@ -430,13 +453,16 @@ setInterval("createtime()",250);
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js" integrity="sha256-XL2inqUJaslATFnHdJOi9GfQ60on8Wx1C2H8DYiN1xY=" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/pangu/4.0.7/pangu.min.js" integrity="sha256-j+yj56cdEY2CwkVtGyz18fNybFGpMGJ8JxG3GSyO2+I=" crossorigin="anonymous"></script>
-<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/next-boot.js"></script>
+<script src="/js/comments.js"></script><script src="/js/utils.js"></script><script src="/js/motion.js"></script><script src="/js/sidebar.js"></script><script src="/js/next-boot.js"></script>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/hexo-generator-searchdb/1.4.1/search.js" integrity="sha256-1kfA5uHPf65M5cphT2dvymhkuyHPQp5A53EGZOnOLmc=" crossorigin="anonymous"></script>
 <script src="/js/third-party/search/local-search.js"></script>
 
 
 
+
+
+  <script src="/js/third-party/pace.js"></script>
 
 
   
