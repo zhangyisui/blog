@@ -274,7 +274,7 @@
 </ul>
 <hr>
 <h2 id="Contact-me"><a href="#Contact-me" class="headerlink" title="Contact me"></a>Contact me</h2><ul>
-<li>E-mail: <a href="mailto:&#122;&#x68;&#97;&#x6e;&#103;&#x79;&#105;&#115;&#x75;&#x69;&#x40;&#122;&#x68;&#97;&#x6e;&#x67;&#x79;&#x69;&#115;&#117;&#105;&#46;&#x74;&#111;&#112;">zhangyisui@zhangyisui.top</a></li>
+<li>E-mail: <a href="mailto:&#122;&#x68;&#x61;&#x6e;&#103;&#121;&#x69;&#x73;&#117;&#105;&#64;&#x7a;&#104;&#x61;&#x6e;&#x67;&#x79;&#105;&#x73;&#117;&#x69;&#46;&#116;&#111;&#112;">zhangyisui@zhangyisui.top</a></li>
 <li>公众号：冇趣阁</li>
 </ul>
 
@@ -303,7 +303,26 @@
     </span>
     <span class="author" itemprop="copyrightHolder">zhangyisui</span>
   </div>
-
+<div>
+<span id="timeDate">载入天数...</span>
+<span id="times">载入时分秒...</span>
+<script>
+    var now = new Date();
+    function createtime() {
+        var grt= new Date("04/07/2020 12:00:00");//此处修改你的建站时间或者网站上线时间
+        now.setTime(now.getTime()+250);
+        days = (now - grt ) / 1000 / 60 / 60 / 24; dnum = Math.floor(days);
+        hours = (now - grt ) / 1000 / 60 / 60 - (24 * dnum); hnum = Math.floor(hours);
+        if(String(hnum).length ==1 ){hnum = "0" + hnum;} minutes = (now - grt ) / 1000 /60 - (24 * 60 * dnum) - (60 * hnum);
+        mnum = Math.floor(minutes); if(String(mnum).length ==1 ){mnum = "0" + mnum;}
+        seconds = (now - grt ) / 1000 - (24 * 60 * 60 * dnum) - (60 * 60 * hnum) - (60 * mnum);
+        snum = Math.round(seconds); if(String(snum).length ==1 ){snum = "0" + snum;}
+        document.getElementById("timeDate").innerHTML = "已运行 "+dnum+" 天 ";
+        document.getElementById("times").innerHTML = hnum + " 小时 " + mnum + " 分 " + snum + " 秒";
+    }
+setInterval("createtime()",250);
+</script>
+</div>
     </div>
   </footer>
 
